@@ -27,13 +27,4 @@ Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque co
 
 *Publié sous licence CeCILL*
 
-<<<<<<< HEAD
-****blahblahblahblah TO romain DELETE ********
-****autre blahblahblahblah TO DELETE ********
-Ligne numéro 32 de romain :o)
-=======
-****blahblahblahblah TO WIL DELETE ********
-****autre blahblahblahblah TO DELETE ********
-****Ligne 1 wIL ********
-****Ligne 2 Wil ********
->>>>>>> origin/dev
+--- Fuck conflicts
