@@ -27,5 +27,7 @@ Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque co
 
 *Publié sous licence CeCILL*
 
-****blahblahblahblah TO DELETE ********
+****blahblahblahblah TO WIL DELETE ********
 ****autre blahblahblahblah TO DELETE ********
+****Ligne 1 wIL ********
+****Ligne 2 Wil ********
