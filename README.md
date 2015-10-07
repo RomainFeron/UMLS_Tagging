@@ -1,6 +1,6 @@
 # UMLS_Tagging
 ## EN
-UMLS Tagging project for Analysis of Textual Data course.
+UMLS Tagging project for Analysis of Textual Data course. LALALALALA
 
 This program is written for the course Analysis of Textual Data (Master 2 BIG, University of Rennes 1, 2016) from Vincent Claveau 
 by [Issa Diop](https://github.com/Issa-ARTbio), [Romain Feron](https://github.com/RomainFeron) and [Wilfried Poudroux](https://github.com/Nastrogoth).
@@ -12,6 +12,7 @@ This program tags emails archived from the [SFBI](http://www.sfbi.fr/) mailing l
 Please use this, it'll make things a lot easier (each commit also has a description containing all details)
 
 *Released under CeCILL license*
+LALALALALALAA
 
 ## FR
 Projet Annotation sémantique avec concepts UMLS pour le cours Analyse de Données Textuelles.
