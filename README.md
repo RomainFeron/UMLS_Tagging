@@ -12,7 +12,6 @@ This program tags emails archived from the [SFBI](http://www.sfbi.fr/) mailing l
 Please use this, it'll make things a lot easier (each commit also has a description containing all details)
 
 *Released under CeCILL license*
-LALALALALALAA
 
 ## FR
 Projet Annotation sémantique avec concepts UMLS pour le cours Analyse de Données Textuelles.
@@ -26,4 +25,7 @@ Ce programme annote une série d'emails provenant des archives de la [SFBI](http
 **Format de titre pour les commits: [votre nom] [YYYY-MM-DD] [précisions éventuelles]**  
 Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque commit a aussi une description contenant les détails)
 
-*Publié sous licence CeCILE
+
+*Publié sous licence CeCILLLEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE*
+
+--- Fuck conflicts
