@@ -25,6 +25,7 @@ Ce programme annote une série d'emails provenant des archives de la [SFBI](http
 **Format de titre pour les commits: [votre nom] [YYYY-MM-DD] [précisions éventuelles]**  
 Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque commit a aussi une description contenant les détails)
 
-*Publié sous licence CeCILL*
+
+*Publié sous licence CeCILLLEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE*
 
 --- Fuck conflicts
