@@ -27,5 +27,6 @@ Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque co
 
 *Publié sous licence CeCILL*
 
-****blahblahblahblah TO DELETE ********
+****blahblahblahblah TO romain DELETE ********
 ****autre blahblahblahblah TO DELETE ********
+Ligne numéro 32 de romain :o)
