@@ -1,6 +1,6 @@
 # UMLS_Tagging
 ## EN
-UMLS Tagging project for Analysis of Textual Data course. LALALALALA
+UMLS Tagging project for Analysis of Textual Data course.
 
 This program is written for the course Analysis of Textual Data (Master 2 BIG, University of Rennes 1, 2016) from Vincent Claveau 
 by [Issa Diop](https://github.com/Issa-ARTbio), [Romain Feron](https://github.com/RomainFeron) and [Wilfried Poudroux](https://github.com/Nastrogoth).
