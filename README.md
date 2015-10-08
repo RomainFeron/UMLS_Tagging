@@ -26,6 +26,3 @@ Ce programme annote une série d'emails provenant des archives de la [SFBI](http
 Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque commit a aussi une description contenant les détails)
 
 *Publié sous licence CeCILL*
-
-****blahblahblahblah TO DELETE ********
-****autre blahblahblahblah TO DELETE ********
