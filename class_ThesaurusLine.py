@@ -32,25 +32,6 @@ PEN|D012711|(131)I-Macroaggregated Albumin|0|N||
 
 class MetaThesaurusLine(object):
 
-    cui = ''
-    lat = ''
-    ts = ''
-    lui = ''
-    stt = ''
-    sui = ''
-    ispref = ''
-    aui = ''
-    saui = ''
-    scui = ''
-    sdui = ''
-    sab = ''
-    tty = ''
-    code = ''
-    string = ''
-    srl = ''
-    suppress = ''
-    cvf = ''
-
     def __init__(self, l):
         temp = l.split('|')
         self.cui = temp[0]
@@ -75,4 +56,4 @@ class MetaThesaurusLine(object):
 
 # l = "C0000005|ENG|P|L0000005|PF|S0007492|Y|A7755565||M0019694|D012711|MSH|PEN|D012711|(131)I-Macroaggregated Albumin|0|N||"
 # testLine = MetaThesaurusLine(l)
-# print(testLine.cui)
+# print(testLine.cui)w
