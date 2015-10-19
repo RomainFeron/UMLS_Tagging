@@ -6,12 +6,12 @@ import email.header
 #Basic loop on all documents checking if language worked
 with open('Documents/bioinfo_2014-02/1.recoded', encoding="utf-8") as mail:
     for root, directories, filenames in os.walk('Documents'):
-    for f in filenames:
-        if 'recoded' in f:
-            testMail ''= Mail(os.path.join(root,f))
-            print(os.path.join(root,f))
-            if testMail.lang != 'fr':
-                print(root+'/'+f+'/'+testMail.lang)
+        for f in filenames:
+            if 'recoded' in f:
+                testMail ''= Mail(os.path.join(root,f))
+                print(os.path.join(root,f))
+                if testMail.lang != 'fr':
+                    print(root+'/'+f+'/'+testMail.lang)
 
 #Basic test on subject parsing from only one file
 f='Documents/bioinfo_2014-04/1.recoded'
