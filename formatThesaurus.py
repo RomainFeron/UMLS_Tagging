@@ -1,12 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import cProfile
-from operator import itemgetter, attrgetter, methodcaller
-
 rawThesaurus = open('Documents/MRCONSO_2011AA.RRF', 'r', encoding='utf-8')
 
-languagesSelected = ['FRE','ENG']
+languagesSelected = ['FRE', 'ENG']
 
 """ Exemple de ligne:
 C0000005|ENG|P|L0000005|PF|S0007492|Y|A7755565||M0019694|D012711|MSH|
@@ -36,23 +33,12 @@ PEN|D012711|(131)I-Macroaggregated Albumin|0|N||
 
 """
 
-formattedThesaurus = open('Documents/FormattedThesaurus2.RRF', 'w', encoding='utf-8')
+formattedThesaurus = open('Documents/FormattedThesaurus.RRF', 'w', encoding='utf-8')
 
 
-def getKey(item):
-    return item[0]
-
-fT = []
+ft = []
 for line in rawThesaurus:
     temp = line.split('|')
     if temp[1] in languagesSelected:
-        l = [temp[14], temp[1], temp[0]]
-        fT.append(l)
-
-fT = sorted(fT,key = getKey)
-ft2 = []
-for i in ft:
-    fT2.append(ft[i][0] + '|' + ft[i][1] + '|' + ft[i][2] + '\n')
-ft2 = set(ft2)
-for i in fT:
-    formattedThesaurus.write(ft2[i])
+        l = temp[14] + "|" + temp[1] + "|" + temp[0]
+        formattedThesaurus.write(l)
