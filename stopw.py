@@ -8,8 +8,8 @@ def delete_stopW (mail_in= 'bodymail_test.txt'): #stop_wlist= 'French.txt')
     # sw = open ('French.txt', 'r')
 
     # with open ('stop_wlist') as sw:
-    # with open ('bodymail_test.txt', ) as bodymail:
-    bodymail = codecs.open ('bodymail_test.txt', 'r', "utf-8")
+    with open ('bodymail_test.txt', ) as bodymail:
+    # bodymail = codecs.open ('bodymail_test.txt', 'r', "utf-8")
     sw = stopwords.words("french")
         # with open ('mail_out') as mail:
     mail_f = ''
