@@ -1,8 +1,0 @@
-Bah en fait il se fait tard
-mais le principe est le suivant
-calculer un point stable (dx/dt)= 0  et dy/dt =0
-calculer la 'Jacobine'
-déterminer les valeurs de lambda 1 et 2 via diagonalisation de la 
-Jacobine (Trace=somme diag et déterminant=ad - bc) (abcd matrice 2*2)
-après faut voir...
-
