@@ -1,3 +1,5 @@
+Livrables attendu par V. Claveau
+
 Présentation du problème ( + données)
 Modalités d'évaluation, critères de succès,...
 Méthodes
@@ -9,16 +11,19 @@ Résultats
 Qui a fait quoi?
 Conclusions perpectives
 
-
+Note:
 Interface juste si temps (pas pris en compte dans notation)
 
+
+Modalités soutenance
 Présentation : 15 min + 5 min de questions
 Rapport: 5p (evnetuellement jusqu'à 10 p)
 + code à part
 Format PDF
 
 vincent.claveau@irisa.fr
-Object: projet ADT
+Object Email: projet ADT
 
+Temporel
 soutenance début décembre
 Rapport au même moment que la soutenance
