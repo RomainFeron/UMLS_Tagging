@@ -1,19 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import cProfile
-from operator import itemgetter, attrgetter, methodcaller
-
-l = []
-with open('extract.txt', 'r', encoding='utf-8') as fichier:
-
-    crazy = rawThesaurus.readlines()
-    test = MetaThesaurusLine(crazy[152])
-print(crazy[152])
-print('CUI : ' + test.cui)
-print('LANGUAGE : ' + test.lat)
-print('STRING : ' + test.string)
-
 rawThesaurus = open('Documents/MRCONSO_2011AA.RRF', 'r', encoding='utf-8')
 
 languagesSelected = ['FRE', 'ENG']
@@ -53,23 +40,10 @@ ft = []
 for line in rawThesaurus:
     temp = line.split('|')
     if temp[1] in languagesSelected:
-        l = [temp[14], temp[1], temp[0]]
-        fT.append(l)
-
-fT = sorted(fT,key = getKey)
-ft2 = []
-for i in ft:
-    fT2.append(ft[i][0] + '|' + ft[i][1] + '|' + ft[i][2] + '\n')
-ft2 = set(ft2)
-for i in fT:
-    formattedThesaurus.write(ft2[i])
-
         l = temp[14] + "|" + temp[1] + "|" + temp[0]
         ft.append(l)
-print(len(ft))
 
 ft = set(ft)
-print(len(ft))
 
 for i in ft:
     formattedThesaurus.write(i)
