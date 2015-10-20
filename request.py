@@ -8,18 +8,19 @@ thesaurus = thesaurus('Documents/FormattedThesaurus.RRF')
 
 mail = Mail('Documents/bioinfo_2014-04/10.recoded')
 
+text = 'The cell proteins are coded by a gene which has a certain function: Conorhinopsylla'
+
+print('Thesaurus Loaded')
+
 
 def request(thesaurus, text):
     res = []
-    i = 0
-    for line in thesaurus.data:
-        if(i % 1000 == 0):
-            print(i)
+    for line in thesaurus.data[0:100]:
         concept = line.split('|')[0]
         pos = text.find(concept)
         if pos != -1:
-            res.append([concept, line.split('|')[2], pos])
-        i += 1
+            res.append([concept, line.split('|')[2][:-1], pos])
     return res
 
-test = request(thesaurus, mail.body)
+test = request(thesaurus, text)
+print(test)
