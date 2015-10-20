@@ -65,4 +65,11 @@ for i in fT:
     formattedThesaurus.write(ft2[i])
 
         l = temp[14] + "|" + temp[1] + "|" + temp[0]
-        formattedThesaurus.write(l)
+        ft.append(l)
+print(len(ft))
+
+ft = set(ft)
+print(len(ft))
+
+for i in ft:
+    formattedThesaurus.write(i)
