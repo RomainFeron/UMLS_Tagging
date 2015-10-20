@@ -40,7 +40,7 @@ ft = []
 for line in rawThesaurus:
     temp = line.split('|')
     if temp[1] in languagesSelected:
-        l = temp[14] + "|" + temp[1] + "|" + temp[0]
+        l = temp[14] + "|" + temp[1] + "|" + temp[0] + ' \n '
         ft.append(l)
 
 ft = set(ft)
