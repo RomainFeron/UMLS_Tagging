@@ -1,39 +1,9 @@
-Proposed Workflow for data processing
+Workflow
 
-Quick Aim : tagging E-mail corpus using UMLS 'CUI'
+Simplified steps to be performed sequencially:
+Raw Email
+Parse Email : Title / Object / Body
+Prepare Thesaurus : String / Language / CUI
+For each String in Thesaurus, look for exact matching in each document. Table creation: CUI : docId (exple : C00003 : 1, 23, 523, 812; C000234 : 119, 670 ...
 
-Roadmap:
-
-#1: approach 'strict matching' :
-    KMP implementation : from a query, being able to seek inside doc.txt.
-       	   		    extend to corpus
-			    for each CUI in corpus, list of docs
-
-
-#2: optimization :
-    BM implementation : idem KMP (should work better than KMP as it's a long alphabet)
-    Language detection (risk of decreased precision... to be discussed)
-    	     IDEAS : same lang only comparison otherwise next doc
-    Suffix tree (quite hard to implement....)
-    
-
-#3: shooting wider
-    strategies to improve recall
-    	       IDEAS: using re module => REGEX / similarity index
-	       
-	       
-
-#4: other ways of thinking => experimental
-    IDEAS : pattern matching / docs approach instead of thesaurus / ...
-
-
-Evaluation:		
-	software (more informations needed)
-	human expertise (our own)  => tool to be developped to ease manual curation
-	      	Assessement : 30 docs (20 FR / 10 EN) - 2 reviewers by doc - comparison in each notation
-		IDEAS: lexicogrpahic ordering of TH strings / 2x10 window display around the query
-		=> important: remove reference docs from corpus
-
-Polishing (not a priority as not evaluated):
-	 XML output by rebuilding each E-mail
-	 Web based visualization.
+TO BE EXPANSED
