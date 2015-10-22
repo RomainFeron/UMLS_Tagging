@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-rawThesaurus = open('Documents/MRCONSO_2011AA.RRF', 'r', encoding='utf-8')
+rawThesaurus = open('ressources/MRCONSO_2011AA.RRF', 'r', encoding='utf-8')
 
 languagesSelected = ['FRE', 'ENG']
 
