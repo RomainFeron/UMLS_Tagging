@@ -33,15 +33,17 @@ PEN|D012711|(131)I-Macroaggregated Albumin|0|N||
 
 """
 
-formattedThesaurus = open('Documents/FormattedThesaurus.RRF', 'w', encoding='utf-8')
+formattedThesaurus = open('ressources/FormattedThesaurus.RRF', 'w', encoding='utf-8')
 
 
 ft = []
 for line in rawThesaurus:
     temp = line.split('|')
-    if temp[1] in languagesSelected:
-        l = temp[14] + "|" + temp[1] + "|" + temp[0] + '\n'
-        ft.append(l)
+    if temp[1] == 'FRE':
+        l = temp[14] + "|" + str(1) + "|" + temp[0] + '\n'
+    elif temp[1] == 'ENG':
+        l = temp[14] + "|" + str(0) + "|" + temp[0] + '\n'
+    ft.append(l)
 
 ft = list(set(ft))
 

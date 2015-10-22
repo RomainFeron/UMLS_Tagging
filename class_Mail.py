@@ -71,19 +71,3 @@ class Mail(object):
         if len(self.body) > 10:
             self.lang = detect(self.body)
 
-# Exemples d'utilisations de la classe
-# testMail = Mail('Documents/bioinfo_2014-04/1.recoded')
-# print('Subject: ', testMail.subject)
-# print('From: ', testMail.sender)
-# print('Date: ', testMail.date)
-# print('Body:', testMail.body)
-# print('Language:', testMail.lang)
-
-# Juste un test pour voir si tous les fichiers mails pouvaient bien
-# être ouverts et stockés dans une liste (prend quasiment pas de mémoire)
-# listMails = []
-# for root, directories, filenames in os.walk('Documents'):
-#     for f in filenames:
-#         if 'recoded' in f:
-#             # print(os.path.join(root,f))
-#             listMails.append(Mail(os.path.join(root, f)))
