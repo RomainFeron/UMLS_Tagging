@@ -1,0 +1,9 @@
+Workflow
+
+Simplified steps to be performed sequencially:
+Raw Email
+Parse Email : Title / Object / Body
+Prepare Thesaurus : String / Language / CUI
+For each String in Thesaurus, look for exact matching in each document. Table creation: CUI : docId (exple : C00003 : 1, 23, 523, 812; C000234 : 119, 670 ...
+
+TO BE EXPANSED

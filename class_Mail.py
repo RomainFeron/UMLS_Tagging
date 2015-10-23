@@ -4,7 +4,6 @@
 import datetime
 import email.header
 from langdetect import detect
-import os
 
 """La classe Mail est dédiée au stockage des informations contenue
  dans chaque email.
@@ -14,13 +13,8 @@ import os
 
 class Mail(object):
 
-    subject = ''  # Sujet de l'email
-    sender = ''  # Envoyeur de l'email
-    date = ''  # Date de l'email
-    body = ''  # Contenu de l'email
-    lang = 'fr'  # Langage de l'email (français par défaut)
-
     # Crée un objet Mail à partir d'un fichier f
+
     def __init__(self, f):
         with open(f) as mail:
             bodyFound = False
@@ -70,22 +64,3 @@ class Mail(object):
         # Trouve le langage de l'email avec la lib langdetect
         if len(self.body) > 10:
             self.lang = detect(self.body)
-
-# Exemples d'utilisations de la classe
-testMail = Mail('1.recoded')
-# print('Subject: ', testMail.subject)
-# print('From: ', testMail.sender)
-# print('Date: ', testMail.date)
-print('Body:', testMail.body)
-# print('Language:', testMail.lang)
-
-# Juste un test pour voir si tous les fichiers mails pouvaient bien
-# # être ouverts et stockés dans une liste (prend quasiment pas de mémoire)
-# listMails = []
-# for root, directories, filenames in os.walk('Documents'):
-#     for f in filenames:
-#         if 'recoded' in f:
-#             # print(os.path.join(root,f))
-#             listMails.append(Mail(os.path.join(root, f)))
-#
-# print(len(listMails))
