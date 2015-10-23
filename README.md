@@ -11,9 +11,8 @@ This program tags emails archived from the [SFBI](http://www.sfbi.fr/) mailing l
 Please use this, it'll make things a lot easier (each commit also has a description containing all details)
 
 *Released under CeCILL license*
-[Project Forum](https://groups.google.com/d/forum/umls_tagging# 
-UMLS_Tagging
-)
+
+[Project Forum](https://groups.google.com/d/forum/umls_tagging# UMLS_Tagging)
 ## FR
 Projet Annotation sémantique avec concepts UMLS pour le cours Analyse de Données Textuelles.
 
@@ -28,5 +27,5 @@ Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque co
 
 
 *Publié sous licence CeCILL*
-[Forum du projet](https://groups.google.com/d/forum/umls_tagging# UMLS_Tagging
-)
+
+[Forum du projet](https://groups.google.com/d/forum/umls_tagging# UMLS_Tagging)
