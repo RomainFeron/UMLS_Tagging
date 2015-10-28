@@ -3,6 +3,8 @@
 import time
 import sys
 
+""" File to be tested passed as argument """
+
 
 nb_ligne = 0
 

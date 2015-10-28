@@ -30,3 +30,6 @@ Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque co
 *Publié sous licence CeCILL*
 [Forum du projet](https://groups.google.com/d/forum/umls_tagging# UMLS_Tagging
 )
+=======
+*Publié sous licence CeCILL*
+
