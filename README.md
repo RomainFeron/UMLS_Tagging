@@ -1,10 +1,5 @@
 ## EN
-<<<<<<< HEAD
 UMLS Tagging project for Analysis of Textual Data course. 
-=======
-
-UMLS Tagging project for Analysis of Textual Data course.
->>>>>>> 80073a848c4c5fbdaa91f8ee13158516c90d777c
 
 This program is written for the course Analysis of Textual Data (Master 2 BIG, University of Rennes 1, 2016) from Vincent Claveau
 by [Issa Diop](https://github.com/Issa-ARTbio), [Romain Feron](https://github.com/RomainFeron) and [Wilfried Poudroux](https://github.com/NastroTFG).
@@ -18,6 +13,7 @@ Please use this, it'll make things a lot easier (each commit also has a descript
 *Released under CeCILL license*
 
 [Project Forum](https://groups.google.com/d/forum/umls_tagging# UMLS_Tagging)
+
 ## FR
 Projet Annotation sémantique avec concepts UMLS pour le cours Analyse de Données Textuelles.
 
@@ -32,13 +28,5 @@ Utilisez ce format svp, ce sera beaucoup plus simple de s'y retrouver (chaque co
 
 
 *Publié sous licence CeCILL*
-<<<<<<< HEAD
-[Forum du projet](https://groups.google.com/d/forum/umls_tagging# UMLS_Tagging
-)
-=======
-*Publié sous licence CeCILL*
-
-=======
 
 [Forum du projet](https://groups.google.com/d/forum/umls_tagging# UMLS_Tagging)
->>>>>>> 80073a848c4c5fbdaa91f8ee13158516c90d777c
