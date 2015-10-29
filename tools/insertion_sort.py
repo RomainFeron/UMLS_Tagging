@@ -1,5 +1,5 @@
 import random as rand
-import sys
+import sysx
 import time
 
 source = []
