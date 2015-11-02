@@ -16,6 +16,11 @@ class Mail(object):
     # Crée un objet Mail à partir d'un fichier f
 
     def __init__(self, f):
+        self.subject = ''
+        self.body = ''
+        self.lang = ''
+        self.date = ''
+        self.sender = ''
         with open(f) as mail:
             bodyFound = False
             for line in mail:

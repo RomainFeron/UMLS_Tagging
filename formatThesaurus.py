@@ -3,18 +3,7 @@
 
 
 rawThesaurus = open('ressources/MRCONSO_2011AA.RRF', 'r', encoding='utf-8')
-
-
-
-l = []
-with open('extract.txt', 'r', encoding='utf-8') as fichier:
-
-
-from class_ThesaurusLine import MetaThesaurusLine
-
-
-languagesSelected = ['FRE', 'ENG']
-
+formattedThesaurus = open('ressources/FormattedThesaurus.RRF', 'w', encoding='utf-8')
 
 """ Exemple de ligne:
 C0000005|ENG|P|L0000005|PF|S0007492|Y|A7755565||M0019694|D012711|MSH|
@@ -44,27 +33,16 @@ PEN|D012711|(131)I-Macroaggregated Albumin|0|N||
 
 """
 
-formattedThesaurus = open('ressources/FormattedThesaurus.RRF', 'w', encoding='utf-8')
-
+forbidden = ['[']
 
 ft = []
 for line in rawThesaurus:
     temp = line.split('|')
-    if temp[1] == 'FRE':
-        l = temp[14] + "|" + str(1) + "|" + temp[0] + '\n'
-    elif temp[1] == 'ENG':
-        l = temp[14] + "|" + str(0) + "|" + temp[0] + '\n'
-    ft.append(l)
+    if(len(temp[14])>1 and temp[14][0] not in forbidden):
+        if temp[1] == 'FRE' or temp[1] == 'ENG':
+            ft.append(temp[14] + '|' + temp[0] + '\n')
 
 ft = list(set(ft))
 
 for i in ft:
     formattedThesaurus.write(i)
-
-    crazy = rawThesaurus.readlines()
-    test = MetaThesaurusLine(crazy[152])
-
-print(crazy[152])
-print('CUI : ' + test.cui)
-print('LANGUAGE : ' + test.lat)
-print('STRING : ' + test.string)
