@@ -1,7 +1,10 @@
 import re
 import sys
 
-"""Recherche d'une chaine de caractère dans le FormatedTh à"""
+"""Recherche d'une chaine de caractère dans le FormatedTh
+exple utilisation: python3 searchTh.py ' analyses? * réseaux? '
+"""
+
 
 pathTh= '../ressources/FormattedThesaurus.RRF'
 #pathTh = './fichier_tst.txt'
