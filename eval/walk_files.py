@@ -15,7 +15,7 @@ for root, directories, filenames in os.walk('../ressources'):
 print("Nb fichiers: " + str(len(listFile)))
 
 """chemin des E-mails references"""
-nb_extrait = 30 # nb d'email a extraire
+nb_extrait = 60 # nb d'email a extraire
 sel = []
 random.seed(3,version=2) # fixation seed
 sel = random.sample(listFile,nb_extrait)
@@ -30,7 +30,15 @@ for file in sel:
     cpfich = os.path.split(file)
     dir = os.path.basename(cpfich[0])
     path = os.path.join(path,dir,cpfich[1])
-    print("source: " +file + "    dest: " +path + "   rep: " +os.path.dirname(path))
+    #sortie confirmation
+    #print("source: " +file + "    dest: " +path + "   rep: " +os.path.dirname(path)) #complet avec path intermediaires
+    print("   rep: " +os.path.dirname(path))
+
     if not os.path.isdir(os.path.dirname(path)):
         os.mkdir(os.path.dirname(path))
     shutil.copy(file, path)
+
+
+
+
+    
