@@ -3,7 +3,6 @@
 
 import datetime
 import email.header
-from langdetect import detect
 
 """La classe Mail est dédiée au stockage des informations contenue
  dans chaque email.
@@ -18,10 +17,9 @@ class Mail(object):
     def __init__(self, f):
         self.subject = ''
         self.body = ''
-        self.lang = ''
         self.date = ''
         self.sender = ''
-        with open(f) as mail:
+        with open(f, encoding='utf-8') as mail:
             bodyFound = False
             for line in mail:
                 # Récupère toutes les lignes faisant partie du contenu
@@ -66,6 +64,3 @@ class Mail(object):
                     s = s.replace(":", "")
                     self.date = datetime.datetime.strptime(
                         s, "%a%d%b%Y%H%M%S%z")
-        # Trouve le langage de l'email avec la lib langdetect
-        if len(self.body) > 10:
-            self.lang = detect(self.body)
