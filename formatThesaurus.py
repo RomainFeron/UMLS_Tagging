@@ -64,3 +64,5 @@ def createThesaurus(rThesaurus, fThesaurus):
     for i in ft:
         formattedThesaurus.write(i)
     print("Your thesaurus is now up to date.")
+    rawThesaurus.close()
+    formattedThesaurus.close()
