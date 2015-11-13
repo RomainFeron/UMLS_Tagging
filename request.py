@@ -6,7 +6,7 @@ from class_Mail import Mail
 thesaurus = open('ressources/FormattedThesaurus.RRF','r',encoding = 'utf-8')
 #data = thesaurus.readlines()
 
-mail = Mail('ressources/bioinfo_2014-04/10.recoded')
+mail = Mail('ressources/mails/bioinfo_2014-04/10.recoded')
 text = 'The cell proteins are coded by a gene which has a certain function: Conorhinopsylla'
 
 print('Thesaurus Loaded')
