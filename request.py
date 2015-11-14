@@ -16,6 +16,7 @@ def request(data, text):
     for line in data:
         concept = line.split('|')[0]
         pos = text.find(concept)
+        
         if pos != -1:
             res.append([concept, line.split('|')[1][:-1], pos])
     return res
