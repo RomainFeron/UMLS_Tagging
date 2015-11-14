@@ -29,10 +29,10 @@ def findEntrie(thesaurus, email, output):
                     c = myword.count(w)
                     if c >= 1:
                         print (c)
+
             out.write (' Word(s) in mail = ' + clef +'\n'+ ' Position = ' +  str(mypos) + 'th character' +'\n'+ ' Line in Thesaurus = ' + line +'\n')
 
     out.close()
-
 email = 'bodymail.txt'
 thesaurus = 'formattedThesaurus'
 output = 'fichierDeSortie.txt'
