@@ -66,3 +66,21 @@ def createThesaurus(rThesaurus, fThesaurus):
     print("Your thesaurus is now up to date.")
     rawThesaurus.close()
     formattedThesaurus.close()
+
+def createThesaurusHardcore(rThesaurus, fThesaurus):
+    print('Generating new thesaurus file (this can take a while)...')
+    rawThesaurus = open(rThesaurus, 'r', encoding='utf-8')
+    formattedThesaurus = open(fThesaurus, 'w', encoding='utf-8')
+    forbidden = ['[']
+    ft = []
+    for line in rawThesaurus:
+        temp = line.split('|')
+        if(len(temp[14]) > 2 and temp[14][0] not in forbidden):
+            if temp[1] == 'FRE' or temp[1] == 'ENG':
+                ft.append(temp[14] + '|' + temp[0] + '\n')
+    ft = list(set(ft))
+    for i in ft:
+        formattedThesaurus.write(i)
+    print("Your thesaurus is now up to date.")
+    rawThesaurus.close()
+    formattedThesaurus.close()

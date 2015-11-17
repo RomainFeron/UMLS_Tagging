@@ -15,6 +15,7 @@ class Mail(object):
     # Crée un objet Mail à partir d'un fichier f
 
     def __init__(self, f):
+        self.title = f.split('/')[2] + '/' + f.split('/')[3].strip('.recoded')
         self.subject = ''
         self.body = ''
         self.date = ''
