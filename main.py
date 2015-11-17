@@ -21,15 +21,18 @@ os.path.dirname(os.path.abspath(__file__))
 
 # Checking if thesaurus exists and is correctly formatted
 # If not, create it
-if not checkThesaurus(tPath, tSize):
-    if hardcordeMode:
-        createThesaurusHardcore(rPath, tPath, tSizeHardcore)
-    else:
-        createThesaurus(rPath, tPath, tSize)
+if hardcordeMode:
+    print('You are in hardcore mode')
+    if not checkThesaurus(tPath, tSizeHardcore):
+        createThesaurusHardcore(rPath, tPath)
+else:
+    if not checkThesaurus(tPath, tSize):
+        createThesaurus(rPath, tPath)
 
 # Open the new thesaurus and store it in memory
-with open(tPath, encoding='utf-8') as f:
-    thesaurus = list(f)
+f = open(tPath, encoding='utf-8')
+thesaurus = list(f)
+f.close()
 
 with open(oPath, 'w', encoding='utf-8') as output_file:
     # Main part: open each email and tag them

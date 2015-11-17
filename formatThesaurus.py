@@ -67,6 +67,7 @@ def createThesaurus(rThesaurus, fThesaurus):
     rawThesaurus.close()
     formattedThesaurus.close()
 
+
 def createThesaurusHardcore(rThesaurus, fThesaurus):
     print('Generating new thesaurus file (this can take a while)...')
     rawThesaurus = open(rThesaurus, 'r', encoding='utf-8')
