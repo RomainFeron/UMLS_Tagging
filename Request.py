@@ -1,39 +1,47 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 import re
 
-''' Fontion Requête : Input = Thesaurus et bodymail, output = words, position in mail and the line in the Thesaurus'''
 def findEntrie(thesaurus, email, output):
     TH = open(thesaurus,'r',encoding = 'utf-8')
-    mail = open (email, 'r',encoding = 'utf-8' )
-    text = ''
-    for line in mail:
-        text= text+line
+    print ('reading thesaurus...')
     out = open (output, 'w', encoding = 'utf-8')
-    myword = []
     sp= ' '
+    dico_clef = {}
     for line in TH:
-        line = line[:-1]
-        clef = line.split('|')[0]
-        if clef in text:
-            x= len(clef)
-            mypos = text.index(clef)
-            if text[mypos-1] == sp:
-                #Pour recuperer après l'entrée la plus longue
-                myword.append(clef)
-                p = myword.sort (key=len, reverse =True)
-                c=False
-                if x != -1:
-                    w = clef.split(sp)[0]
-                    c = myword.count(w)
-                    if c >= 1:
-                        print (c)
-
-            out.write (' Word(s) in mail = ' + clef +'\n'+ ' Position = ' +  str(mypos) + 'th character' +'\n'+ ' Line in Thesaurus = ' + line +'\n')
+        # Vérifie si line n'est pas vide
+        if line.strip()!="":
+        # line = line[:-1]
+            clef = line.split('|')[0]
+            mail = open (email, 'r',encoding = 'utf-8' )
+            #Comteur du nombre de ligne dans mon mail
+            # nbreligne=1
+            # rep=0
+            dict_ligne = {} # stockage de mes lignes dans le mail
+            for ligne in mail:
+                mypos = ligne.find(clef)
+                if ligne.strip()!=0:
+                    if clef in ligne and ligne[mypos-1] == sp :
+                        # print (clef)
+                        if True:
+                            listemot=ligne.split(clef)
+                            bef = listemot[0].split()
+                            aft = listemot[1].split()
+                            len_b = len(bef)
+                            len_a = len(aft)
+                            wb = bef[len_b -1]
+                            wa = aft[len_a -1]
+                            print ('la clef --', clef)
+                            print ('mot avant = ', wb)
+                            print ('la position est', mypos )
+                            print ('mot après = ', wa)
+                            print (' line in Thesaurus = ', line)
+                            nbr=len(ligne.split(clef))-1
+                            out.write (' Entrée trouvée dans le mail --->' +'\t'+ clef +'\n'+ ' Position = ' + str(mypos) + 'th character' +'\n'+ ' Line in Thesaurus = ' + line + 'Context dans le mail : ' + '\t' +  wb +sp+clef+sp+  wa + '\n'+'-------------------' + '\n')
 
     out.close()
-email = 'bodymail.txt'
-thesaurus = 'formattedThesaurus'
-output = 'fichierDeSortie.txt'
+email = 'ressources/mails/bioinfo_2014-01/58.recoded'
+# 'bodymail_test.txt'
+thesaurus = 'ressources/FormattedThesaurus.RRF'
+output = 'sortie.txt'
 test = findEntrie(thesaurus, email, output)
