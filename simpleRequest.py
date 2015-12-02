@@ -3,7 +3,6 @@
 
 from class_Mail import Mail
 
-
 def verifyEntryIsWord(clef, text, pos):
     okChar = [' ', '.', ',', ';', ':']
     if clef in text:
@@ -24,8 +23,7 @@ def findEntryInText(clef, text):
 
 def output(output_file, clef, pos, CUI, mail, mailPart):
     op = CUI + '|' + clef + '|' + str(pos) + '|' + mailPart + '|' + mail
-    output_file.write(op + '\n')
-
+    output_file.write('CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail' + '\n' + '-----------------------' +'\n'+ op + '\n' +'\n' )
 
 def findEntries(thesaurus, mail, ofile):
     subject = mail.subject
@@ -41,8 +39,9 @@ def findEntries(thesaurus, mail, ofile):
             if (body_pos != -1):
                 output(ofile, clef, body_pos, CUI, mail.title, 'B')
 
+# print ('CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail')
 
-email = Mail('ressources/mails/bioinfo_2014-01/58.recoded')
+email = Mail('ressources/mails/bioinfo_2014-04/27.recoded')
 # 'bodymail_test.txt'
 f = open('ressources/FormattedThesaurus.RRF', encoding='utf-8')
 thesaurus = list(f)
