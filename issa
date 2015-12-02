@@ -1,0 +1,26 @@
+eval_files
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch master
+# Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   eval_files
+#
+# Changes not staged for commit:
+#	modified:   ressources/mails/bioinfo_2014-06/42.recoded
+#	modified:   ressources/mails/bioinfo_2014-08/26.recoded
+#	modified:   simpleRequest.py
+#
+# Untracked files:
+#	eval/cp_docs/bioinfo_2014-01/30.recoded.eval
+#	eval/cp_docs/bioinfo_2014-04/27.recoded.eval
+#	eval/cp_docs/bioinfo_2014-05/31.recoded.eval
+#	eval/cp_docs/bioinfo_2014-06/29.recoded.eval
+#	eval/cp_docs/bioinfo_2014-06/34.recoded.eval
+#	eval/cp_docs/bioinfo_2014-06/42.recoded.eval
+#	sortie.txt
+#

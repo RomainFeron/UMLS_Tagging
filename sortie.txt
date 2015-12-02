@@ -1,0 +1,184 @@
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1548287|Research|2302|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0205556|qualitative|1953|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1552456|Research|2302|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C2348077|Date|327|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0011008|Date|327|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0687670|mis|3011|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1317949|transport|2987|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0726639|impact|1606|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1546466|Problems|2277|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0918012|indexes|2537|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0016674|France|711|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0024944|Maurice|766|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0332149|possible|3452|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1533716|informations|377|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1414864|Les|373|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0041740|Université|3670|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0683597|liaison|3367|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0591239|cedex|3765|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0549177|large|840|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1547350|Date|327|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0013806|est|643|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0035168|Research|2302|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0242747|mars|2960|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0005528|transport|2987|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0242481|Research|2302|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0442504|place|3018|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1880157|Computational|2253|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0013227|Medicine|2267|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0026914|mai|109|S|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0026914|mai|113|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0037633|solutions|2442|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0025118|Medicine|2267|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0230113|fin|2917|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0562518|village|2758|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1550513|via|2007|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1516769|Computational|2253|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0449738|direction|753|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0887950|genomic|2549|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0231961|TGV|3222|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1550715|direction|753|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0022192|Ile|90|S|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0022192|Ile|94|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C0037633|Solutions|2287|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C1548309|Date|327|B|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C2718284|mai|109|S|bioinfo_2014-04/27
+
+CUI|n-gram|position in mail|S: Subject of mail; B = text Body of mail| Document containing the mail
+-----------------------
+C2718284|mai|113|B|bioinfo_2014-04/27
+
