@@ -3,6 +3,7 @@
 
 import datetime
 import email.header
+import os
 
 """La classe Mail est dédiée au stockage des informations contenue
  dans chaque email.
@@ -15,7 +16,9 @@ class Mail(object):
     # Crée un objet Mail à partir d'un fichier f
 
     def __init__(self, f):
-        self.title = f.split('/')[2] + '/' + f.split('/')[3].strip('.recoded')
+        folders = f.split(os.sep)
+        self.title = folders[len(folders)-2] + '_' + folders[len(folders)-1].strip('.recoded')
+        print(self.title)
         self.subject = ''
         self.body = ''
         self.date = ''

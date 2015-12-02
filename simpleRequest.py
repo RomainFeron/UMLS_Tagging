@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import os
 from class_Mail import Mail
 
 
@@ -27,26 +28,28 @@ def output(output_file, clef, pos, CUI, mail, mailPart):
     output_file.write(op + '\n')
 
 
-def findEntries(thesaurus, mail, ofile):
-    subject = mail.subject
-    body = mail.body
-    for line in thesaurus:
-        if line.strip() != "":
-            clef = line.split('|')[0]
-            CUI = line.split('|')[1].strip('\n')
-            subject_pos = findEntryInText(clef, subject)
-            if (subject_pos != -1):
-                output(ofile, clef, subject_pos, CUI, mail.title, 'S')
-            body_pos = findEntryInText(clef, body)
-            if (body_pos != -1):
-                output(ofile, clef, body_pos, CUI, mail.title, 'B')
+def findEntries(thesaurus, mail, oPath):
+    outFilePath = oPath + '/' + mail.title + '.txt'
+    with open(outFilePath,'w', encoding='utf-8') as ofile:
+        subject = mail.subject
+        body = mail.body
+        for line in thesaurus:
+            if line.strip() != "":
+                clef = line.split('|')[0]
+                CUI = line.split('|')[1].strip('\n')
+                subject_pos = findEntryInText(clef, subject)
+                if (subject_pos != -1):
+                    output(ofile, clef, subject_pos, CUI, mail.title, 'S')
+                body_pos = findEntryInText(clef, body)
+                if (body_pos != -1):
+                    output(ofile, clef, body_pos, CUI, mail.title, 'B')
 
 
-email = Mail('ressources/mails/bioinfo_2014-01/58.recoded')
-# 'bodymail_test.txt'
-f = open('ressources/FormattedThesaurus.RRF', encoding='utf-8')
-thesaurus = list(f)
-f.close()
-ofilePath = 'sortie.txt'
-ofile = open(ofilePath, 'w', encoding='utf-8')
-test = findEntries(thesaurus, email, ofile)
+# email = Mail('ressources/mails/bioinfo_2014-01/58.recoded')
+# # 'bodymail_test.txt'
+# f = open('ressources/FormattedThesaurus.RRF', encoding='utf-8')
+# thesaurus = list(f)
+# f.close()
+# ofilePath = 'sortie.txt'
+# ofile = open(ofilePath, 'w', encoding='utf-8')
+# test = findEntries(thesaurus, email, ofile)
