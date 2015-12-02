@@ -1,0 +1,48 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import os
+
+"""liste ensemble des fichiers .eval"""
+list_file = []
+for root, directories, filenames in os.walk('./cp_docs/'):
+    for f in filenames:
+        if 'eval' in f:
+            list_file.append(os.path.join(root,f))
+print("Nb fichiers eval trouves: " + str(len(list_file)))
+
+list_cui = {}
+
+output_file = 'liste_des_cui.txt'
+
+
+for file in list_file:
+    fh = open(file,'r',encoding='utf-8')
+    for line in fh:
+        if line in list_cui:
+            list_cui[line].append(file)
+        else:
+            list_cui[line] = [file]
+
+print("Liste des CUIs et leurs sources")
+#print(list_cui)
+
+output = open(output_file, 'w', encoding='utf-8')
+for key in list_cui:
+    cle = str(key.strip('\n'))
+    val = str(list_cui[key])
+    res = ''
+    res = res + cle +'|'+ val +'\n'
+    res = res.replace("[", "")
+    res = res.replace("]", "")
+    res = res.replace("'", "")
+    
+    output.write(res)
+#    print(key, list_cui[key])
+#    print("Mon res:" +res)
+#output.write(list_cui)
+
+output.close()
+
+
+
