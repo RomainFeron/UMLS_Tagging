@@ -76,19 +76,18 @@ make_dic(dic_out, fh_out)
 print(dic_out)
 
 
-
-
-relevant_elements = nb_match_two_dic(dic_ref, dic_out)
 retrieved_elements = number_elements(dic_out)
+relevant_elements = number_elements(dic_ref)
+inter_elements = nb_match_two_dic(dic_ref, dic_out)
 
 print("relevant: ", relevant_elements)
 print("retrieved: ", retrieved_elements)
 
 
 #precision
-precision = (retrieved_elements + relevant_elements) / retrieved_elements
+precision = inter_elements / retrieved_elements
 #recall :
-recall = (retrieved_elements + relevant_elements) / relevant_elements
+recall = inter_elements / relevant_elements
 
 print("precision: ", precision)
 print("recall: ", recall)
