@@ -25,8 +25,8 @@ dic_out = {}
 
 def make_dic(dic, file):
     """
-    creates dictionnaries from 
-    reference inverted cui file  and 
+    creates dictionnaries from
+    reference inverted cui file  and
     output processed inverted cui file
     """
     for line in file:
@@ -54,7 +54,7 @@ def number_elements(dic):
 
 def nb_match_two_dic(dic_ref, dic_tst):
     """
-    return # match of dic_tst in dic_ref 
+    return # match of dic_tst in dic_ref
     """
     nb = 0
     for key, value in dic_tst.items():
@@ -76,20 +76,18 @@ make_dic(dic_out, fh_out)
 #print(dic_out)
 
 
-
-
-relevant_elements = nb_match_two_dic(dic_ref, dic_out)
 retrieved_elements = number_elements(dic_out)
+relevant_elements = number_elements(dic_ref)
+inter_elements = nb_match_two_dic(dic_ref, dic_out)
 
 print("relevant: ", relevant_elements)
 print("retrieved: ", retrieved_elements)
 
 
 #precision
-precision = (retrieved_elements + retrieved_elements) / retrieved_elements
+precision = inter_elements / retrieved_elements
 #recall :
-recall = (retrieved_elements + retrieved_elements) / relevant_elements
+recall = inter_elements / relevant_elements
 
 print("precision: ", precision)
 print("recall: ", recall)
-
