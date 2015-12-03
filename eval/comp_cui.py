@@ -3,6 +3,10 @@
 import time
 import sys
 
+"""
+usage : python comp_cui.py reference_cui_file computed_cui_file
+"""
+
 #debug
 path1 = 'liste1.txt'
 path2 = 'liste2.txt'
@@ -21,7 +25,7 @@ dic_out = {}
 
 def make_dic(dic, file):
     """
-    create dictionnaries from 
+    creates dictionnaries from 
     reference inverted cui file  and 
     output processed inverted cui file
     """
@@ -30,6 +34,7 @@ def make_dic(dic, file):
         cui = decoup[0]
         list_fichier = decoup[1].split(',')
         for fichier in list_fichier:
+            fichier = fichier.replace('\n','')
             if cui in dic.keys():
                 dic[cui].append(fichier)
             else:
@@ -52,16 +57,17 @@ def nb_match_two_dic(dic_ref, dic_tst):
     return # match of dic_tst in dic_ref 
     """
     nb = 0
-    for key in dic_tst:
-        for value in dic_tst[key]:
-            if value in dic_ref[key]:
-                nb+=1
+    for key, value in dic_tst.items():
+        if key in dic_ref.keys():
+            print("valeur key trouve: " , key)
+#            print(type(dic_ref[key]))
+            for e in value:
+                if e in dic_ref[key]:
+                    print(e)
+                    nb+=1
     return nb
 
-                
-
-
-print("dice ref")
+print("dic ref")
 make_dic(dic_ref, fh_ref)
 print(dic_ref)
 
@@ -75,12 +81,15 @@ print(dic_out)
 relevant_elements = nb_match_two_dic(dic_ref, dic_out)
 retrieved_elements = number_elements(dic_out)
 
-print(relevant_elements)
-print(retrieved_elements)
+print("relevant: ", relevant_elements)
+print("retrieved: ", retrieved_elements)
 
 
 #precision
-#precision = (retrieved_elements + retrieved_elements) / retrieved_elements
+precision = (retrieved_elements + retrieved_elements) / retrieved_elements
 #recall :
-#recal = (retrieved_elements + retrieved_elements) / relevant_elements
+recall = (retrieved_elements + retrieved_elements) / relevant_elements
+
+print("precision: ", precision)
+print("recall: ", recall)
 
