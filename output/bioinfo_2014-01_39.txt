@@ -1,0 +1,17 @@
+C1550557|and|67|S|bioinfo_2014-01_39
+C1550557|and|163|B|bioinfo_2014-01_39
+C0337611|contact|263|B|bioinfo_2014-01_39
+C0032098|plant|26|S|bioinfo_2014-01_39
+C0032098|plant|120|B|bioinfo_2014-01_39
+C0008532|Christian|273|B|bioinfo_2014-01_39
+C0031842|Physiologie|343|B|bioinfo_2014-01_39
+C0332158|contact|263|B|bioinfo_2014-01_39
+C0086345|Génétique moléculaire|358|B|bioinfo_2014-01_39
+C0006135|Brassica|71|S|bioinfo_2014-01_39
+C0006135|Brassica|167|B|bioinfo_2014-01_39
+C0678257|description|401|B|bioinfo_2014-01_39
+C0282111|www|61|B|bioinfo_2014-01_39
+C0887950|genomic|32|S|bioinfo_2014-01_39
+C0887950|genomic|126|B|bioinfo_2014-01_39
+C0017398|Génétique|358|B|bioinfo_2014-01_39
+C0344346|Christian|273|B|bioinfo_2014-01_39

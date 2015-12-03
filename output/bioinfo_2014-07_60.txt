@@ -1,0 +1,6 @@
+C0021585|Insectes|313|B|bioinfo_2014-07_60
+C0008139|Bat|370|B|bioinfo_2014-07_60
+C0887950|Génomique|91|B|bioinfo_2014-07_60
+C0687133|Interactions|325|B|bioinfo_2014-07_60
+C0005532|Biologie|290|B|bioinfo_2014-07_60
+C0013806|est|76|B|bioinfo_2014-07_60

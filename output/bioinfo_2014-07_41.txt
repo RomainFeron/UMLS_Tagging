@@ -1,0 +1,15 @@
+C0330928|rue|2220|B|bioinfo_2014-07_41
+C0678367|public|588|B|bioinfo_2014-07_41
+C0996956|Olivier|1719|B|bioinfo_2014-07_41
+C0030258|brochures|1405|B|bioinfo_2014-07_41
+C1301627|formats|1392|B|bioinfo_2014-07_41
+C0330929|rue|2220|B|bioinfo_2014-07_41
+C0013806|est|203|B|bioinfo_2014-07_41
+C0231204|susceptible|207|B|bioinfo_2014-07_41
+C1420122|SATT|836|B|bioinfo_2014-07_41
+C0282111|www|371|B|bioinfo_2014-07_41
+C0439228|DAY|153|B|bioinfo_2014-07_41
+C0013013|Dominique|1981|B|bioinfo_2014-07_41
+C0687670|mis|1241|B|bioinfo_2014-07_41
+C0596013|stands|1213|B|bioinfo_2014-07_41
+C0743223|disposition|1247|B|bioinfo_2014-07_41

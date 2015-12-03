@@ -1,0 +1,102 @@
+C0043227|working|2973|B|bioinfo_2014-03_32
+C1080058|This|2919|B|bioinfo_2014-03_32
+C0347984|during|2893|B|bioinfo_2014-03_32
+C0376554|knowledge|3177|B|bioinfo_2014-03_32
+C0947630|study|3300|B|bioinfo_2014-03_32
+C0036397|science|2508|B|bioinfo_2014-03_32
+C0015392|globe|4142|B|bioinfo_2014-03_32
+C0026175|mining|3038|B|bioinfo_2014-03_32
+C0376558|life|2482|B|bioinfo_2014-03_32
+C0006159|breeding|3930|B|bioinfo_2014-03_32
+C0439092|less|3570|B|bioinfo_2014-03_32
+C0449445|approaches|3612|B|bioinfo_2014-03_32
+C0557351|work in|4046|B|bioinfo_2014-03_32
+C0683757|companies|2365|B|bioinfo_2014-03_32
+C1948182|genetics|3748|B|bioinfo_2014-03_32
+C0205460|biological|3975|B|bioinfo_2014-03_32
+C0042950|will|3060|B|bioinfo_2014-03_32
+C0030761|pedigree|1332|B|bioinfo_2014-03_32
+C0454664|countries|2418|B|bioinfo_2014-03_32
+C0559956|replacement|2881|B|bioinfo_2014-03_32
+C0035647|potential|2469|B|bioinfo_2014-03_32
+C0036612|semantic|1778|B|bioinfo_2014-03_32
+C0010453|cultures|372|B|bioinfo_2014-03_32
+C1552861|help|2565|B|bioinfo_2014-03_32
+C0026219|mission|27|S|bioinfo_2014-03_32
+C0026219|mission|557|B|bioinfo_2014-03_32
+C0557857|concrete|3311|B|bioinfo_2014-03_32
+C0008942|clients|302|B|bioinfo_2014-03_32
+C0596545|experience|3734|B|bioinfo_2014-03_32
+C0033269|productivity|2587|B|bioinfo_2014-03_32
+C0005532|biology|3915|B|bioinfo_2014-03_32
+C0010992|data analysis|2984|B|bioinfo_2014-03_32
+C0702116|consolidation|1276|B|bioinfo_2014-03_32
+C0010352|crop|2582|B|bioinfo_2014-03_32
+C1292711|part of|3068|B|bioinfo_2014-03_32
+C0518214|quality of life|2648|B|bioinfo_2014-03_32
+C0205102|internal|3589|B|bioinfo_2014-03_32
+C2937292|engagement|277|B|bioinfo_2014-03_32
+C0205369|specific|3503|B|bioinfo_2014-03_32
+C1524024|analysis|2989|B|bioinfo_2014-03_32
+C0018684|health|2637|B|bioinfo_2014-03_32
+C0205246|global|2517|B|bioinfo_2014-03_32
+C0205392|some|3306|B|bioinfo_2014-03_32
+C0425152|engagement|277|B|bioinfo_2014-03_32
+C1552740|specific|3503|B|bioinfo_2014-03_32
+C0013806|est|658|B|bioinfo_2014-03_32
+C0332307|types|1421|B|bioinfo_2014-03_32
+C0205172|more|2380|B|bioinfo_2014-03_32
+C0028811|job|2792|B|bioinfo_2014-03_32
+C2015882|productivity|2587|B|bioinfo_2014-03_32
+C0038215|statistics|3953|B|bioinfo_2014-03_32
+C0309847|premier|230|B|bioinfo_2014-03_32
+C0750503|around|4131|B|bioinfo_2014-03_32
+C0678723|development|3004|B|bioinfo_2014-03_32
+C0521125|For|2666|B|bioinfo_2014-03_32
+C0031222|hiring|2745|B|bioinfo_2014-03_32
+C1533716|information|2675|B|bioinfo_2014-03_32
+C0549177|Big|1792|B|bioinfo_2014-03_32
+C0870312|commitment|2534|B|bioinfo_2014-03_32
+C0282111|www|2249|B|bioinfo_2014-03_32
+C0205374|temporary|2782|B|bioinfo_2014-03_32
+C0017398|genetics|3748|B|bioinfo_2014-03_32
+C0679199|strategy|3371|B|bioinfo_2014-03_32
+C0086593|maternity leave|2902|B|bioinfo_2014-03_32
+C0557441|maternity leave|2902|B|bioinfo_2014-03_32
+C0017398|Génétique|737|B|bioinfo_2014-03_32
+C0376245|English|4011|B|bioinfo_2014-03_32
+C1140694|bioinformatics|3760|B|bioinfo_2014-03_32
+C0332273|Through|2488|B|bioinfo_2014-03_32
+C0175566|open|2927|B|bioinfo_2014-03_32
+C0871489|team|3110|B|bioinfo_2014-03_32
+C0024752|employees|2397|B|bioinfo_2014-03_32
+C1285529|purpose|2445|B|bioinfo_2014-03_32
+C0439234|years|3720|B|bioinfo_2014-03_32
+C2015891|quality of life|2648|B|bioinfo_2014-03_32
+C0242483|data quality|3266|B|bioinfo_2014-03_32
+C0034380|quality of life|2648|B|bioinfo_2014-03_32
+C1546857|required|3575|B|bioinfo_2014-03_32
+C0243107|development|3004|B|bioinfo_2014-03_32
+C0733755|position|2796|B|bioinfo_2014-03_32
+C0443302|Several|3604|B|bioinfo_2014-03_32
+C0039869|think|3126|B|bioinfo_2014-03_32
+C0721593|maternity|2902|B|bioinfo_2014-03_32
+C0205101|external|3199|B|bioinfo_2014-03_32
+C1710360|Platform|3089|B|bioinfo_2014-03_32
+C0936012|analysis|2989|B|bioinfo_2014-03_32
+C1556083|English|4011|B|bioinfo_2014-03_32
+C0282116|collaborations|1044|B|bioinfo_2014-03_32
+C0021428|information systems|3793|B|bioinfo_2014-03_32
+C1556084|French|4020|B|bioinfo_2014-03_32
+C1511726|Data|1583|B|bioinfo_2014-03_32
+C0017399|genetics|3748|B|bioinfo_2014-03_32
+C0014406|environment|2613|B|bioinfo_2014-03_32
+C0442805|increase|2573|B|bioinfo_2014-03_32
+C0870705|information|2675|B|bioinfo_2014-03_32
+C0237607|experience|3734|B|bioinfo_2014-03_32
+C0035139|replacement|2881|B|bioinfo_2014-03_32
+C1285542|focus|3236|B|bioinfo_2014-03_32
+C0681108|maternity|2902|B|bioinfo_2014-03_32
+C0036563|Seeds|529|B|bioinfo_2014-03_32
+C1512022|PhD|1652|B|bioinfo_2014-03_32
+C0205136|over|2410|B|bioinfo_2014-03_32

@@ -1,0 +1,12 @@
+C1883016|session|24|B|bioinfo_2014-05_52
+C0337611|contact|2196|B|bioinfo_2014-05_52
+C0086047|convention|2264|B|bioinfo_2014-05_52
+C0007961|charge|2135|B|bioinfo_2014-05_52
+C0332149|possible|1063|B|bioinfo_2014-05_52
+C0332158|contact|2196|B|bioinfo_2014-05_52
+C0013806|est|271|B|bioinfo_2014-05_52
+C0220781|formation|35|B|bioinfo_2014-05_52
+C1533716|informations|1638|B|bioinfo_2014-05_52
+C0236018|aura|158|B|bioinfo_2014-05_52
+C0439634|formation|35|B|bioinfo_2014-05_52
+C0233535|but|1022|B|bioinfo_2014-05_52

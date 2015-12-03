@@ -1,0 +1,16 @@
+C1883016|session|16|B|bioinfo_2014-05_51
+C1550557|and|216|B|bioinfo_2014-05_51
+C0337611|contact|2305|B|bioinfo_2014-05_51
+C0086047|convention|2373|B|bioinfo_2014-05_51
+C0007961|charge|2244|B|bioinfo_2014-05_51
+C0332149|possible|1159|B|bioinfo_2014-05_51
+C0332158|contact|2305|B|bioinfo_2014-05_51
+C0013806|est|367|B|bioinfo_2014-05_51
+C0681842|prediction|193|B|bioinfo_2014-05_51
+C1882071|networks|184|B|bioinfo_2014-05_51
+C0220781|formation|27|B|bioinfo_2014-05_51
+C1533716|informations|1747|B|bioinfo_2014-05_51
+C0236018|aura|235|B|bioinfo_2014-05_51
+C0439634|formation|27|B|bioinfo_2014-05_51
+C0311400|metabolic|174|B|bioinfo_2014-05_51
+C0233535|but|1118|B|bioinfo_2014-05_51

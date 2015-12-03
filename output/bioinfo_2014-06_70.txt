@@ -1,0 +1,12 @@
+C0015737|National|1472|B|bioinfo_2014-06_70
+C0475208|titre|83|B|bioinfo_2014-06_70
+C0005532|Biologie|368|B|bioinfo_2014-06_70
+C0683625|cadre|241|B|bioinfo_2014-06_70
+C1533716|informations|491|B|bioinfo_2014-06_70
+C0017398|Génétique|262|B|bioinfo_2014-06_70
+C0205099|Centre|1511|B|bioinfo_2014-06_70
+C0016767|Fruits|292|B|bioinfo_2014-06_70
+C0035168|Recherche|1487|B|bioinfo_2014-06_70
+C0591239|cedex|1698|B|bioinfo_2014-06_70
+C0035150|Reproduction|397|B|bioinfo_2014-06_70
+C0042440|Légumes|302|B|bioinfo_2014-06_70

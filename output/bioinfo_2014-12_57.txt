@@ -1,0 +1,19 @@
+C1272753|Institute|310|B|bioinfo_2014-12_57
+C0996956|Olivier|229|B|bioinfo_2014-12_57
+C0017398|Genetics|371|B|bioinfo_2014-12_57
+C1550557|and|367|B|bioinfo_2014-12_57
+C0337611|contact|215|B|bioinfo_2014-12_57
+C0332158|contact|215|B|bioinfo_2014-12_57
+C0205419|variation|21|S|bioinfo_2014-12_57
+C0205419|variation|115|B|bioinfo_2014-12_57
+C2348314|Dr.|225|B|bioinfo_2014-12_57
+C0678257|description|395|B|bioinfo_2014-12_57
+C1511790|Detection|94|B|bioinfo_2014-12_57
+C0282111|www|61|B|bioinfo_2014-12_57
+C0039421|Technology|323|B|bioinfo_2014-12_57
+C0042333|genetic variation|13|S|bioinfo_2014-12_57
+C0042333|genetic variation|107|B|bioinfo_2014-12_57
+C1517320|From|171|B|bioinfo_2014-12_57
+C1552529|Genetics|371|B|bioinfo_2014-12_57
+C0314603|genetic|13|S|bioinfo_2014-12_57
+C0314603|genetic|107|B|bioinfo_2014-12_57

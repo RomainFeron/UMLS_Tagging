@@ -1,0 +1,95 @@
+C0035668|RNA|31|S|bioinfo_2014-02_26
+C0035668|RNA|177|B|bioinfo_2014-02_26
+C0205393|most|492|B|bioinfo_2014-02_26
+C1325550|chromatin|401|B|bioinfo_2014-02_26
+C0439851|direct|1433|B|bioinfo_2014-02_26
+C0332597|duplications|697|B|bioinfo_2014-02_26
+C0376554|knowledge|1811|B|bioinfo_2014-02_26
+C0022877|laboratory|5|B|bioinfo_2014-02_26
+C0521124|against|1469|B|bioinfo_2014-02_26
+C0557351|work in|1287|B|bioinfo_2014-02_26
+C1550557|and|85|B|bioinfo_2014-02_26
+C1948182|genetics|305|B|bioinfo_2014-02_26
+C1325819|RNA|31|S|bioinfo_2014-02_26
+C1325819|RNA|177|B|bioinfo_2014-02_26
+C0205253|immediate|1654|B|bioinfo_2014-02_26
+C0162327|RNA sequencing|31|S|bioinfo_2014-02_26
+C0162327|RNA sequencing|177|B|bioinfo_2014-02_26
+C0557351|employ|903|B|bioinfo_2014-02_26
+C0042950|will|898|B|bioinfo_2014-02_26
+C1552820|center|1630|B|bioinfo_2014-02_26
+C0009452|communication|1972|B|bioinfo_2014-02_26
+C0205419|variants|1059|B|bioinfo_2014-02_26
+C0035696|mRNA|761|B|bioinfo_2014-02_26
+C0699910|epidemiology|72|B|bioinfo_2014-02_26
+C1167622|binding|434|B|bioinfo_2014-02_26
+C0027651|tumor|299|B|bioinfo_2014-02_26
+C0043227|work|1287|B|bioinfo_2014-02_26
+C0332286|into|1888|B|bioinfo_2014-02_26
+C0332466|fusions|657|B|bioinfo_2014-02_26
+C0439855|complex|1394|B|bioinfo_2014-02_26
+C0542559|context|204|B|bioinfo_2014-02_26
+C1273517|used|291|B|bioinfo_2014-02_26
+C0185117|expression|561|B|bioinfo_2014-02_26
+C0026882|mutation|356|B|bioinfo_2014-02_26
+C0005532|biology|111|B|bioinfo_2014-02_26
+C0010992|data analysis|46|S|bioinfo_2014-02_26
+C0010992|data analysis|834|B|bioinfo_2014-02_26
+C0205161|abnormal|589|B|bioinfo_2014-02_26
+C0043266|writing|1950|B|bioinfo_2014-02_26
+C1552827|top|1572|B|bioinfo_2014-02_26
+C0700321|small|1044|B|bioinfo_2014-02_26
+C1524024|analysis|51|S|bioinfo_2014-02_26
+C1524024|analysis|839|B|bioinfo_2014-02_26
+C0871685|clinicians|1180|B|bioinfo_2014-02_26
+C0449255|context|204|B|bioinfo_2014-02_26
+C0014508|epidemiology|72|B|bioinfo_2014-02_26
+C0150312|present|1068|B|bioinfo_2014-02_26
+C0687744|groups|1584|B|bioinfo_2014-02_26
+C0871935|theory|1839|B|bioinfo_2014-02_26
+C0014507|epidemiology|72|B|bioinfo_2014-02_26
+C0030561|Paris|1271|B|bioinfo_2014-02_26
+C0038492|student|890|B|bioinfo_2014-02_26
+C0008546|chromatin|401|B|bioinfo_2014-02_26
+C0683607|allows|327|B|bioinfo_2014-02_26
+C0243122|binding|434|B|bioinfo_2014-02_26
+C0700085|Curie|1205|B|bioinfo_2014-02_26
+C1552839|groups|1584|B|bioinfo_2014-02_26
+C0039421|technologies|263|B|bioinfo_2014-02_26
+C1551041|student|890|B|bioinfo_2014-02_26
+C1697779|immediate|1654|B|bioinfo_2014-02_26
+C0027651|tumors|623|B|bioinfo_2014-02_26
+C1293131|fusions|657|B|bioinfo_2014-02_26
+C0033213|problem|1416|B|bioinfo_2014-02_26
+C0009622|computer|1144|B|bioinfo_2014-02_26
+C0017398|genetics|305|B|bioinfo_2014-02_26
+C1145667|binding|434|B|bioinfo_2014-02_26
+C0969625|methodology|15|S|bioinfo_2014-02_26
+C0969625|methodology|810|B|bioinfo_2014-02_26
+C0332287|In addition to|631|B|bioinfo_2014-02_26
+C0332282|following|141|B|bioinfo_2014-02_26
+C0441833|groups|1584|B|bioinfo_2014-02_26
+C1552573|student|890|B|bioinfo_2014-02_26
+C0024176|Luxembourg|1697|B|bioinfo_2014-02_26
+C1299581|able|680|B|bioinfo_2014-02_26
+C0035168|research|1460|B|bioinfo_2014-02_26
+C0402112|scientists|1153|B|bioinfo_2014-02_26
+C0185125|applications|509|B|bioinfo_2014-02_26
+C0441471|events|365|B|bioinfo_2014-02_26
+C0005544|biostatistics|57|B|bioinfo_2014-02_26
+C0936012|analysis|51|S|bioinfo_2014-02_26
+C0936012|analysis|839|B|bioinfo_2014-02_26
+C1272703|successful|1217|B|bioinfo_2014-02_26
+C0678594|structure|411|B|bioinfo_2014-02_26
+C0010819|cell biology|2022|B|bioinfo_2014-02_26
+C0205099|center|1630|B|bioinfo_2014-02_26
+C0017399|genetics|305|B|bioinfo_2014-02_26
+C0014406|environment|1512|B|bioinfo_2014-02_26
+C0233535|but|2050|B|bioinfo_2014-02_26
+C0017262|gene expression|556|B|bioinfo_2014-02_26
+C1080058|this|779|B|bioinfo_2014-02_26
+C0334861|biologists|1165|B|bioinfo_2014-02_26
+C1512022|PhD|151|B|bioinfo_2014-02_26
+C0331677|Paris|1271|B|bioinfo_2014-02_26
+C1551058|are|276|B|bioinfo_2014-02_26
+C0282116|collaboration|1295|B|bioinfo_2014-02_26

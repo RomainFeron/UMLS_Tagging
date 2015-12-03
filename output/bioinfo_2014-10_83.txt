@@ -1,0 +1,14 @@
+C0337611|contact|334|B|bioinfo_2014-10_83
+C0220936|virulence|93|S|bioinfo_2014-10_83
+C0220936|virulence|180|B|bioinfo_2014-10_83
+C0282527|IRD|432|B|bioinfo_2014-10_83
+C0332158|contact|334|B|bioinfo_2014-10_83
+C1428449|TAL|126|S|bioinfo_2014-10_83
+C1428449|TAL|213|B|bioinfo_2014-10_83
+C1140694|Bioinformatique|498|B|bioinfo_2014-10_83
+C0678257|description|535|B|bioinfo_2014-10_83
+C0282111|www|61|B|bioinfo_2014-10_83
+C0042765|virulence|93|S|bioinfo_2014-10_83
+C0042765|virulence|180|B|bioinfo_2014-10_83
+C0035168|Recherche|449|B|bioinfo_2014-10_83
+C1710133|South|514|B|bioinfo_2014-10_83

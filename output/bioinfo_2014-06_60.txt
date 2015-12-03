@@ -1,0 +1,8 @@
+C0497549|Cancers|24|S|bioinfo_2014-06_60
+C0887950|Génomique|71|S|bioinfo_2014-06_60
+C0759909|CIT|18|S|bioinfo_2014-06_60
+C0006141|Sein|35|S|bioinfo_2014-06_60
+C1413428|CIT|18|S|bioinfo_2014-06_60
+C0020020|Cliniques|55|S|bioinfo_2014-06_60
+C2826326|CIT|18|S|bioinfo_2014-06_60
+C0006826|Cancers|24|S|bioinfo_2014-06_60

@@ -1,0 +1,16 @@
+C0599807|Informatique|9|S|bioinfo_2014-10_54
+C0599807|Informatique|103|B|bioinfo_2014-10_54
+C0337611|contact|303|B|bioinfo_2014-10_54
+C0282111|Web|71|S|bioinfo_2014-10_54
+C0282111|Web|167|B|bioinfo_2014-10_54
+C0332158|contact|303|B|bioinfo_2014-10_54
+C1140694|Bioinformatique|32|S|bioinfo_2014-10_54
+C1140694|Bioinformatique|126|B|bioinfo_2014-10_54
+C0678257|description|465|B|bioinfo_2014-10_54
+C0282111|www|61|B|bioinfo_2014-10_54
+C0750865|Web|71|S|bioinfo_2014-10_54
+C0750865|Web|167|B|bioinfo_2014-10_54
+C0444649|Master|25|S|bioinfo_2014-10_54
+C0444649|Master|119|B|bioinfo_2014-10_54
+C0332875|Web|71|S|bioinfo_2014-10_54
+C0332875|Web|167|B|bioinfo_2014-10_54

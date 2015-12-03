@@ -1,0 +1,16 @@
+C1553451|System|19|S|bioinfo_2014-07_24
+C1553451|System|114|B|bioinfo_2014-07_24
+C0337611|contact|202|B|bioinfo_2014-07_24
+C0449913|System|19|S|bioinfo_2014-07_24
+C0449913|System|114|B|bioinfo_2014-07_24
+C0032098|Plant|293|B|bioinfo_2014-07_24
+C0332158|contact|202|B|bioinfo_2014-07_24
+C0282601|CDI|145|B|bioinfo_2014-07_24
+C0402112|Scientist|9|S|bioinfo_2014-07_24
+C0402112|Scientist|104|B|bioinfo_2014-07_24
+C0028811|job|217|B|bioinfo_2014-07_24
+C0678257|description|316|B|bioinfo_2014-07_24
+C0282111|www|62|B|bioinfo_2014-07_24
+C0242437|Plant|293|B|bioinfo_2014-07_24
+C1704459|System|19|S|bioinfo_2014-07_24
+C1704459|System|114|B|bioinfo_2014-07_24

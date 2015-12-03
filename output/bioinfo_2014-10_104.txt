@@ -1,0 +1,19 @@
+C1306673|Stage|94|B|bioinfo_2014-10_104
+C1705429|Group|412|B|bioinfo_2014-10_104
+C0678594|structures|70|S|bioinfo_2014-10_104
+C0678594|structures|156|B|bioinfo_2014-10_104
+C0337611|contact|299|B|bioinfo_2014-10_104
+C1561557|Group|412|B|bioinfo_2014-10_104
+C0332158|contact|299|B|bioinfo_2014-10_104
+C1705428|Group|412|B|bioinfo_2014-10_104
+C0678257|description|450|B|bioinfo_2014-10_104
+C1300072|Stage|94|B|bioinfo_2014-10_104
+C0282111|www|61|B|bioinfo_2014-10_104
+C0376528|Computational Biology|390|B|bioinfo_2014-10_104
+C1880157|Computational|390|B|bioinfo_2014-10_104
+C1516769|Computational|390|B|bioinfo_2014-10_104
+C0441833|Group|412|B|bioinfo_2014-10_104
+C1552516|Group|412|B|bioinfo_2014-10_104
+C0205390|Stage|94|B|bioinfo_2014-10_104
+C1257890|Group|412|B|bioinfo_2014-10_104
+C0005532|Biology|404|B|bioinfo_2014-10_104

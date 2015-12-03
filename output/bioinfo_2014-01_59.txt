@@ -1,0 +1,9 @@
+C0337611|contact|219|B|bioinfo_2014-01_59
+C0041740|Université|300|B|bioinfo_2014-01_59
+C0086047|Conférences|104|B|bioinfo_2014-01_59
+C0332158|contact|219|B|bioinfo_2014-01_59
+C0030561|Paris|311|B|bioinfo_2014-01_59
+C1140694|Bioinformatique|119|B|bioinfo_2014-01_59
+C0678257|description|330|B|bioinfo_2014-01_59
+C0282111|www|61|B|bioinfo_2014-01_59
+C0331677|Paris|311|B|bioinfo_2014-01_59

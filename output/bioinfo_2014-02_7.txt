@@ -1,0 +1,16 @@
+C1883016|session|16|B|bioinfo_2014-02_7
+C1550557|and|104|B|bioinfo_2014-02_7
+C0337611|contact|2279|B|bioinfo_2014-02_7
+C0086047|convention|2347|B|bioinfo_2014-02_7
+C0007961|charge|2218|B|bioinfo_2014-02_7
+C0332149|possible|1086|B|bioinfo_2014-02_7
+C0332158|contact|2279|B|bioinfo_2014-02_7
+C1524024|analysis|108|B|bioinfo_2014-02_7
+C0013806|est|294|B|bioinfo_2014-02_7
+C0220781|formation|27|B|bioinfo_2014-02_7
+C1533716|informations|1626|B|bioinfo_2014-02_7
+C0236018|aura|174|B|bioinfo_2014-02_7
+C0439634|formation|27|B|bioinfo_2014-02_7
+C0936012|analysis|108|B|bioinfo_2014-02_7
+C0017428|genomes|132|B|bioinfo_2014-02_7
+C0233535|but|1045|B|bioinfo_2014-02_7

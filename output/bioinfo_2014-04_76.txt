@@ -1,0 +1,9 @@
+C0599807|Informatique|763|B|bioinfo_2014-04_76
+C0000769|anomalies|104|B|bioinfo_2014-04_76
+C0085205|Fax|969|B|bioinfo_2014-04_76
+C0470166|message|239|B|bioinfo_2014-04_76
+C1880669|Fax|969|B|bioinfo_2014-04_76
+C1578433|Fax|969|B|bioinfo_2014-04_76
+C2338314|Genome|778|B|bioinfo_2014-04_76
+C0017428|Genome|778|B|bioinfo_2014-04_76
+C1547563|Fax|969|B|bioinfo_2014-04_76

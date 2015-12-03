@@ -1,0 +1,7 @@
+C1184743|Processus|852|B|bioinfo_2014-09_61
+C0996956|Olivier|2555|B|bioinfo_2014-09_61
+C0041740|Université|2210|B|bioinfo_2014-09_61
+C0680644|jury|2140|B|bioinfo_2014-09_61
+C0869014|relations|1222|B|bioinfo_2014-09_61
+C0080103|relatives|1205|B|bioinfo_2014-09_61
+C0236018|aura|203|B|bioinfo_2014-09_61

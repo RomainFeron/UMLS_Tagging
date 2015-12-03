@@ -1,0 +1,7 @@
+C0444454|Access|7|S|bioinfo_2014-10_31
+C0678594|structures|220|B|bioinfo_2014-10_31
+C0037683|son|38|B|bioinfo_2014-10_31
+C0013806|est|27|B|bioinfo_2014-10_31
+C0175566|open|337|B|bioinfo_2014-10_31
+C0456592|1992|62|B|bioinfo_2014-10_31
+C0162443|Journal|14|S|bioinfo_2014-10_31

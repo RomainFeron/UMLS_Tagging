@@ -1,0 +1,25 @@
+C0599807|Informatique|997|B|bioinfo_2014-01_90
+C2247189|ANR|515|B|bioinfo_2014-01_90
+C0205419|variants|1379|B|bioinfo_2014-01_90
+C0410539|CDD|2241|B|bioinfo_2014-01_90
+C0222041|shell|2827|B|bioinfo_2014-01_90
+C1555308|accession|873|B|bioinfo_2014-01_90
+C2698602|CDD|2241|B|bioinfo_2014-01_90
+C0869014|relation|683|B|bioinfo_2014-01_90
+C0026605|motivation|3563|B|bioinfo_2014-01_90
+C0683625|cadre|1128|B|bioinfo_2014-01_90
+C0013806|est|218|B|bioinfo_2014-01_90
+C0591239|Cedex|4040|B|bioinfo_2014-01_90
+C1140694|Bioinformatique|977|B|bioinfo_2014-01_90
+C0231204|susceptible|2205|B|bioinfo_2014-01_90
+C2675746|CDD|2241|B|bioinfo_2014-01_90
+C0026882|mutations|1446|B|bioinfo_2014-01_90
+C1533716|informations|1142|B|bioinfo_2014-01_90
+C0236018|aura|2510|B|bioinfo_2014-01_90
+C1515568|de novo|79|B|bioinfo_2014-01_90
+C1300072|stage|9|S|bioinfo_2014-01_90
+C1300072|stage|18|B|bioinfo_2014-01_90
+C0029219|Organites|457|B|bioinfo_2014-01_90
+C0035150|Reproduction|2565|B|bioinfo_2014-01_90
+C0282116|collaboration|1731|B|bioinfo_2014-01_90
+C1413247|CDD|2241|B|bioinfo_2014-01_90

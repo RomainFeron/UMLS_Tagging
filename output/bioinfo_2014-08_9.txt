@@ -1,0 +1,27 @@
+C0205229|expand|43|B|bioinfo_2014-08_9
+C0036397|science|329|B|bioinfo_2014-08_9
+C0009622|Computer|277|B|bioinfo_2014-08_9
+C1550557|and|27|S|bioinfo_2014-08_9
+C0543488|interest|184|B|bioinfo_2014-08_9
+C0024934|Mathematics|262|B|bioinfo_2014-08_9
+C0043227|work|308|B|bioinfo_2014-08_9
+C0558083|keen|179|B|bioinfo_2014-08_9
+C0600673|Statistics|161|B|bioinfo_2014-08_9
+C0402112|Scientist|36|S|bioinfo_2014-08_9
+C0402112|Scientist|218|B|bioinfo_2014-08_9
+C0036397|Science|286|B|bioinfo_2014-08_9
+C1140694|Bioinformatics|143|B|bioinfo_2014-08_9
+C0678257|description|362|B|bioinfo_2014-08_9
+C0376528|Computational Biology|120|B|bioinfo_2014-08_9
+C1880157|Computational|120|B|bioinfo_2014-08_9
+C0332282|following|68|B|bioinfo_2014-08_9
+C1516769|Computational|120|B|bioinfo_2014-08_9
+C0871489|team|54|B|bioinfo_2014-08_9
+C0185125|Applied|254|B|bioinfo_2014-08_9
+C0543488|interested|294|B|bioinfo_2014-08_9
+C1511726|Data|14|S|bioinfo_2014-08_9
+C0038215|Statistics|161|B|bioinfo_2014-08_9
+C0005532|Biology|134|B|bioinfo_2014-08_9
+C1512022|PhD|113|B|bioinfo_2014-08_9
+C0521116|currently|22|B|bioinfo_2014-08_9
+C1551058|are|18|B|bioinfo_2014-08_9

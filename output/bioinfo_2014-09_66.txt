@@ -1,0 +1,11 @@
+C1550557|and|433|B|bioinfo_2014-09_66
+C0337611|contact|252|B|bioinfo_2014-09_66
+C0332158|contact|252|B|bioinfo_2014-09_66
+C0028707|Nutrition|358|B|bioinfo_2014-09_66
+C1521729|Nutrition|358|B|bioinfo_2014-09_66
+C0600072|Nutrition|358|B|bioinfo_2014-09_66
+C0678257|description|456|B|bioinfo_2014-09_66
+C0282111|www|61|B|bioinfo_2014-09_66
+C1442959|Nutrition|358|B|bioinfo_2014-09_66
+C0518896|Nutrition|358|B|bioinfo_2014-09_66
+C1555920|Nutrition|358|B|bioinfo_2014-09_66

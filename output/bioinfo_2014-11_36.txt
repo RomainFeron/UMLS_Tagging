@@ -1,0 +1,4 @@
+C0004268|attention|156|B|bioinfo_2014-11_36
+C0013806|est|48|B|bioinfo_2014-11_36
+C0035173|Chercheurs|7|S|bioinfo_2014-11_36
+C0011008|date|998|B|bioinfo_2014-11_36

@@ -1,0 +1,20 @@
+C0009450|Infectious Diseases|336|B|bioinfo_2014-08_10
+C0017398|Genetics|324|B|bioinfo_2014-08_10
+C0337611|contact|239|B|bioinfo_2014-08_10
+C0012737|dissection|26|S|bioinfo_2014-08_10
+C0012737|dissection|119|B|bioinfo_2014-08_10
+C0012634|Diseases|347|B|bioinfo_2014-08_10
+C0332158|contact|239|B|bioinfo_2014-08_10
+C0678257|description|376|B|bioinfo_2014-08_10
+C0282111|www|61|B|bioinfo_2014-08_10
+C1550587|infectious|58|S|bioinfo_2014-08_10
+C0012655|predisposition|40|S|bioinfo_2014-08_10
+C0012655|predisposition|133|B|bioinfo_2014-08_10
+C0220898|predisposition|40|S|bioinfo_2014-08_10
+C0220898|predisposition|133|B|bioinfo_2014-08_10
+C0009450|Infectious|336|B|bioinfo_2014-08_10
+C0020124|Human Genetics|318|B|bioinfo_2014-08_10
+C0086418|Human|318|B|bioinfo_2014-08_10
+C1552529|Genetics|324|B|bioinfo_2014-08_10
+C0314603|genetic|18|S|bioinfo_2014-08_10
+C0314603|genetic|111|B|bioinfo_2014-08_10

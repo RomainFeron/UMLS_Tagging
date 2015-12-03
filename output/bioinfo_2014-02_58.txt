@@ -1,0 +1,8 @@
+C1704687|Post|94|B|bioinfo_2014-02_58
+C0337611|contact|188|B|bioinfo_2014-02_58
+C1301746|Doc|5|S|bioinfo_2014-02_58
+C1301746|Doc|99|B|bioinfo_2014-02_58
+C0332158|contact|188|B|bioinfo_2014-02_58
+C0678257|description|328|B|bioinfo_2014-02_58
+C0282111|www|61|B|bioinfo_2014-02_58
+C0687676|Post|94|B|bioinfo_2014-02_58

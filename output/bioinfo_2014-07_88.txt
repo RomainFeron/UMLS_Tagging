@@ -1,0 +1,15 @@
+C0332287|Plus|471|B|bioinfo_2014-07_88
+C0449851|Methods|14|S|bioinfo_2014-07_88
+C0449851|Methods|85|B|bioinfo_2014-07_88
+C0677507|workshop|61|B|bioinfo_2014-07_88
+C0683625|cadre|150|B|bioinfo_2014-07_88
+C0013806|est|167|B|bioinfo_2014-07_88
+C0025663|Methods|14|S|bioinfo_2014-07_88
+C0025663|Methods|85|B|bioinfo_2014-07_88
+C0011008|date|67|S|bioinfo_2014-07_88
+C0011008|date|385|B|bioinfo_2014-07_88
+C0242262|workshop|61|B|bioinfo_2014-07_88
+C0004381|car|378|B|bioinfo_2014-07_88
+C0678594|Structural|26|S|bioinfo_2014-07_88
+C0678594|Structural|97|B|bioinfo_2014-07_88
+C0376691|Programme|43|S|bioinfo_2014-07_88

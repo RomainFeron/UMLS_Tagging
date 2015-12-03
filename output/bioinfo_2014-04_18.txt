@@ -1,0 +1,153 @@
+C1446468|Duke|3736|B|bioinfo_2014-04_18
+C1552960|line|1810|B|bioinfo_2014-04_18
+C1272753|Institute|3575|B|bioinfo_2014-04_18
+C0870071|modeling|1543|B|bioinfo_2014-04_18
+C0035172|Research Institute|3566|B|bioinfo_2014-04_18
+C0205146|areas|771|B|bioinfo_2014-04_18
+C1705429|Group|57|S|bioinfo_2014-04_18
+C1705429|Group|87|B|bioinfo_2014-04_18
+C1552456|Research|3566|B|bioinfo_2014-04_18
+C0947630|study|283|B|bioinfo_2014-04_18
+C0028423|Norway|3149|B|bioinfo_2014-04_18
+C1421525|FOR|1585|B|bioinfo_2014-04_18
+C0017398|Genetics|4332|B|bioinfo_2014-04_18
+C0242298|foster|667|B|bioinfo_2014-04_18
+C0887950|genomics|261|B|bioinfo_2014-04_18
+C0681497|oral presentation|1620|B|bioinfo_2014-04_18
+C0439792|extended|1652|B|bioinfo_2014-04_18
+C1548287|Research|3566|B|bioinfo_2014-04_18
+C0543488|Interest|48|S|bioinfo_2014-04_18
+C0543488|Interest|78|B|bioinfo_2014-04_18
+C1550557|and|349|B|bioinfo_2014-04_18
+C1553384|registration|2547|B|bioinfo_2014-04_18
+C1704735|Regulatory|20|S|bioinfo_2014-04_18
+C0449774|pattern|1488|B|bioinfo_2014-04_18
+C0042950|will|826|B|bioinfo_2014-04_18
+C1561557|Group|57|S|bioinfo_2014-04_18
+C1561557|Group|87|B|bioinfo_2014-04_18
+C2348831|250|2000|B|bioinfo_2014-04_18
+C0600678|Abstract|1780|B|bioinfo_2014-04_18
+C0221193|authors|1976|B|bioinfo_2014-04_18
+C0004950|Belgium|2857|B|bioinfo_2014-04_18
+C0042153|utilization|1241|B|bioinfo_2014-04_18
+C0020898|Illinois|2746|B|bioinfo_2014-04_18
+C0041703|USA|2653|B|bioinfo_2014-04_18
+C0887950|Genomics|31|S|bioinfo_2014-04_18
+C0887950|Genomics|61|B|bioinfo_2014-04_18
+C1555231|Iowa|4160|B|bioinfo_2014-04_18
+C0422202|notification|2339|B|bioinfo_2014-04_18
+C0806909|Max|4297|B|bioinfo_2014-04_18
+C0282116|collaborative|676|B|bioinfo_2014-04_18
+C0021729|Interest Group|48|S|bioinfo_2014-04_18
+C0021729|Interest Group|78|B|bioinfo_2014-04_18
+C1537110|Tan|4141|B|bioinfo_2014-04_18
+C0750591|consider|1039|B|bioinfo_2014-04_18
+C1148554|determination|1351|B|bioinfo_2014-04_18
+C0205132|line|1810|B|bioinfo_2014-04_18
+C0015737|National|3483|B|bioinfo_2014-04_18
+C0185117|expression|1124|B|bioinfo_2014-04_18
+C0017429|Human Genome|3553|B|bioinfo_2014-04_18
+C0019652|histone|1324|B|bioinfo_2014-04_18
+C0006037|Boston|194|B|bioinfo_2014-04_18
+C1282927|short|2405|B|bioinfo_2014-04_18
+C0679201|inference|1198|B|bioinfo_2014-04_18
+C0871738|experimental methods|989|B|bioinfo_2014-04_18
+C0009462|community|690|B|bioinfo_2014-04_18
+C0444868|all|767|B|bioinfo_2014-04_18
+C1655731|epigenetics|1282|B|bioinfo_2014-04_18
+C0556656|meeting|569|B|bioinfo_2014-04_18
+C0340978|May|1911|B|bioinfo_2014-04_18
+C0677620|Boston|194|B|bioinfo_2014-04_18
+C0162458|Advisory Committee|3300|B|bioinfo_2014-04_18
+C2699414|Committee|3309|B|bioinfo_2014-04_18
+C1705428|Group|57|S|bioinfo_2014-04_18
+C1705428|Group|87|B|bioinfo_2014-04_18
+C2974439|Kellis|3764|B|bioinfo_2014-04_18
+C0470268|250|2000|B|bioinfo_2014-04_18
+C0678226|Due|2245|B|bioinfo_2014-04_18
+C0332218|difficult|736|B|bioinfo_2014-04_18
+C1413393|CALL|1580|B|bioinfo_2014-04_18
+C0337803|finn|3157|B|bioinfo_2014-04_18
+C0681842|prediction|1105|B|bioinfo_2014-04_18
+C0036397|Science|3121|B|bioinfo_2014-04_18
+C0220905|regulatory|607|B|bioinfo_2014-04_18
+C1879547|activate|362|B|bioinfo_2014-04_18
+C1279919|Early|2541|B|bioinfo_2014-04_18
+C1552866|include|831|B|bioinfo_2014-04_18
+C1521991|Molecular|4322|B|bioinfo_2014-04_18
+C1517004|experimental|989|B|bioinfo_2014-04_18
+C0449450|presentations|839|B|bioinfo_2014-04_18
+C0680730|determination|1351|B|bioinfo_2014-04_18
+C1555712|topic|437|B|bioinfo_2014-04_18
+C0376675|posters|857|B|bioinfo_2014-04_18
+C0439227|Hours|220|B|bioinfo_2014-04_18
+C0025663|methods|500|B|bioinfo_2014-04_18
+C1533716|information|1256|B|bioinfo_2014-04_18
+C0442027|oral|1620|B|bioinfo_2014-04_18
+C0425989|Due date|2245|B|bioinfo_2014-04_18
+C1552816|all|767|B|bioinfo_2014-04_18
+C0016674|France|2994|B|bioinfo_2014-04_18
+C0449851|Technical|3614|B|bioinfo_2014-04_18
+C0017263|gene regulation|538|B|bioinfo_2014-04_18
+C0332282|following|1182|B|bioinfo_2014-04_18
+C0041740|University|2732|B|bioinfo_2014-04_18
+C0018017|goal|641|B|bioinfo_2014-04_18
+C0039421|Technology|3133|B|bioinfo_2014-04_18
+C0035168|Research|3566|B|bioinfo_2014-04_18
+C0441833|Group|57|S|bioinfo_2014-04_18
+C0441833|Group|87|B|bioinfo_2014-04_18
+C0205099|Centre|3674|B|bioinfo_2014-04_18
+C0017337|gene|538|B|bioinfo_2014-04_18
+C0180153|cover|870|B|bioinfo_2014-04_18
+C0028905|Ohio|3229|B|bioinfo_2014-04_18
+C2338314|Genome|3559|B|bioinfo_2014-04_18
+C0402112|scientists|708|B|bioinfo_2014-04_18
+C0806909|maximum|1840|B|bioinfo_2014-04_18
+C1551442|Columbia|3397|B|bioinfo_2014-04_18
+C1711239|Since|480|B|bioinfo_2014-04_18
+C0599518|Professor|3813|B|bioinfo_2014-04_18
+C1327622|regulation|543|B|bioinfo_2014-04_18
+C1552516|Group|57|S|bioinfo_2014-04_18
+C1552516|Group|87|B|bioinfo_2014-04_18
+C0086345|Molecular Genetics|4322|B|bioinfo_2014-04_18
+C1327622|Regulation|3693|B|bioinfo_2014-04_18
+C0851285|Regulation|3693|B|bioinfo_2014-04_18
+C0242481|Research|3566|B|bioinfo_2014-04_18
+C0344349|foster|667|B|bioinfo_2014-04_18
+C0205555|Special|40|S|bioinfo_2014-04_18
+C0205555|Special|70|B|bioinfo_2014-04_18
+C0022037|Iowa|4160|B|bioinfo_2014-04_18
+C0332257|including|1762|B|bioinfo_2014-04_18
+C0017428|Genome|3559|B|bioinfo_2014-04_18
+C0035820|roles|1372|B|bioinfo_2014-04_18
+C0337812|Norwegian|3097|B|bioinfo_2014-04_18
+C0011008|date|2249|B|bioinfo_2014-04_18
+C0332257|include|831|B|bioinfo_2014-04_18
+C0221193|Authors|1883|B|bioinfo_2014-04_18
+C1156199|histone modifications|1324|B|bioinfo_2014-04_18
+C1552615|maximum|1840|B|bioinfo_2014-04_18
+C0086418|Human|3553|B|bioinfo_2014-04_18
+C0043038|Washington|3906|B|bioinfo_2014-04_18
+C1551702|Alexander|3715|B|bioinfo_2014-04_18
+C0231449|extended|1652|B|bioinfo_2014-04_18
+C1257890|Group|57|S|bioinfo_2014-04_18
+C1257890|Group|87|B|bioinfo_2014-04_18
+C0678594|structure|1309|B|bioinfo_2014-04_18
+C1552863|Abstract|1780|B|bioinfo_2014-04_18
+C1882141|Ana|3594|B|bioinfo_2014-04_18
+C0000857|Abstract|1780|B|bioinfo_2014-04_18
+C0025664|methods|500|B|bioinfo_2014-04_18
+C1552529|Genetics|4332|B|bioinfo_2014-04_18
+C1552837|all|767|B|bioinfo_2014-04_18
+C0034391|Queensland|3352|B|bioinfo_2014-04_18
+C0017362|gene regulatory|1211|B|bioinfo_2014-04_18
+C0870705|information|1256|B|bioinfo_2014-04_18
+C0017428|genome|402|B|bioinfo_2014-04_18
+C0851285|regulation|543|B|bioinfo_2014-04_18
+C0017262|gene expression|1119|B|bioinfo_2014-04_18
+C1955973|National Human Genome Research Institute|3544|B|bioinfo_2014-04_18
+C1562169|FOR|1585|B|bioinfo_2014-04_18
+C1551058|are|508|B|bioinfo_2014-04_18
+C1515877|activate|362|B|bioinfo_2014-04_18
+C0524865|reconstruction|1063|B|bioinfo_2014-04_18
+C0179847|Chairs|2620|B|bioinfo_2014-04_18

@@ -1,0 +1,8 @@
+C0337611|contact|296|B|bioinfo_2014-02_85
+C0887950|Génomique|406|B|bioinfo_2014-02_85
+C0332158|contact|296|B|bioinfo_2014-02_85
+C1140694|Bioinformatique|5|S|bioinfo_2014-02_85
+C1140694|Bioinformatique|97|B|bioinfo_2014-02_85
+C0678257|description|464|B|bioinfo_2014-02_85
+C0282111|www|61|B|bioinfo_2014-02_85
+C0035168|Recherche|393|B|bioinfo_2014-02_85

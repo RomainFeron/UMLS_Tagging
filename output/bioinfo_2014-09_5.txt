@@ -1,0 +1,11 @@
+C0330928|rue|961|B|bioinfo_2014-09_5
+C0996956|Olivier|849|B|bioinfo_2014-09_5
+C1522492|Formation|557|B|bioinfo_2014-09_5
+C0330929|rue|961|B|bioinfo_2014-09_5
+C0591239|Cedex|999|B|bioinfo_2014-09_5
+C0220781|formation|35|B|bioinfo_2014-09_5
+C0449444|route|103|B|bioinfo_2014-09_5
+C1533716|information|763|B|bioinfo_2014-09_5
+C0439634|formation|35|B|bioinfo_2014-09_5
+C0034394|questionnaire|613|B|bioinfo_2014-09_5
+C0870705|information|763|B|bioinfo_2014-09_5

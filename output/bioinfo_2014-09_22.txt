@@ -1,0 +1,16 @@
+C0678367|public|545|B|bioinfo_2014-09_22
+C0033414|promotion|166|B|bioinfo_2014-09_22
+C0878545|dons|48|S|bioinfo_2014-09_22
+C0878545|dons|1610|B|bioinfo_2014-09_22
+C0004268|attention|1546|B|bioinfo_2014-09_22
+C2937292|engagement|1402|B|bioinfo_2014-09_22
+C0425152|engagement|1402|B|bioinfo_2014-09_22
+C0013806|est|1359|B|bioinfo_2014-09_22
+C0309847|premiers|95|B|bioinfo_2014-09_22
+C1550513|via|1602|B|bioinfo_2014-09_22
+C0376650|animations|733|B|bioinfo_2014-09_22
+C0036397|Sciences|16|S|bioinfo_2014-09_22
+C0470166|message|1444|B|bioinfo_2014-09_22
+C0036397|sciences|180|B|bioinfo_2014-09_22
+C1096774|Lettre|21|B|bioinfo_2014-09_22
+C0376683|lecture|887|B|bioinfo_2014-09_22

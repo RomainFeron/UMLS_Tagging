@@ -1,0 +1,11 @@
+C0025664|techniques|93|S|bioinfo_2014-06_39
+C0025664|techniques|175|B|bioinfo_2014-06_39
+C0337611|contact|289|B|bioinfo_2014-06_39
+C0410539|CDD|228|B|bioinfo_2014-06_39
+C2698602|CDD|228|B|bioinfo_2014-06_39
+C0332158|contact|289|B|bioinfo_2014-06_39
+C2675746|CDD|228|B|bioinfo_2014-06_39
+C0678257|description|388|B|bioinfo_2014-06_39
+C0282111|www|62|B|bioinfo_2014-06_39
+C1710679|Workflow|95|B|bioinfo_2014-06_39
+C1413247|CDD|228|B|bioinfo_2014-06_39

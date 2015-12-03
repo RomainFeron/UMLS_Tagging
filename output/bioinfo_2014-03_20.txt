@@ -1,0 +1,9 @@
+C0599807|Informatique|404|B|bioinfo_2014-03_20
+C0282063|Galaxy|2021|B|bioinfo_2014-03_20
+C1522492|Formation|1055|B|bioinfo_2014-03_20
+C0005532|Biologie|157|B|bioinfo_2014-03_20
+C2718284|mai|587|B|bioinfo_2014-03_20
+C0013806|est|51|B|bioinfo_2014-03_20
+C0036397|Sciences|1092|B|bioinfo_2014-03_20
+C0026914|mai|587|B|bioinfo_2014-03_20
+C0720406|fera|626|B|bioinfo_2014-03_20

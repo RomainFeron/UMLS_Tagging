@@ -1,0 +1,30 @@
+C0006826|Cancer|35|S|bioinfo_2014-10_60
+C0006826|Cancer|129|B|bioinfo_2014-10_60
+C2707253|Cancer|35|S|bioinfo_2014-10_60
+C2707253|Cancer|129|B|bioinfo_2014-10_60
+C1450477|Systems Biology|56|S|bioinfo_2014-10_60
+C0337611|contact|294|B|bioinfo_2014-10_60
+C0449913|Systems|56|S|bioinfo_2014-10_60
+C0010992|data analysis|16|S|bioinfo_2014-10_60
+C0010992|data analysis|110|B|bioinfo_2014-10_60
+C0332149|possible|254|B|bioinfo_2014-10_60
+C0332158|contact|294|B|bioinfo_2014-10_60
+C1524024|analysis|21|S|bioinfo_2014-10_60
+C1524024|analysis|115|B|bioinfo_2014-10_60
+C1306459|Cancer|35|S|bioinfo_2014-10_60
+C1306459|Cancer|129|B|bioinfo_2014-10_60
+C1547140|Cancer|35|S|bioinfo_2014-10_60
+C1547140|Cancer|129|B|bioinfo_2014-10_60
+C0998265|Cancer|35|S|bioinfo_2014-10_60
+C0998265|Cancer|129|B|bioinfo_2014-10_60
+C0678257|description|427|B|bioinfo_2014-10_60
+C0282111|www|61|B|bioinfo_2014-10_60
+C1880157|Computational|42|S|bioinfo_2014-10_60
+C1880157|Computational|136|B|bioinfo_2014-10_60
+C1516769|Computational|42|S|bioinfo_2014-10_60
+C1516769|Computational|136|B|bioinfo_2014-10_60
+C0439234|years|243|B|bioinfo_2014-10_60
+C0936012|analysis|21|S|bioinfo_2014-10_60
+C0936012|analysis|115|B|bioinfo_2014-10_60
+C0005532|Biology|64|S|bioinfo_2014-10_60
+C0005532|Biology|160|B|bioinfo_2014-10_60

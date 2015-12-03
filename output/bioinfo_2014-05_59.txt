@@ -1,0 +1,7 @@
+C0025664|techniques|740|B|bioinfo_2014-05_59
+C0014406|Environnement|53|B|bioinfo_2014-05_59
+C0010478|Curriculum|1165|B|bioinfo_2014-05_59
+C0695434|oscillations|399|B|bioinfo_2014-05_59
+C0026605|motivation|1220|B|bioinfo_2014-05_59
+C0013806|est|20|B|bioinfo_2014-05_59
+C0030012|redox|412|B|bioinfo_2014-05_59

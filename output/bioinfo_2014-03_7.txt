@@ -1,0 +1,12 @@
+C0599807|Informatique|414|B|bioinfo_2014-03_7
+C0037683|son|46|B|bioinfo_2014-03_7
+C0336809|train|30|B|bioinfo_2014-03_7
+C0013806|est|23|B|bioinfo_2014-03_7
+C0085205|Fax|620|B|bioinfo_2014-03_7
+C0282111|www|59|B|bioinfo_2014-03_7
+C0242747|mars|152|B|bioinfo_2014-03_7
+C1880669|Fax|620|B|bioinfo_2014-03_7
+C1578433|Fax|620|B|bioinfo_2014-03_7
+C2338314|Genome|429|B|bioinfo_2014-03_7
+C0017428|Genome|429|B|bioinfo_2014-03_7
+C1547563|Fax|620|B|bioinfo_2014-03_7

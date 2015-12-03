@@ -1,0 +1,6 @@
+C1140694|Bio-informatique|72|B|bioinfo_2014-11_10
+C0591239|Cedex|767|B|bioinfo_2014-11_10
+C1140694|Bioinformatique|51|S|bioinfo_2014-11_10
+C1140694|Bioinformatique|566|B|bioinfo_2014-11_10
+C0236018|aura|274|B|bioinfo_2014-11_10
+C0679823|participation|408|B|bioinfo_2014-11_10

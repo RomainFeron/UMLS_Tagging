@@ -1,0 +1,47 @@
+C2004062|History|551|B|bioinfo_2014-04_37
+C1948036|held|156|B|bioinfo_2014-04_37
+C0585027|Wednesday|99|B|bioinfo_2014-04_37
+C1080058|This|135|B|bioinfo_2014-04_37
+C0330928|rue|990|B|bioinfo_2014-04_37
+C0086312|Forest|775|B|bioinfo_2014-04_37
+C0332119|History of|551|B|bioinfo_2014-04_37
+C0085952|coffee|599|B|bioinfo_2014-04_37
+C0262926|History|551|B|bioinfo_2014-04_37
+C1705255|History|551|B|bioinfo_2014-04_37
+C1550557|and|464|B|bioinfo_2014-04_37
+C0679201|Inference|534|B|bioinfo_2014-04_37
+C0205172|More|849|B|bioinfo_2014-04_37
+C1524063|Using|659|B|bioinfo_2014-04_37
+C0439064|More|849|B|bioinfo_2014-04_37
+C0449851|Methods|522|B|bioinfo_2014-04_37
+C1547706|Building|250|B|bioinfo_2014-04_37
+C2673163|training|197|B|bioinfo_2014-04_37
+C0330929|rue|990|B|bioinfo_2014-04_37
+C1999269|Building|250|B|bioinfo_2014-04_37
+C0444868|all|8|B|bioinfo_2014-04_37
+C0458003|developmental|692|B|bioinfo_2014-04_37
+C1552851|next|36|B|bioinfo_2014-04_37
+C0016249|floor|228|B|bioinfo_2014-04_37
+C1521991|Molecular|562|B|bioinfo_2014-04_37
+C2348077|DATE|9|S|bioinfo_2014-04_37
+C0220931|training|197|B|bioinfo_2014-04_37
+C2740799|DATE|9|S|bioinfo_2014-04_37
+C0205436|2nd|224|B|bioinfo_2014-04_37
+C1300196|organized|57|B|bioinfo_2014-04_37
+C0025663|Methods|522|B|bioinfo_2014-04_37
+C1552816|all|8|B|bioinfo_2014-04_37
+C0563054|2nd floor|224|B|bioinfo_2014-04_37
+C0262512|History of|551|B|bioinfo_2014-04_37
+C0041740|University|172|B|bioinfo_2014-04_37
+C0262926|History of|551|B|bioinfo_2014-04_37
+C0024779|map|270|B|bioinfo_2014-04_37
+C0205117|next|36|B|bioinfo_2014-04_37
+C0205246|general|825|B|bioinfo_2014-04_37
+C0011008|date|23|B|bioinfo_2014-04_37
+C0011008|DATE|9|S|bioinfo_2014-04_37
+C0262512|History|551|B|bioinfo_2014-04_37
+C0026336|Models|514|B|bioinfo_2014-04_37
+C1552837|all|8|B|bioinfo_2014-04_37
+C0019664|History|551|B|bioinfo_2014-04_37
+C0009237|coffee|599|B|bioinfo_2014-04_37
+C0026339|Models|514|B|bioinfo_2014-04_37

@@ -1,0 +1,118 @@
+C0470187|available|1729|B|bioinfo_2014-06_82
+C1561545|degree|953|B|bioinfo_2014-06_82
+C1272753|Institute|1244|B|bioinfo_2014-06_82
+C0033348|programming language|1430|B|bioinfo_2014-06_82
+C0007634|cells|493|B|bioinfo_2014-06_82
+C0814002|Neurogenesis|170|B|bioinfo_2014-06_82
+C0947630|study|416|B|bioinfo_2014-06_82
+C0878517|Engineer|17|S|bioinfo_2014-06_82
+C0036397|science|972|B|bioinfo_2014-06_82
+C0007585|cultured cells|617|B|bioinfo_2014-06_82
+C0205554|automated|901|B|bioinfo_2014-06_82
+C0750591|considered|1275|B|bioinfo_2014-06_82
+C0007634|Cell|151|B|bioinfo_2014-06_82
+C1550557|and|44|B|bioinfo_2014-06_82
+C0337611|contact|1851|B|bioinfo_2014-06_82
+C1269647|Cell|151|B|bioinfo_2014-06_82
+C0042950|will|747|B|bioinfo_2014-06_82
+C1553390|new|686|B|bioinfo_2014-06_82
+C1561543|year|1747|B|bioinfo_2014-06_82
+C0205314|new|686|B|bioinfo_2014-06_82
+C0007634|cell|65|B|bioinfo_2014-06_82
+C2919031|Division|156|B|bioinfo_2014-06_82
+C0026258|mitotic spindle|451|B|bioinfo_2014-06_82
+C0449286|degree|953|B|bioinfo_2014-06_82
+C0043227|work|742|B|bioinfo_2014-06_82
+C0042567|vertebrate|482|B|bioinfo_2014-06_82
+C0231448|extension|1786|B|bioinfo_2014-06_82
+C2347268|Position|41|S|bioinfo_2014-06_82
+C0542560|degree|953|B|bioinfo_2014-06_82
+C0439234|year|1747|B|bioinfo_2014-06_82
+C0282416|overall|363|B|bioinfo_2014-06_82
+C1305399|screen|675|B|bioinfo_2014-06_82
+C0430054|Screen|2189|B|bioinfo_2014-06_82
+C1293097|Division|156|B|bioinfo_2014-06_82
+C1704653|Cell|151|B|bioinfo_2014-06_82
+C0599726|computer science|963|B|bioinfo_2014-06_82
+C0596545|experience|1182|B|bioinfo_2014-06_82
+C0010992|data analysis|343|B|bioinfo_2014-06_82
+C0200765|Image Analysis|26|S|bioinfo_2014-06_82
+C1561544|year|1747|B|bioinfo_2014-06_82
+C0016820|funded|1667|B|bioinfo_2014-06_82
+C2604741|lab|557|B|bioinfo_2014-06_82
+C0332158|contact|1851|B|bioinfo_2014-06_82
+C1524024|analysis|53|B|bioinfo_2014-06_82
+C0027882|Neuron|2046|B|bioinfo_2014-06_82
+C0026605|motivation|1829|B|bioinfo_2014-06_82
+C0205803|Java|1467|B|bioinfo_2014-06_82
+C0444669|core|724|B|bioinfo_2014-06_82
+C0205156|previous|1173|B|bioinfo_2014-06_82
+C1136359|Cell|151|B|bioinfo_2014-06_82
+C1155738|mitotic spindle orientation|451|B|bioinfo_2014-06_82
+C0458003|Developmental|2094|B|bioinfo_2014-06_82
+C0936012|Analysis|32|S|bioinfo_2014-06_82
+C1166795|spindle|459|B|bioinfo_2014-06_82
+C1136031|RNAi|670|B|bioinfo_2014-06_82
+C0243073|assay|608|B|bioinfo_2014-06_82
+C1696103|image|333|B|bioinfo_2014-06_82
+C1704922|Image|26|S|bioinfo_2014-06_82
+C1704922|Image|38|B|bioinfo_2014-06_82
+C0220908|screen|675|B|bioinfo_2014-06_82
+C0376528|Computational Biology|96|B|bioinfo_2014-06_82
+C0009622|computer|963|B|bioinfo_2014-06_82
+C1880157|Computational|96|B|bioinfo_2014-06_82
+C1533691|vitro|635|B|bioinfo_2014-06_82
+C0205265|initially|1719|B|bioinfo_2014-06_82
+C1533691|in vitro|632|B|bioinfo_2014-06_82
+C0010819|Cell Biology|2147|B|bioinfo_2014-06_82
+C0018017|goal|371|B|bioinfo_2014-06_82
+C1547541|Division|156|B|bioinfo_2014-06_82
+C0376245|English|1386|B|bioinfo_2014-06_82
+C1516769|Computational|96|B|bioinfo_2014-06_82
+C1552607|previous|1173|B|bioinfo_2014-06_82
+C1578513|new|686|B|bioinfo_2014-06_82
+C0678723|Developmental|2094|B|bioinfo_2014-06_82
+C1704254|Image|26|S|bioinfo_2014-06_82
+C1704254|Image|38|B|bioinfo_2014-06_82
+C0035173|researcher|297|B|bioinfo_2014-06_82
+C1327622|regulation|437|B|bioinfo_2014-06_82
+C1096774|letter|1840|B|bioinfo_2014-06_82
+C1657580|spindle orientation|459|B|bioinfo_2014-06_82
+C2919030|Division|156|B|bioinfo_2014-06_82
+C0206304|Python|1459|B|bioinfo_2014-06_82
+C1948049|Cell|151|B|bioinfo_2014-06_82
+C0007590|cell division|65|B|bioinfo_2014-06_82
+C0205447|One|2077|B|bioinfo_2014-06_82
+C0878517|engineer|321|B|bioinfo_2014-06_82
+C1257890|group|183|B|bioinfo_2014-06_82
+C0002778|Analysis|32|S|bioinfo_2014-06_82
+C0733755|position|1657|B|bioinfo_2014-06_82
+C0687744|group|183|B|bioinfo_2014-06_82
+C0199230|screen|675|B|bioinfo_2014-06_82
+C1710360|Platform|134|B|bioinfo_2014-06_82
+C2348088|degree|953|B|bioinfo_2014-06_82
+C0936012|analysis|53|B|bioinfo_2014-06_82
+C1556083|English|1386|B|bioinfo_2014-06_82
+C0733755|Position|41|S|bioinfo_2014-06_82
+C0035168|Recherche|1705|B|bioinfo_2014-06_82
+C0023008|language|1442|B|bioinfo_2014-06_82
+C0085732|ability|1096|B|bioinfo_2014-06_82
+C0007590|Cell Division|151|B|bioinfo_2014-06_82
+C0007635|cultured cells|617|B|bioinfo_2014-06_82
+C1511726|Data|48|B|bioinfo_2014-06_82
+C0162443|Journal|2136|B|bioinfo_2014-06_82
+C2349992|Java|1467|B|bioinfo_2014-06_82
+C1705053|Screen|2189|B|bioinfo_2014-06_82
+C0014406|environment|1213|B|bioinfo_2014-06_82
+C1167518|core|724|B|bioinfo_2014-06_82
+C1293097|division|70|B|bioinfo_2014-06_82
+C0470187|Available|50|S|bioinfo_2014-06_82
+C0237607|experience|1182|B|bioinfo_2014-06_82
+C0851285|regulation|437|B|bioinfo_2014-06_82
+C1510438|assay|608|B|bioinfo_2014-06_82
+C1285542|focus|508|B|bioinfo_2014-06_82
+C1080058|this|379|B|bioinfo_2014-06_82
+C0016884|Future|1517|B|bioinfo_2014-06_82
+C0005532|Biology|110|B|bioinfo_2014-06_82
+C0441833|group|183|B|bioinfo_2014-06_82
+C1512022|PhD|949|B|bioinfo_2014-06_82

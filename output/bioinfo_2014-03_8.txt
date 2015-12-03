@@ -1,0 +1,13 @@
+C0021585|Insectes|422|B|bioinfo_2014-03_8
+C0008139|Bat|480|B|bioinfo_2014-03_8
+C0086047|Conférences|19|S|bioinfo_2014-03_8
+C0600673|Statistiques|186|B|bioinfo_2014-03_8
+C0687133|Interactions|434|B|bioinfo_2014-03_8
+C0005532|Biologie|399|B|bioinfo_2014-03_8
+C1150103|MAP|92|B|bioinfo_2014-03_8
+C0013806|est|47|B|bioinfo_2014-03_8
+C0026045|MAP|92|B|bioinfo_2014-03_8
+C1428456|MAP|92|B|bioinfo_2014-03_8
+C1414864|Les|200|B|bioinfo_2014-03_8
+C0065713|MAP|92|B|bioinfo_2014-03_8
+C0428886|MAP|92|B|bioinfo_2014-03_8

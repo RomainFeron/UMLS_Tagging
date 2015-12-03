@@ -1,0 +1,13 @@
+C0162340|Understanding|15|S|bioinfo_2014-07_94
+C0162340|Understanding|155|B|bioinfo_2014-07_94
+C0337611|contact|303|B|bioinfo_2014-07_94
+C0332158|contact|303|B|bioinfo_2014-07_94
+C0542341|function|5|B|bioinfo_2014-07_94
+C1140694|Bioinformatics|140|B|bioinfo_2014-07_94
+C0040649|Transcription|15|B|bioinfo_2014-07_94
+C0678257|description|405|B|bioinfo_2014-07_94
+C0282111|www|106|B|bioinfo_2014-07_94
+C0031843|function|5|B|bioinfo_2014-07_94
+C0678594|structure|176|B|bioinfo_2014-07_94
+C0017428|genome|29|S|bioinfo_2014-07_94
+C0017428|genome|169|B|bioinfo_2014-07_94

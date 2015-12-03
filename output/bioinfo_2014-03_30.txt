@@ -1,0 +1,33 @@
+C0178534|career|341|B|bioinfo_2014-03_30
+C0028423|Norway|155|B|bioinfo_2014-03_30
+C0557351|work in|432|B|bioinfo_2014-03_30
+C1550557|and|48|B|bioinfo_2014-03_30
+C0027361|Individual|270|B|bioinfo_2014-03_30
+C0205172|More|457|B|bioinfo_2014-03_30
+C0043227|work|432|B|bioinfo_2014-03_30
+C0036612|semantic|371|B|bioinfo_2014-03_30
+C0678530|Natural Sciences|31|B|bioinfo_2014-03_30
+C0439064|More|457|B|bioinfo_2014-03_30
+C0036849|set|75|B|bioinfo_2014-03_30
+C0237401|Individual|270|B|bioinfo_2014-03_30
+C0015770|fellowships|220|B|bioinfo_2014-03_30
+C0444868|all|8|B|bioinfo_2014-03_30
+C0015770|Fellowships|281|B|bioinfo_2014-03_30
+C0870814|like|408|B|bioinfo_2014-03_30
+C0700085|Curie|258|B|bioinfo_2014-03_30
+C0036397|Sciences|39|B|bioinfo_2014-03_30
+C1552816|all|8|B|bioinfo_2014-03_30
+C0039421|Technology|52|B|bioinfo_2014-03_30
+C0035168|research|211|B|bioinfo_2014-03_30
+C0549177|great|606|B|bioinfo_2014-03_30
+C0402112|scientists|131|B|bioinfo_2014-03_30
+C0185125|applications|182|B|bioinfo_2014-03_30
+C0543488|interested|654|B|bioinfo_2014-03_30
+C1299583|independent|199|B|bioinfo_2014-03_30
+C1550724|academic|323|B|bioinfo_2014-03_30
+C0205101|outside|147|B|bioinfo_2014-03_30
+C1552837|all|8|B|bioinfo_2014-03_30
+C0015535|Faculty|20|B|bioinfo_2014-03_30
+C0205296|Natural|31|B|bioinfo_2014-03_30
+C1080058|this|634|B|bioinfo_2014-03_30
+C0439780|forward|626|B|bioinfo_2014-03_30

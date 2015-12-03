@@ -1,0 +1,16 @@
+C0042285|Val|2443|B|bioinfo_2014-11_90
+C1413980|DES|12|B|bioinfo_2014-11_90
+C0394006|DES|12|B|bioinfo_2014-11_90
+C0680241|rapport|318|B|bioinfo_2014-11_90
+C0324431|Lab|2510|B|bioinfo_2014-11_90
+C0013806|est|377|B|bioinfo_2014-11_90
+C1160185|transduction|862|B|bioinfo_2014-11_90
+C0678257|description|208|B|bioinfo_2014-11_90
+C0012203|DES|12|B|bioinfo_2014-11_90
+C1300072|stage|1807|B|bioinfo_2014-11_90
+C0683904|boulevard|2407|B|bioinfo_2014-11_90
+C0185125|applications|504|B|bioinfo_2014-11_90
+C1705738|mode|251|B|bioinfo_2014-11_90
+C0599992|fixer|1855|B|bioinfo_2014-11_90
+C0678594|structure|1623|B|bioinfo_2014-11_90
+C0022877|Lab|2510|B|bioinfo_2014-11_90

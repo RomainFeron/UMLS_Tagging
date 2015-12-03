@@ -1,0 +1,9 @@
+C1550557|and|15|S|bioinfo_2014-05_61
+C1550557|and|110|B|bioinfo_2014-05_61
+C0337611|contact|209|B|bioinfo_2014-05_61
+C0449913|Systems|19|S|bioinfo_2014-05_61
+C0449913|Systems|114|B|bioinfo_2014-05_61
+C0332158|contact|209|B|bioinfo_2014-05_61
+C1140694|Bioinformatics|95|B|bioinfo_2014-05_61
+C0678257|description|317|B|bioinfo_2014-05_61
+C0282111|www|62|B|bioinfo_2014-05_61

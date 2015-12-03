@@ -1,0 +1,10 @@
+C0337611|contact|197|B|bioinfo_2014-10_50
+C0410539|CDD|137|B|bioinfo_2014-10_50
+C2698602|CDD|137|B|bioinfo_2014-10_50
+C0332158|contact|197|B|bioinfo_2014-10_50
+C1140694|Bioinformatique|280|B|bioinfo_2014-10_50
+C2675746|CDD|137|B|bioinfo_2014-10_50
+C0678257|description|317|B|bioinfo_2014-10_50
+C0282111|www|61|B|bioinfo_2014-10_50
+C0205099|Centre|270|B|bioinfo_2014-10_50
+C1413247|CDD|137|B|bioinfo_2014-10_50

@@ -4,12 +4,12 @@ import time
 import sys
 
 """
-usage : python comp_cui.py reference_cui_file computed_cui_file
+primary usage : python comp_cui.py reference_cui_file computed_cui_file
 """
 
-#debug
-path1 = 'liste1.txt'
-path2 = 'liste2.txt'
+#debug: direct link to ref n process
+path1 = 'list_cui_ref.txt'
+path2 = 'list_cui_process.txt'
 
 #path1 = sys.argv[1]
 #path2 = sys.argv[2]
@@ -59,21 +59,21 @@ def nb_match_two_dic(dic_ref, dic_tst):
     nb = 0
     for key, value in dic_tst.items():
         if key in dic_ref.keys():
-            print("valeur key trouve: " , key)
-#            print(type(dic_ref[key]))
+            #print("key found: " , key)
+            #print(type(dic_ref[key]))
             for e in value:
                 if e in dic_ref[key]:
-                    print(e)
+                    #print(e)
                     nb+=1
     return nb
 
-print("dic ref")
+print("dic ref generated")
 make_dic(dic_ref, fh_ref)
-print(dic_ref)
+#print(dic_ref)
 
-print("dic out")
+print("dic process generated")
 make_dic(dic_out, fh_out)
-print(dic_out)
+#print(dic_out)
 
 
 

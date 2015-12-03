@@ -1,0 +1,16 @@
+C0599807|Informatique|1311|B|bioinfo_2014-10_33
+C0439232|minutes|427|B|bioinfo_2014-10_33
+C1550557|and|1412|B|bioinfo_2014-10_33
+C0557854|Service|1303|B|bioinfo_2014-10_33
+C1282918|minutes|427|B|bioinfo_2014-10_33
+C1140694|Bioinformatics|1416|B|bioinfo_2014-10_33
+C0700085|Curie|998|B|bioinfo_2014-10_33
+C0043227|Travail|28|B|bioinfo_2014-10_33
+C0470166|message|1052|B|bioinfo_2014-10_33
+C0033268|production|646|B|bioinfo_2014-10_33
+C0439228|Day|7|S|bioinfo_2014-10_33
+C0806909|maximum|810|B|bioinfo_2014-10_33
+C2825316|Service|1303|B|bioinfo_2014-10_33
+C1552615|maximum|810|B|bioinfo_2014-10_33
+C0086325|fois|184|B|bioinfo_2014-10_33
+C0700321|minutes|427|B|bioinfo_2014-10_33

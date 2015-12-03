@@ -1,0 +1,9 @@
+C0439634|formations|111|B|bioinfo_2014-07_4
+C0678321|initiation|193|B|bioinfo_2014-07_4
+C0230113|fin|530|B|bioinfo_2014-07_4
+C0013806|est|545|B|bioinfo_2014-07_4
+C1414864|Les|169|B|bioinfo_2014-07_4
+C0024492|mail|845|B|bioinfo_2014-07_4
+C1306673|stages|726|B|bioinfo_2014-07_4
+C0589507|initiation|193|B|bioinfo_2014-07_4
+C0743223|disposition|906|B|bioinfo_2014-07_4

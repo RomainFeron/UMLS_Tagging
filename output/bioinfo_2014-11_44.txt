@@ -1,0 +1,12 @@
+C1550557|and|49|S|bioinfo_2014-11_44
+C1550557|and|143|B|bioinfo_2014-11_44
+C0337611|contact|243|B|bioinfo_2014-11_44
+C0332158|contact|243|B|bioinfo_2014-11_44
+C1140694|Bioinformatique|334|B|bioinfo_2014-11_44
+C0034390|Québec|365|B|bioinfo_2014-11_44
+C0678257|description|393|B|bioinfo_2014-11_44
+C0282111|www|61|B|bioinfo_2014-11_44
+C1519042|2-3|211|B|bioinfo_2014-11_44
+C1140694|bioinformatics|94|B|bioinfo_2014-11_44
+C0015219|evolution|16|S|bioinfo_2014-11_44
+C0015219|evolution|110|B|bioinfo_2014-11_44

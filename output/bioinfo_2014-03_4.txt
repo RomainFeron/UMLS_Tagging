@@ -1,0 +1,131 @@
+C0470187|available|1536|B|bioinfo_2014-03_4
+C1948036|held|157|B|bioinfo_2014-03_4
+C1325550|chromatin|1078|B|bioinfo_2014-03_4
+C0870071|modeling|1341|B|bioinfo_2014-03_4
+C0392744|Long|228|B|bioinfo_2014-03_4
+C0234192|Cold|193|B|bioinfo_2014-03_4
+C0449445|approaching|52|B|bioinfo_2014-03_4
+C0006826|Cancer|1789|B|bioinfo_2014-03_4
+C0025664|techniques|332|B|bioinfo_2014-03_4
+C2707253|Cancer|1789|B|bioinfo_2014-03_4
+C0023185|learning|1170|B|bioinfo_2014-03_4
+C0017262|Expression|962|B|bioinfo_2014-03_4
+C0585841|application procedure|1510|B|bioinfo_2014-03_4
+C1705204|Spring|198|B|bioinfo_2014-03_4
+C0007634|Cell|1989|B|bioinfo_2014-03_4
+C0022877|Laboratory|1775|B|bioinfo_2014-03_4
+C1553384|registration|27|B|bioinfo_2014-03_4
+C1269647|Cell|1989|B|bioinfo_2014-03_4
+C0038215|Statistical|22|S|bioinfo_2014-03_4
+C0038215|Statistical|106|B|bioinfo_2014-03_4
+C0042950|will|652|B|bioinfo_2014-03_4
+C0243148|control|885|B|bioinfo_2014-03_4
+C0185125|application procedure|1510|B|bioinfo_2014-03_4
+C0747726|many|629|B|bioinfo_2014-03_4
+C1561579|Medical|1909|B|bioinfo_2014-03_4
+C0027976|New York|1944|B|bioinfo_2014-03_4
+C0336779|machine|1384|B|bioinfo_2014-03_4
+C1571737|Laboratory|1775|B|bioinfo_2014-03_4
+C1167622|binding|1034|B|bioinfo_2014-03_4
+C1444637|Past|519|B|bioinfo_2014-03_4
+C0449913|Systems|1796|B|bioinfo_2014-03_4
+C0033684|protein|1026|B|bioinfo_2014-03_4
+C0242210|binding proteins|1454|B|bioinfo_2014-03_4
+C1547184|Medical|1909|B|bioinfo_2014-03_4
+C1325786|DNA|1122|B|bioinfo_2014-03_4
+C1515655|vivo|1021|B|bioinfo_2014-03_4
+C0041703|USA|245|B|bioinfo_2014-03_4
+C1561578|Medical|1909|B|bioinfo_2014-03_4
+C0010412|Cold|193|B|bioinfo_2014-03_4
+C0038215|statistical|693|B|bioinfo_2014-03_4
+C0887950|Genomics|141|B|bioinfo_2014-03_4
+C2700217|Functional|46|S|bioinfo_2014-03_4
+C2700217|Functional|130|B|bioinfo_2014-03_4
+C0282443|Review|793|B|bioinfo_2014-03_4
+C1619828|Laboratories|212|B|bioinfo_2014-03_4
+C1697786|Laboratory|1775|B|bioinfo_2014-03_4
+C1704653|Cell|1989|B|bioinfo_2014-03_4
+C2598148|Laboratory|1775|B|bioinfo_2014-03_4
+C0750729|course|284|B|bioinfo_2014-03_4
+C0449851|Methods|34|S|bioinfo_2014-03_4
+C0449851|Methods|118|B|bioinfo_2014-03_4
+C0010992|data analysis|355|B|bioinfo_2014-03_4
+C0376452|DNA methylation|1122|B|bioinfo_2014-03_4
+C2911684|Expression|962|B|bioinfo_2014-03_4
+C0185117|Expression|962|B|bioinfo_2014-03_4
+C1524024|analysis|360|B|bioinfo_2014-03_4
+C1517004|Experimental|856|B|bioinfo_2014-03_4
+C1148846|RNA binding|1450|B|bioinfo_2014-03_4
+C1306459|Cancer|1789|B|bioinfo_2014-03_4
+C0034378|quality control|877|B|bioinfo_2014-03_4
+C1136359|Cell|1989|B|bioinfo_2014-03_4
+C0031842|Physiology|1827|B|bioinfo_2014-03_4
+C0871935|theory|409|B|bioinfo_2014-03_4
+C0542341|Functional|46|S|bioinfo_2014-03_4
+C0542341|Functional|130|B|bioinfo_2014-03_4
+C1547140|Cancer|1789|B|bioinfo_2014-03_4
+C0205245|Functional|46|S|bioinfo_2014-03_4
+C0205245|Functional|130|B|bioinfo_2014-03_4
+C1882071|networks|1369|B|bioinfo_2014-03_4
+C0022877|Laboratories|212|B|bioinfo_2014-03_4
+C0008546|chromatin|1078|B|bioinfo_2014-03_4
+C1706317|Long|228|B|bioinfo_2014-03_4
+C0220905|regulatory|1358|B|bioinfo_2014-03_4
+C0205166|Long|228|B|bioinfo_2014-03_4
+C0998265|Cancer|1789|B|bioinfo_2014-03_4
+C1512571|hypothesis|832|B|bioinfo_2014-03_4
+C0243122|binding|1034|B|bioinfo_2014-03_4
+C0719425|Cold|193|B|bioinfo_2014-03_4
+C0936012|Analysis|1406|B|bioinfo_2014-03_4
+C2148608|footprinting|1088|B|bioinfo_2014-03_4
+C1552275|Medical|1909|B|bioinfo_2014-03_4
+C0009443|Cold|193|B|bioinfo_2014-03_4
+C0205314|New|1944|B|bioinfo_2014-03_4
+C0012854|DNA|1122|B|bioinfo_2014-03_4
+C0887950|genomic|347|B|bioinfo_2014-03_4
+C0025663|Methods|34|S|bioinfo_2014-03_4
+C0025663|Methods|118|B|bioinfo_2014-03_4
+C1880157|Computational|1868|B|bioinfo_2014-03_4
+C0439064|many|629|B|bioinfo_2014-03_4
+C0037791|specificity|1281|B|bioinfo_2014-03_4
+C0015535|faculty|524|B|bioinfo_2014-03_4
+C1145667|binding|1034|B|bioinfo_2014-03_4
+C0332257|included|547|B|bioinfo_2014-03_4
+C0699752|Review of|793|B|bioinfo_2014-03_4
+C0022130|Island|233|B|bioinfo_2014-03_4
+C1516769|Computational|1868|B|bioinfo_2014-03_4
+C1285542|focused|291|B|bioinfo_2014-03_4
+C0035168|research|474|B|bioinfo_2014-03_4
+C0017337|gene|1353|B|bioinfo_2014-03_4
+C0205476|Medical|1909|B|bioinfo_2014-03_4
+C1882979|control|885|B|bioinfo_2014-03_4
+C0402112|scientists|507|B|bioinfo_2014-03_4
+C0185125|applications|436|B|bioinfo_2014-03_4
+C1327622|regulation|1438|B|bioinfo_2014-03_4
+C1148673|DNA binding|1269|B|bioinfo_2014-03_4
+C0025723|methylation|1126|B|bioinfo_2014-03_4
+C1948049|Cell|1989|B|bioinfo_2014-03_4
+C0002778|Analysis|1406|B|bioinfo_2014-03_4
+C2700391|procedure|1522|B|bioinfo_2014-03_4
+C1708936|Mark|574|B|bioinfo_2014-03_4
+C1555260|Long Island|228|B|bioinfo_2014-03_4
+C0376683|lectures|416|B|bioinfo_2014-03_4
+C0022885|Laboratory|1775|B|bioinfo_2014-03_4
+C0936012|analysis|360|B|bioinfo_2014-03_4
+C0033618|protein binding|1026|B|bioinfo_2014-03_4
+C0017362|gene regulatory|1353|B|bioinfo_2014-03_4
+C0014406|environment|677|B|bioinfo_2014-03_4
+C0184661|procedure|1522|B|bioinfo_2014-03_4
+C0851285|regulation|1438|B|bioinfo_2014-03_4
+C1546467|procedure|1522|B|bioinfo_2014-03_4
+C0600118|talks|483|B|bioinfo_2014-03_4
+C0750729|Course|12|S|bioinfo_2014-03_4
+C1552617|Review|793|B|bioinfo_2014-03_4
+C0009264|Cold|193|B|bioinfo_2014-03_4
+C0475311|Harbor|205|B|bioinfo_2014-03_4
+C0013621|learning|1170|B|bioinfo_2014-03_4
+C1325816|protein|1026|B|bioinfo_2014-03_4
+C0033684|proteins|1462|B|bioinfo_2014-03_4
+C1548427|Laboratory|1775|B|bioinfo_2014-03_4
+C1551058|are|1532|B|bioinfo_2014-03_4
+C0336779|Machine|1162|B|bioinfo_2014-03_4

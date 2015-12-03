@@ -1,0 +1,13 @@
+C0337611|contact|957|B|bioinfo_2014-05_66
+C0015737|National|1019|B|bioinfo_2014-05_66
+C0475208|titre|81|B|bioinfo_2014-05_66
+C0332158|contact|957|B|bioinfo_2014-05_66
+C0683625|cadre|13|B|bioinfo_2014-05_66
+C0013806|est|293|B|bioinfo_2014-05_66
+C1533716|informations|643|B|bioinfo_2014-05_66
+C0017398|Génétique|187|B|bioinfo_2014-05_66
+C0205099|Centre|1058|B|bioinfo_2014-05_66
+C0011008|date|823|B|bioinfo_2014-05_66
+C0035168|Recherche|1034|B|bioinfo_2014-05_66
+C0591239|cedex|1245|B|bioinfo_2014-05_66
+C0042440|Légumes|229|B|bioinfo_2014-05_66

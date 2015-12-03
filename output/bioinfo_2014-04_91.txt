@@ -1,0 +1,4 @@
+C0237506|chance|416|B|bioinfo_2014-04_91
+C2718284|mai|109|B|bioinfo_2014-04_91
+C0013806|est|80|B|bioinfo_2014-04_91
+C0026914|mai|109|B|bioinfo_2014-04_91

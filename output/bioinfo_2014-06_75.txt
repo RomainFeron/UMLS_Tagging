@@ -1,0 +1,7 @@
+C0178499|bases|482|B|bioinfo_2014-06_75
+C0442504|place|239|B|bioinfo_2014-06_75
+C0026605|motivation|1349|B|bioinfo_2014-06_75
+C0206304|Python|923|B|bioinfo_2014-06_75
+C0025118|Médecine|70|B|bioinfo_2014-06_75
+C0599518|Prof.|1418|B|bioinfo_2014-06_75
+C0444649|Master|799|B|bioinfo_2014-06_75

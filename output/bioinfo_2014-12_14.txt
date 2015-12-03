@@ -1,0 +1,10 @@
+C0337611|contact|249|B|bioinfo_2014-12_14
+C0018684|Santé|377|B|bioinfo_2014-12_14
+C0332158|contact|249|B|bioinfo_2014-12_14
+C0678257|description|447|B|bioinfo_2014-12_14
+C0282111|www|61|B|bioinfo_2014-12_14
+C0035295|Réseau|419|B|bioinfo_2014-12_14
+C0597198|Performance|22|S|bioinfo_2014-12_14
+C0597198|Performance|114|B|bioinfo_2014-12_14
+C1882330|Performance|22|S|bioinfo_2014-12_14
+C1882330|Performance|114|B|bioinfo_2014-12_14

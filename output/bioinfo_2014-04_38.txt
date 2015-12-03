@@ -1,0 +1,231 @@
+C0237155|other|905|B|bioinfo_2014-04_38
+C1514668|RNA polymerase III transcription|3366|B|bioinfo_2014-04_38
+C0596988|mutant|1433|B|bioinfo_2014-04_38
+C0237387|other|905|B|bioinfo_2014-04_38
+C0237305|other|905|B|bioinfo_2014-04_38
+C0007634|cells|771|B|bioinfo_2014-04_38
+C0205548|immediately|363|B|bioinfo_2014-04_38
+C0347984|during|3513|B|bioinfo_2014-04_38
+C0237173|other|905|B|bioinfo_2014-04_38
+C2097386|mouse|2951|B|bioinfo_2014-04_38
+C0376554|knowledge|1686|B|bioinfo_2014-04_38
+C0043119|Werner|569|B|bioinfo_2014-04_38
+C0237361|other|905|B|bioinfo_2014-04_38
+C1948174|other|905|B|bioinfo_2014-04_38
+C0237255|other|905|B|bioinfo_2014-04_38
+C1332745|CEA|337|B|bioinfo_2014-04_38
+C1510963|ARC|474|B|bioinfo_2014-04_38
+C0035820|role|613|B|bioinfo_2014-04_38
+C0017398|Genetics|285|B|bioinfo_2014-04_38
+C0887950|genomics|922|B|bioinfo_2014-04_38
+C0439148|Unit|294|B|bioinfo_2014-04_38
+C0022877|laboratory|494|B|bioinfo_2014-04_38
+C0086860|promoters|1316|B|bioinfo_2014-04_38
+C0449445|approaches|1195|B|bioinfo_2014-04_38
+C1550608|instance|1279|B|bioinfo_2014-04_38
+C0007634|Cell|3259|B|bioinfo_2014-04_38
+C0557351|work in|482|B|bioinfo_2014-04_38
+C0039828|these|1226|B|bioinfo_2014-04_38
+C1095840|Bacillus|3917|B|bioinfo_2014-04_38
+C0237185|other|905|B|bioinfo_2014-04_38
+C1550557|and|112|B|bioinfo_2014-04_38
+C0543488|interest|1114|B|bioinfo_2014-04_38
+C1704735|Regulatory|3890|B|bioinfo_2014-04_38
+C0337611|contact|2420|B|bioinfo_2014-04_38
+C1269647|Cell|3259|B|bioinfo_2014-04_38
+C0042950|will|379|B|bioinfo_2014-04_38
+C0034754|read|3725|B|bioinfo_2014-04_38
+C0374711|repair|120|B|bioinfo_2014-04_38
+C1948167|other|905|B|bioinfo_2014-04_38
+C0678321|initiation|1070|B|bioinfo_2014-04_38
+C0025914|mouse|2951|B|bioinfo_2014-04_38
+C0162326|DNA sequencing|1793|B|bioinfo_2014-04_38
+C0607983|TFIIS|2908|B|bioinfo_2014-04_38
+C0750572|estimating|1458|B|bioinfo_2014-04_38
+C0587267|closed|388|B|bioinfo_2014-04_38
+C0038250|stem cells|2968|B|bioinfo_2014-04_38
+C0025929|mouse|2951|B|bioinfo_2014-04_38
+C0237338|other|905|B|bioinfo_2014-04_38
+C1167622|binding|1500|B|bioinfo_2014-04_38
+C1420624|TFIIS|2908|B|bioinfo_2014-04_38
+C0439070|III|2857|B|bioinfo_2014-04_38
+C0599894|targeting|1394|B|bioinfo_2014-04_38
+C1325786|DNA|116|B|bioinfo_2014-04_38
+C1854562|ARC|474|B|bioinfo_2014-04_38
+C0034036|publication|3795|B|bioinfo_2014-04_38
+C0043227|work|57|B|bioinfo_2014-04_38
+C1515655|vivo|3120|B|bioinfo_2014-04_38
+C1418994|CEA|337|B|bioinfo_2014-04_38
+C2347268|Position|14|S|bioinfo_2014-04_38
+C2347268|Position|17|B|bioinfo_2014-04_38
+C0004587|Bacillus|3917|B|bioinfo_2014-04_38
+C1948176|other|905|B|bioinfo_2014-04_38
+C0237373|other|905|B|bioinfo_2014-04_38
+C1879309|other|905|B|bioinfo_2014-04_38
+C2347274|Unit|294|B|bioinfo_2014-04_38
+C0439855|complex|634|B|bioinfo_2014-04_38
+C1704653|Cell|3259|B|bioinfo_2014-04_38
+C0007961|charge|834|B|bioinfo_2014-04_38
+C1705160|III|2857|B|bioinfo_2014-04_38
+C0870520|expertise|2140|B|bioinfo_2014-04_38
+C0017337|Genes|2783|B|bioinfo_2014-04_38
+C0750729|course|1535|B|bioinfo_2014-04_38
+C1514665|RNA polymerase III transcription|3366|B|bioinfo_2014-04_38
+C1948169|other|905|B|bioinfo_2014-04_38
+C0596545|experience|1746|B|bioinfo_2014-04_38
+C0036025|yeast|729|B|bioinfo_2014-04_38
+C0040223|time|1530|B|bioinfo_2014-04_38
+C0026336|model|780|B|bioinfo_2014-04_38
+C0443289|reveals|3338|B|bioinfo_2014-04_38
+C0237162|other|905|B|bioinfo_2014-04_38
+C0237289|other|905|B|bioinfo_2014-04_38
+C0016820|funded|450|B|bioinfo_2014-04_38
+C1948181|other|905|B|bioinfo_2014-04_38
+C0086206|elongation factor|3462|B|bioinfo_2014-04_38
+C1705468|TFIIH|3213|B|bioinfo_2014-04_38
+C0080194|strains|1440|B|bioinfo_2014-04_38
+C1948175|other|905|B|bioinfo_2014-04_38
+C1420622|TFIIS|2908|B|bioinfo_2014-04_38
+C1956267|Transcriptome|3856|B|bioinfo_2014-04_38
+C0332158|contact|2420|B|bioinfo_2014-04_38
+C1524024|analysis|859|B|bioinfo_2014-04_38
+C1948172|other|905|B|bioinfo_2014-04_38
+C0026809|mouse|2951|B|bioinfo_2014-04_38
+C1519795|Unit|294|B|bioinfo_2014-04_38
+C0237324|other|905|B|bioinfo_2014-04_38
+C0034866|recommended|1825|B|bioinfo_2014-04_38
+C1136359|Cell|3259|B|bioinfo_2014-04_38
+C0003737|Architecture|3901|B|bioinfo_2014-04_38
+C0017428|Génome|2027|B|bioinfo_2014-04_38
+C0012890|Pol III|2853|B|bioinfo_2014-04_38
+C0001128|Acids|2986|B|bioinfo_2014-04_38
+C0271510|recruitment|2770|B|bioinfo_2014-04_38
+C0332307|types|1232|B|bioinfo_2014-04_38
+C1948171|other|905|B|bioinfo_2014-04_38
+C0237142|other|905|B|bioinfo_2014-04_38
+C0017428|Genomic|2834|B|bioinfo_2014-04_38
+C0520511|distribution|2935|B|bioinfo_2014-04_38
+C0443302|several|1425|B|bioinfo_2014-04_38
+C0237369|other|905|B|bioinfo_2014-04_38
+C0030561|Paris|2258|B|bioinfo_2014-04_38
+C1706545|CEA|337|B|bioinfo_2014-04_38
+C1948180|other|905|B|bioinfo_2014-04_38
+C0035681|RNA polymerase|3366|B|bioinfo_2014-04_38
+C0036397|Science|3126|B|bioinfo_2014-04_38
+C1140694|Bioinformatics|3764|B|bioinfo_2014-04_38
+C0681814|experiments|1376|B|bioinfo_2014-04_38
+C0607983|TFIIS elongation factor|3456|B|bioinfo_2014-04_38
+C0427861|human cells|765|B|bioinfo_2014-04_38
+C0038215|statistics|1726|B|bioinfo_2014-04_38
+C0243122|binding|1500|B|bioinfo_2014-04_38
+C0237247|other|905|B|bioinfo_2014-04_38
+C1948179|other|905|B|bioinfo_2014-04_38
+C1550511|location|3320|B|bioinfo_2014-04_38
+C1521991|Molecular|275|B|bioinfo_2014-04_38
+C0237169|other|905|B|bioinfo_2014-04_38
+C0678723|development|1152|B|bioinfo_2014-04_38
+C0012854|DNA|116|B|bioinfo_2014-04_38
+C1552596|Direct|3041|B|bioinfo_2014-04_38
+C0172237|TFIIH|3213|B|bioinfo_2014-04_38
+C0376528|Computational Biology|26|S|bioinfo_2014-04_38
+C0127400|Mediator|625|B|bioinfo_2014-04_38
+C0043240|repair|120|B|bioinfo_2014-04_38
+C2024467|time|1530|B|bioinfo_2014-04_38
+C1704326|role|613|B|bioinfo_2014-04_38
+C1880157|Computational|26|S|bioinfo_2014-04_38
+C1880157|Computational|29|B|bioinfo_2014-04_38
+C0007082|CEA|337|B|bioinfo_2014-04_38
+C0725066|Advance|3780|B|bioinfo_2014-04_38
+C1556044|other|905|B|bioinfo_2014-04_38
+C0599840|microbial|3678|B|bioinfo_2014-04_38
+C1533716|Information|2274|B|bioinfo_2014-04_38
+C0026376|molecular biology|1652|B|bioinfo_2014-04_38
+C1554080|Key|1247|B|bioinfo_2014-04_38
+C1333357|TFIIH|3213|B|bioinfo_2014-04_38
+C1145667|binding|1500|B|bioinfo_2014-04_38
+C1947931|Direct|3041|B|bioinfo_2014-04_38
+C1948178|other|905|B|bioinfo_2014-04_38
+C1516769|Computational|26|S|bioinfo_2014-04_38
+C1516769|Computational|29|B|bioinfo_2014-04_38
+C0441712|mechanisms|84|B|bioinfo_2014-04_38
+C1704753|Unit|294|B|bioinfo_2014-04_38
+C1332744|CEA|337|B|bioinfo_2014-04_38
+C1951510|ARC|474|B|bioinfo_2014-04_38
+C0871489|teams|2104|B|bioinfo_2014-04_38
+C0016617|Fondation|464|B|bioinfo_2014-04_38
+C0237221|other|905|B|bioinfo_2014-04_38
+C0086418|human|765|B|bioinfo_2014-04_38
+C0237228|other|905|B|bioinfo_2014-04_38
+C0175566|open|239|B|bioinfo_2014-04_38
+C1706198|Key|1247|B|bioinfo_2014-04_38
+C0043393|yeast|729|B|bioinfo_2014-04_38
+C0237206|other|905|B|bioinfo_2014-04_38
+C0237318|other|905|B|bioinfo_2014-04_38
+C1415344|TFIIH|3213|B|bioinfo_2014-04_38
+C0001857|ARC|474|B|bioinfo_2014-04_38
+C0439234|years|165|B|bioinfo_2014-04_38
+C1327622|regulation|681|B|bioinfo_2014-04_38
+C0456178|strains|1440|B|bioinfo_2014-04_38
+C0086345|Molecular Genetics|275|B|bioinfo_2014-04_38
+C1327622|Regulation|525|B|bioinfo_2014-04_38
+C0870781|landscape|3702|B|bioinfo_2014-04_38
+C0205099|central|605|B|bioinfo_2014-04_38
+C1948049|Cell|3259|B|bioinfo_2014-04_38
+C0851285|Regulation|525|B|bioinfo_2014-04_38
+C1706086|Both|2099|B|bioinfo_2014-04_38
+C1948170|other|905|B|bioinfo_2014-04_38
+C0012899|DNA repair|116|B|bioinfo_2014-04_38
+C0040649|transcription|98|B|bioinfo_2014-04_38
+C1546857|required|3090|B|bioinfo_2014-04_38
+C0243107|development|1152|B|bioinfo_2014-04_38
+C0733755|position|201|B|bioinfo_2014-04_38
+C0040648|transcription factor|2914|B|bioinfo_2014-04_38
+C1948168|other|905|B|bioinfo_2014-04_38
+C0037775|distribution|2935|B|bioinfo_2014-04_38
+C0872316|functional genomics|911|B|bioinfo_2014-04_38
+C1948173|other|905|B|bioinfo_2014-04_38
+C0237094|other|905|B|bioinfo_2014-04_38
+C0439851|Direct|3041|B|bioinfo_2014-04_38
+C0237357|other|905|B|bioinfo_2014-04_38
+C0237276|other|905|B|bioinfo_2014-04_38
+C1515655|in vivo|3117|B|bioinfo_2014-04_38
+C1412501|ARC|474|B|bioinfo_2014-04_38
+C0589507|initiation|1070|B|bioinfo_2014-04_38
+C0237380|other|905|B|bioinfo_2014-04_38
+C0237133|other|905|B|bioinfo_2014-04_38
+C0936012|analysis|859|B|bioinfo_2014-04_38
+C0733755|Position|14|S|bioinfo_2014-04_38
+C0733755|Position|17|B|bioinfo_2014-04_38
+C1272703|successful|1564|B|bioinfo_2014-04_38
+C0439849|relationship|2890|B|bioinfo_2014-04_38
+C1880519|Unit|294|B|bioinfo_2014-04_38
+C0238767|Both|2099|B|bioinfo_2014-04_38
+C1561527|Information|2274|B|bioinfo_2014-04_38
+C0033618|protein binding|1492|B|bioinfo_2014-04_38
+C0004595|Bacillus subtilis|3917|B|bioinfo_2014-04_38
+C1552529|Genetics|285|B|bioinfo_2014-04_38
+C0439157|counts|3730|B|bioinfo_2014-04_38
+C0449247|time course|1530|B|bioinfo_2014-04_38
+C1561528|Information|2274|B|bioinfo_2014-04_38
+C0035680|RNA polymerase III|3366|B|bioinfo_2014-04_38
+C1363844|Mediator|625|B|bioinfo_2014-04_38
+C0017428|Genomes|539|B|bioinfo_2014-04_38
+C0017428|genome|1518|B|bioinfo_2014-04_38
+C0237178|other|905|B|bioinfo_2014-04_38
+C0237607|experience|1746|B|bioinfo_2014-04_38
+C0851285|regulation|681|B|bioinfo_2014-04_38
+C0237161|other|905|B|bioinfo_2014-04_38
+C0237283|other|905|B|bioinfo_2014-04_38
+C0005532|Biology|40|S|bioinfo_2014-04_38
+C0334861|biologists|1889|B|bioinfo_2014-04_38
+C1512022|PhD|1597|B|bioinfo_2014-04_38
+C1555588|location|3320|B|bioinfo_2014-04_38
+C0205245|functional|911|B|bioinfo_2014-04_38
+C1158830|transcription initiation|1056|B|bioinfo_2014-04_38
+C1415345|TFIIH|3213|B|bioinfo_2014-04_38
+C1417756|ARC|474|B|bioinfo_2014-04_38
+C0033684|proteins|1413|B|bioinfo_2014-04_38
+C0331677|Paris|2258|B|bioinfo_2014-04_38
+C0008902|classifying|1304|B|bioinfo_2014-04_38
+C0450429|location|3320|B|bioinfo_2014-04_38
+C0524865|reconstruction|3659|B|bioinfo_2014-04_38

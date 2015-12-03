@@ -1,0 +1,28 @@
+C0025664|techniques|1250|B|bioinfo_2014-07_22
+C0021585|Insectes|810|B|bioinfo_2014-07_22
+C0998401|Acyrthosiphon|2657|B|bioinfo_2014-07_22
+C1561491|Sequencing|1335|B|bioinfo_2014-07_22
+C1547350|Date|98|S|bioinfo_2014-07_22
+C0008139|Bat|866|B|bioinfo_2014-07_22
+C0322572|Sitophilus|2693|B|bioinfo_2014-07_22
+C0004268|attention|345|B|bioinfo_2014-07_22
+C0600673|Statistiques|4982|B|bioinfo_2014-07_22
+C0687133|Interactions|822|B|bioinfo_2014-07_22
+C0005532|Biologie|787|B|bioinfo_2014-07_22
+C0031842|Physiologie|5018|B|bioinfo_2014-07_22
+C0683625|cadre|2512|B|bioinfo_2014-07_22
+C0011008|Date|98|S|bioinfo_2014-07_22
+C0013806|est|27|B|bioinfo_2014-07_22
+C1140694|Bioinformatique|1537|B|bioinfo_2014-07_22
+C0220781|formation|1848|B|bioinfo_2014-07_22
+C0079411|Generation|1324|B|bioinfo_2014-07_22
+C1548309|Date|98|S|bioinfo_2014-07_22
+C0024492|mail|724|B|bioinfo_2014-07_22
+C0998410|Sitophilus oryzae|2693|B|bioinfo_2014-07_22
+C0439634|formation|1848|B|bioinfo_2014-07_22
+C2348077|Date|98|S|bioinfo_2014-07_22
+C1553778|Sequencing|1335|B|bioinfo_2014-07_22
+C0720406|fera|4581|B|bioinfo_2014-07_22
+C0998402|Acyrthosiphon pisum|2657|B|bioinfo_2014-07_22
+C0178572|courts|375|B|bioinfo_2014-07_22
+C0039029|Symbiose|5053|B|bioinfo_2014-07_22

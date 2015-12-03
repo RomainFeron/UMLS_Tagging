@@ -1,0 +1,20 @@
+C0470187|available|113|B|bioinfo_2014-11_34
+C0680022|members|88|B|bioinfo_2014-11_34
+C0040607|Training|33|B|bioinfo_2014-11_34
+C0008633|Chromosome|9|S|bioinfo_2014-11_34
+C1550557|and|2|B|bioinfo_2014-11_34
+C1554161|Training|33|B|bioinfo_2014-11_34
+C1148554|determination|30|S|bioinfo_2014-11_34
+C1148554|determination|193|B|bioinfo_2014-11_34
+C0750729|course|162|B|bioinfo_2014-11_34
+C2673163|training|153|B|bioinfo_2014-11_34
+C1140694|Bioinformatics|18|B|bioinfo_2014-11_34
+C0680730|determination|30|S|bioinfo_2014-11_34
+C0680730|determination|193|B|bioinfo_2014-11_34
+C0220931|training|153|B|bioinfo_2014-11_34
+C0024492|mailing|576|B|bioinfo_2014-11_34
+C0729606|Chromosome structure|9|S|bioinfo_2014-11_34
+C0678594|structure|20|S|bioinfo_2014-11_34
+C0678594|structure|183|B|bioinfo_2014-11_34
+C0750729|Course|42|B|bioinfo_2014-11_34
+C0220931|Training|33|B|bioinfo_2014-11_34

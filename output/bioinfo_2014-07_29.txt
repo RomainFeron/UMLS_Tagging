@@ -1,0 +1,8 @@
+C0424093|initiative|311|B|bioinfo_2014-07_29
+C0449444|Route|923|B|bioinfo_2014-07_29
+C0012222|diffusion|825|B|bioinfo_2014-07_29
+C0037633|solutions|471|B|bioinfo_2014-07_29
+C0036397|Sciences|145|B|bioinfo_2014-07_29
+C0036397|sciences|204|B|bioinfo_2014-07_29
+C0449719|part|9|B|bioinfo_2014-07_29
+C1552020|part|9|B|bioinfo_2014-07_29

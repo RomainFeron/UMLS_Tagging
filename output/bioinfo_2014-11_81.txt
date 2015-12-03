@@ -1,0 +1,17 @@
+C0314603|Genetic|50|S|bioinfo_2014-11_81
+C0337611|contact|287|B|bioinfo_2014-11_81
+C0205396|Identifying|12|S|bioinfo_2014-11_81
+C0205396|Identifying|106|B|bioinfo_2014-11_81
+C1523987|Alternative|24|S|bioinfo_2014-11_81
+C1523987|Alternative|118|B|bioinfo_2014-11_81
+C0449851|Methods|94|B|bioinfo_2014-11_81
+C0332158|contact|287|B|bioinfo_2014-11_81
+C0030561|Paris|254|B|bioinfo_2014-11_81
+C0002345|Alternative Splicing|24|S|bioinfo_2014-11_81
+C0002345|Alternative Splicing|118|B|bioinfo_2014-11_81
+C0678257|description|418|B|bioinfo_2014-11_81
+C0282111|www|61|B|bioinfo_2014-11_81
+C0025663|Methods|94|B|bioinfo_2014-11_81
+C0035687|Splicing|36|S|bioinfo_2014-11_81
+C0035687|Splicing|130|B|bioinfo_2014-11_81
+C0331677|Paris|254|B|bioinfo_2014-11_81

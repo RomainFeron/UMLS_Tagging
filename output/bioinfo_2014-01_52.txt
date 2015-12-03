@@ -1,0 +1,34 @@
+C0006826|Cancer|304|B|bioinfo_2014-01_52
+C1552456|Research|311|B|bioinfo_2014-01_52
+C2707253|Cancer|304|B|bioinfo_2014-01_52
+C1280903|Exploration|404|B|bioinfo_2014-01_52
+C0205099|Center|320|B|bioinfo_2014-01_52
+C0018956|Stem Cell|382|B|bioinfo_2014-01_52
+C0007634|Cell|387|B|bioinfo_2014-01_52
+C1548287|Research|311|B|bioinfo_2014-01_52
+C1550557|and|400|B|bioinfo_2014-01_52
+C0337611|contact|220|B|bioinfo_2014-01_52
+C1269647|Cell|387|B|bioinfo_2014-01_52
+C1363945|Therapy|392|B|bioinfo_2014-01_52
+C0302189|Cell Therapy|387|B|bioinfo_2014-01_52
+C1704653|Cell|387|B|bioinfo_2014-01_52
+C0087111|Therapy|392|B|bioinfo_2014-01_52
+C0038250|Stem Cell|382|B|bioinfo_2014-01_52
+C1516225|Cancer Research|304|B|bioinfo_2014-01_52
+C0332158|contact|220|B|bioinfo_2014-01_52
+C1306459|Cancer|304|B|bioinfo_2014-01_52
+C1136359|Cell|387|B|bioinfo_2014-01_52
+C1547140|Cancer|304|B|bioinfo_2014-01_52
+C0242767|Stem|382|B|bioinfo_2014-01_52
+C0998265|Cancer|304|B|bioinfo_2014-01_52
+C0012634|diseases|429|B|bioinfo_2014-01_52
+C1186763|Stem|382|B|bioinfo_2014-01_52
+C0678257|description|484|B|bioinfo_2014-01_52
+C0282111|www|61|B|bioinfo_2014-01_52
+C0035168|Research|311|B|bioinfo_2014-01_52
+C1948049|Cell|387|B|bioinfo_2014-01_52
+C0242481|Research|311|B|bioinfo_2014-01_52
+C0878517|engineer|16|S|bioinfo_2014-01_52
+C0878517|engineer|110|B|bioinfo_2014-01_52
+C0733755|position|25|S|bioinfo_2014-01_52
+C0733755|position|119|B|bioinfo_2014-01_52

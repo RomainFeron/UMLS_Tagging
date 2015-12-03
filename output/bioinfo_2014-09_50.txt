@@ -1,0 +1,18 @@
+C1272753|Institute|316|B|bioinfo_2014-09_50
+C0887950|genomics|12|S|bioinfo_2014-09_50
+C0887950|genomics|106|B|bioinfo_2014-09_50
+C0007634|Cell|388|B|bioinfo_2014-09_50
+C1550557|and|21|S|bioinfo_2014-09_50
+C1550557|and|115|B|bioinfo_2014-09_50
+C0337611|contact|221|B|bioinfo_2014-09_50
+C1269647|Cell|388|B|bioinfo_2014-09_50
+C1704653|Cell|388|B|bioinfo_2014-09_50
+C0332158|contact|221|B|bioinfo_2014-09_50
+C1136359|Cell|388|B|bioinfo_2014-09_50
+C0678257|description|415|B|bioinfo_2014-09_50
+C0282111|www|61|B|bioinfo_2014-09_50
+C0282469|Biodiversity|344|B|bioinfo_2014-09_50
+C0010819|Cell Biology|388|B|bioinfo_2014-09_50
+C0015219|Evolution|330|B|bioinfo_2014-09_50
+C1948049|Cell|388|B|bioinfo_2014-09_50
+C0005532|Biology|393|B|bioinfo_2014-09_50

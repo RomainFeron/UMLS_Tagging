@@ -1,0 +1,11 @@
+C0037683|son|2199|B|bioinfo_2014-11_14
+C0185125|application|176|B|bioinfo_2014-11_14
+C0271054|Berlin|698|B|bioinfo_2014-11_14
+C0041740|Université|458|B|bioinfo_2014-11_14
+C0680644|jury|383|B|bioinfo_2014-11_14
+C0309847|premier|2000|B|bioinfo_2014-11_14
+C0236018|aura|246|B|bioinfo_2014-11_14
+C0005125|Berlin|698|B|bioinfo_2014-11_14
+C1551702|Alexander|642|B|bioinfo_2014-11_14
+C0086325|fois|1720|B|bioinfo_2014-11_14
+C0524865|reconstruction|1184|B|bioinfo_2014-11_14

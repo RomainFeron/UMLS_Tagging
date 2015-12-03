@@ -1,0 +1,13 @@
+C0337611|contact|224|B|bioinfo_2014-02_61
+C0332158|contact|224|B|bioinfo_2014-02_61
+C1709269|North|199|B|bioinfo_2014-02_61
+C0678257|description|362|B|bioinfo_2014-02_61
+C0205314|New|206|B|bioinfo_2014-02_61
+C0282111|www|61|B|bioinfo_2014-02_61
+C0036397|Sciences|325|B|bioinfo_2014-02_61
+C1880157|Computational|113|B|bioinfo_2014-02_61
+C1516769|Computational|113|B|bioinfo_2014-02_61
+C0036365|Scholarship|4|S|bioinfo_2014-02_61
+C0036365|Scholarship|98|B|bioinfo_2014-02_61
+C1880157|Computation|19|S|bioinfo_2014-02_61
+C1512022|PhD|94|B|bioinfo_2014-02_61

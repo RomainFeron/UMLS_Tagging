@@ -1,0 +1,5 @@
+C0337611|contact|246|B|bioinfo_2014-11_23
+C0178499|base|157|B|bioinfo_2014-11_23
+C0332158|contact|246|B|bioinfo_2014-11_23
+C0017398|Génétique|369|B|bioinfo_2014-11_23
+C1550601|base|157|B|bioinfo_2014-11_23

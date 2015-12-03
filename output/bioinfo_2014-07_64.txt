@@ -1,0 +1,6 @@
+C0337611|contact|278|B|bioinfo_2014-07_64
+C2654192|Rebecca|292|B|bioinfo_2014-07_64
+C0332158|contact|278|B|bioinfo_2014-07_64
+C2348314|Dr.|288|B|bioinfo_2014-07_64
+C0678257|description|413|B|bioinfo_2014-07_64
+C0282111|www|62|B|bioinfo_2014-07_64

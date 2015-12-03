@@ -1,0 +1,56 @@
+C1561958|High|669|B|bioinfo_2014-06_24
+C0870071|modeling|400|B|bioinfo_2014-06_24
+C0006826|Cancer|602|B|bioinfo_2014-06_24
+C2707253|Cancer|602|B|bioinfo_2014-06_24
+C0729333|Dynamic|649|B|bioinfo_2014-06_24
+C1561957|High|669|B|bioinfo_2014-06_24
+C1550557|and|32|S|bioinfo_2014-06_24
+C1550557|and|112|B|bioinfo_2014-06_24
+C0543488|interest|359|B|bioinfo_2014-06_24
+C0205460|biological|412|B|bioinfo_2014-06_24
+C0042950|will|141|B|bioinfo_2014-06_24
+C0086047|conference|480|B|bioinfo_2014-06_24
+C0237876|share|343|B|bioinfo_2014-06_24
+C0600109|will find|703|B|bioinfo_2014-06_24
+C0443058|Simon|981|B|bioinfo_2014-06_24
+C0038215|statistical|375|B|bioinfo_2014-06_24
+C0005532|biology|330|B|bioinfo_2014-06_24
+C0442504|place|151|B|bioinfo_2014-06_24
+C0205476|medical|458|B|bioinfo_2014-06_24
+C1299351|High|669|B|bioinfo_2014-06_24
+C0677507|workshop|65|B|bioinfo_2014-06_24
+C1524024|analysis|387|B|bioinfo_2014-06_24
+C0013227|Medicine|36|S|bioinfo_2014-06_24
+C1306459|Cancer|602|B|bioinfo_2014-06_24
+C1547140|Cancer|602|B|bioinfo_2014-06_24
+C0998265|Cancer|602|B|bioinfo_2014-06_24
+C0040649|Transcription|621|B|bioinfo_2014-06_24
+C0376675|posters|557|B|bioinfo_2014-06_24
+C1533716|information|721|B|bioinfo_2014-06_24
+C2709265|Cologne|160|B|bioinfo_2014-06_24
+C0332296|free of|494|B|bioinfo_2014-06_24
+C0443211|established|221|B|bioinfo_2014-06_24
+C0205250|High|669|B|bioinfo_2014-06_24
+C1300196|organising|862|B|bioinfo_2014-06_24
+C1140694|bioinformatics|288|B|bioinfo_2014-06_24
+C0025118|Medicine|36|S|bioinfo_2014-06_24
+C0235146|High|669|B|bioinfo_2014-06_24
+C0679646|participants|515|B|bioinfo_2014-06_24
+C0185125|applications|442|B|bioinfo_2014-06_24
+C0332296|free|494|B|bioinfo_2014-06_24
+C0042789|seeing|832|B|bioinfo_2014-06_24
+C0005544|biostatistics|304|B|bioinfo_2014-06_24
+C0079816|medical research|458|B|bioinfo_2014-06_24
+C0242262|workshop|65|B|bioinfo_2014-06_24
+C0936012|analysis|387|B|bioinfo_2014-06_24
+C0026336|Models|14|S|bioinfo_2014-06_24
+C0026336|Models|94|B|bioinfo_2014-06_24
+C0870705|information|721|B|bioinfo_2014-06_24
+C0005532|Biology|24|S|bioinfo_2014-06_24
+C0005532|Biology|104|B|bioinfo_2014-06_24
+C0600118|talks|568|B|bioinfo_2014-06_24
+C1551058|are|26|B|bioinfo_2014-06_24
+C0439780|forward|821|B|bioinfo_2014-06_24
+C0026339|Models|14|S|bioinfo_2014-06_24
+C0026339|Models|94|B|bioinfo_2014-06_24
+C0871424|statistical analysis|375|B|bioinfo_2014-06_24

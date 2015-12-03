@@ -1,0 +1,21 @@
+C1721089|Marais|778|B|bioinfo_2014-11_45
+C1550557|and|3042|B|bioinfo_2014-11_45
+C0995582|Prochlorococcus|1952|B|bioinfo_2014-11_45
+C0679083|simulation|2510|B|bioinfo_2014-11_45
+C0035150|reproduction|1792|B|bioinfo_2014-11_45
+C0228018|teste|2528|B|bioinfo_2014-11_45
+C0680644|jury|423|B|bioinfo_2014-11_45
+C0038492|Student|3009|B|bioinfo_2014-11_45
+C0524645|marines|1938|B|bioinfo_2014-11_45
+C0032659|population|1862|B|bioinfo_2014-11_45
+C0030561|Paris|494|B|bioinfo_2014-11_45
+C1219042|Pelagibacter|1971|B|bioinfo_2014-11_45
+C0871489|Team|3155|B|bioinfo_2014-11_45
+C0036143|Char|306|B|bioinfo_2014-11_45
+C0236018|aura|245|B|bioinfo_2014-11_45
+C0376528|Computational Biology|3020|B|bioinfo_2014-11_45
+C1880157|Computational|3020|B|bioinfo_2014-11_45
+C1516769|Computational|3020|B|bioinfo_2014-11_45
+C0042789|vision|990|B|bioinfo_2014-11_45
+C0005532|Biology|3034|B|bioinfo_2014-11_45
+C0331677|Paris|494|B|bioinfo_2014-11_45

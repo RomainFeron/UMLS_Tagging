@@ -1,0 +1,6 @@
+C0337611|contact|211|B|bioinfo_2014-01_14
+C0005532|Biologie|16|S|bioinfo_2014-01_14
+C0005532|Biologie|108|B|bioinfo_2014-01_14
+C0332158|contact|211|B|bioinfo_2014-01_14
+C0678257|description|353|B|bioinfo_2014-01_14
+C0282111|www|61|B|bioinfo_2014-01_14

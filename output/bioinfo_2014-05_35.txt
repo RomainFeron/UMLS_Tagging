@@ -1,0 +1,13 @@
+C0376528|computational biology|11|S|bioinfo_2014-05_35
+C0376528|computational biology|107|B|bioinfo_2014-05_35
+C1550557|and|353|B|bioinfo_2014-05_35
+C0337611|contact|219|B|bioinfo_2014-05_35
+C1553390|new|357|B|bioinfo_2014-05_35
+C0205314|new|357|B|bioinfo_2014-05_35
+C0586917|Postdoc|96|B|bioinfo_2014-05_35
+C0005532|biology|25|S|bioinfo_2014-05_35
+C0005532|biology|121|B|bioinfo_2014-05_35
+C0332158|contact|219|B|bioinfo_2014-05_35
+C0678257|description|403|B|bioinfo_2014-05_35
+C0282111|www|63|B|bioinfo_2014-05_35
+C1578513|new|357|B|bioinfo_2014-05_35

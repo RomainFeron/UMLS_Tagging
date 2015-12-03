@@ -1,0 +1,14 @@
+C0250759|MAP5|388|B|bioinfo_2014-01_53
+C0086047|Conférences|51|B|bioinfo_2014-01_53
+C0004268|attention|434|B|bioinfo_2014-01_53
+C0030561|Paris|27|S|bioinfo_2014-01_53
+C0030561|Paris|148|B|bioinfo_2014-01_53
+C1414864|Les|295|B|bioinfo_2014-01_53
+C1533716|information|533|B|bioinfo_2014-01_53
+C0185125|applications|217|B|bioinfo_2014-01_53
+C0036397|sciences|234|B|bioinfo_2014-01_53
+C1417004|MAP5|388|B|bioinfo_2014-01_53
+C0011008|date|449|B|bioinfo_2014-01_53
+C0870705|information|533|B|bioinfo_2014-01_53
+C0331677|Paris|27|S|bioinfo_2014-01_53
+C0331677|Paris|148|B|bioinfo_2014-01_53

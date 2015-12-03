@@ -1,0 +1,10 @@
+C0033629|Ingénierie des protéines|1227|B|bioinfo_2014-03_56
+C0376675|poster|603|B|bioinfo_2014-03_56
+C0237070|disciplines|109|B|bioinfo_2014-03_56
+C0442504|place|412|B|bioinfo_2014-03_56
+C0872323|nanotechnologies|1407|B|bioinfo_2014-03_56
+C0005532|Biologie|133|B|bioinfo_2014-03_56
+C0013806|est|74|B|bioinfo_2014-03_56
+C1533716|informations|793|B|bioinfo_2014-03_56
+C0014279|Ingénierie|1153|B|bioinfo_2014-03_56
+C0687670|mis|405|B|bioinfo_2014-03_56

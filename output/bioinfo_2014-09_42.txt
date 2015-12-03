@@ -1,0 +1,16 @@
+C0443058|simon|293|B|bioinfo_2014-09_42
+C1550557|and|50|S|bioinfo_2014-09_42
+C1550557|and|144|B|bioinfo_2014-09_42
+C0337611|contact|250|B|bioinfo_2014-09_42
+C0443058|Simon|260|B|bioinfo_2014-09_42
+C2673163|training|13|S|bioinfo_2014-09_42
+C2673163|training|107|B|bioinfo_2014-09_42
+C0332158|contact|250|B|bioinfo_2014-09_42
+C0520510|material|22|S|bioinfo_2014-09_42
+C0520510|material|116|B|bioinfo_2014-09_42
+C0220931|training|13|S|bioinfo_2014-09_42
+C0220931|training|107|B|bioinfo_2014-09_42
+C0678257|description|364|B|bioinfo_2014-09_42
+C0282111|www|61|B|bioinfo_2014-09_42
+C1140694|bioinformatics|35|S|bioinfo_2014-09_42
+C1140694|bioinformatics|129|B|bioinfo_2014-09_42

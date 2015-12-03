@@ -1,0 +1,8 @@
+C0337611|contact|321|B|bioinfo_2014-11_4
+C0005532|Biologie|417|B|bioinfo_2014-11_4
+C0332158|contact|321|B|bioinfo_2014-11_4
+C0005544|Biométrie|404|B|bioinfo_2014-11_4
+C0678257|description|445|B|bioinfo_2014-11_4
+C0282111|www|61|B|bioinfo_2014-11_4
+C0442989|benjamin|363|B|bioinfo_2014-11_4
+C0442989|Benjamin|331|B|bioinfo_2014-11_4

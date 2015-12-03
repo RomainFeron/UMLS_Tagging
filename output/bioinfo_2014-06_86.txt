@@ -1,0 +1,11 @@
+C1552960|line|14|S|bioinfo_2014-06_86
+C0795974|EBM|5|S|bioinfo_2014-06_86
+C0011065|Dead|9|S|bioinfo_2014-06_86
+C0556656|Meeting|85|B|bioinfo_2014-06_86
+C1306577|Dead|9|S|bioinfo_2014-06_86
+C0205132|line|14|S|bioinfo_2014-06_86
+C1546956|Dead|9|S|bioinfo_2014-06_86
+C0013806|est|107|B|bioinfo_2014-06_86
+C0309847|premiers|277|B|bioinfo_2014-06_86
+C1414235|EBM|5|S|bioinfo_2014-06_86
+C0011008|date|14|B|bioinfo_2014-06_86

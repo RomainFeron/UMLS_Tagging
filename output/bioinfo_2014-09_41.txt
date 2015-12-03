@@ -1,0 +1,15 @@
+C0337611|contact|249|B|bioinfo_2014-09_41
+C1524026|Metabolic|94|B|bioinfo_2014-09_41
+C0311400|Metabolic|94|B|bioinfo_2014-09_41
+C0332158|contact|249|B|bioinfo_2014-09_41
+C2707259|Metabolic|94|B|bioinfo_2014-09_41
+C0678257|description|374|B|bioinfo_2014-09_41
+C0282111|www|61|B|bioinfo_2014-09_41
+C0013935|embryonic|49|S|bioinfo_2014-09_41
+C0013935|embryonic|141|B|bioinfo_2014-09_41
+C1279919|early|43|S|bioinfo_2014-09_41
+C1279919|early|135|B|bioinfo_2014-09_41
+C1327622|regulation|10|S|bioinfo_2014-09_41
+C1327622|regulation|104|B|bioinfo_2014-09_41
+C0851285|regulation|10|S|bioinfo_2014-09_41
+C0851285|regulation|104|B|bioinfo_2014-09_41

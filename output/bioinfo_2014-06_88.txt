@@ -1,0 +1,13 @@
+C0337611|contact|262|B|bioinfo_2014-06_88
+C0332158|contact|262|B|bioinfo_2014-06_88
+C0005544|Biométrie|388|B|bioinfo_2014-06_88
+C0871489|Team|359|B|bioinfo_2014-06_88
+C0678257|description|429|B|bioinfo_2014-06_88
+C0282111|www|71|B|bioinfo_2014-06_88
+C0376528|Computational Biology|104|B|bioinfo_2014-06_88
+C1880157|Computational|104|B|bioinfo_2014-06_88
+C1516769|Computational|104|B|bioinfo_2014-06_88
+C0439231|months|205|B|bioinfo_2014-06_88
+C1337281|Bamboo|352|B|bioinfo_2014-06_88
+C0005532|Biology|14|S|bioinfo_2014-06_88
+C0005532|Biology|118|B|bioinfo_2014-06_88

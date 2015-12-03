@@ -1,0 +1,8 @@
+C0599807|Informatique|12|S|bioinfo_2014-09_45
+C0599807|Informatique|104|B|bioinfo_2014-09_45
+C0337611|contact|211|B|bioinfo_2014-09_45
+C0332158|contact|211|B|bioinfo_2014-09_45
+C0557854|Service|312|B|bioinfo_2014-09_45
+C0678257|description|363|B|bioinfo_2014-09_45
+C0282111|www|61|B|bioinfo_2014-09_45
+C2825316|Service|312|B|bioinfo_2014-09_45

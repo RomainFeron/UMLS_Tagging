@@ -1,0 +1,9 @@
+C0443058|simon|363|B|bioinfo_2014-10_99
+C1550557|and|491|B|bioinfo_2014-10_99
+C0337611|contact|319|B|bioinfo_2014-10_99
+C0887950|Génomique|99|B|bioinfo_2014-10_99
+C0005532|Biologie|420|B|bioinfo_2014-10_99
+C0332158|contact|319|B|bioinfo_2014-10_99
+C1140694|Bioinformatics|495|B|bioinfo_2014-10_99
+C0678257|description|539|B|bioinfo_2014-10_99
+C0282111|www|61|B|bioinfo_2014-10_99

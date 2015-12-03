@@ -1,0 +1,6 @@
+C0337611|contact|225|B|bioinfo_2014-11_19
+C0332158|contact|225|B|bioinfo_2014-11_19
+C0678257|description|333|B|bioinfo_2014-11_19
+C0282111|www|61|B|bioinfo_2014-11_19
+C0035553|ribosome|52|S|bioinfo_2014-11_19
+C0035553|ribosome|137|B|bioinfo_2014-11_19

@@ -1,0 +1,16 @@
+C0470265|200|248|B|bioinfo_2014-12_28
+C0238190|IBM|30|B|bioinfo_2014-12_28
+C0025664|techniques|954|B|bioinfo_2014-12_28
+C0037683|son|316|B|bioinfo_2014-12_28
+C0336779|machine|134|B|bioinfo_2014-12_28
+C0683625|cadre|42|B|bioinfo_2014-12_28
+C1140694|Bioinformatique|1110|B|bioinfo_2014-12_28
+C0008139|bat|1145|B|bioinfo_2014-12_28
+C0806909|maximum|800|B|bioinfo_2014-12_28
+C0238339|HPC|335|B|bioinfo_2014-12_28
+C0036397|sciences|112|B|bioinfo_2014-12_28
+C1705738|mode|320|B|bioinfo_2014-12_28
+C0597198|Performance|345|B|bioinfo_2014-12_28
+C1552615|maximum|800|B|bioinfo_2014-12_28
+C1882330|Performance|345|B|bioinfo_2014-12_28
+C0743223|disposition|78|B|bioinfo_2014-12_28

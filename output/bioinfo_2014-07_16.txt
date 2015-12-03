@@ -1,0 +1,7 @@
+C0795974|EBM|5|S|bioinfo_2014-07_16
+C0556656|Meeting|42|B|bioinfo_2014-07_16
+C0013806|est|64|B|bioinfo_2014-07_16
+C0848332|spots|153|B|bioinfo_2014-07_16
+C1414235|EBM|5|S|bioinfo_2014-07_16
+C0015230|spots|153|B|bioinfo_2014-07_16
+C0005532|Biology|34|B|bioinfo_2014-07_16

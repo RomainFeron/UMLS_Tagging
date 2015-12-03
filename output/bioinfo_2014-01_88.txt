@@ -1,0 +1,26 @@
+C1516627|Research Associate|2121|B|bioinfo_2014-01_88
+C1552456|Research|2121|B|bioinfo_2014-01_88
+C1332745|CEA|1886|B|bioinfo_2014-01_88
+C0470270|400|1914|B|bioinfo_2014-01_88
+C1548287|Research|2121|B|bioinfo_2014-01_88
+C1418994|CEA|1886|B|bioinfo_2014-01_88
+C0887950|Génomique|1873|B|bioinfo_2014-01_88
+C0336779|machines|277|B|bioinfo_2014-01_88
+C0683625|cadre|944|B|bioinfo_2014-01_88
+C0750490|Associate|2130|B|bioinfo_2014-01_88
+C0591239|Cedex|2252|B|bioinfo_2014-01_88
+C1706545|CEA|1886|B|bioinfo_2014-01_88
+C1706221|Associate|2130|B|bioinfo_2014-01_88
+C1533716|informations|1388|B|bioinfo_2014-01_88
+C0236018|aura|1658|B|bioinfo_2014-01_88
+C0007082|CEA|1886|B|bioinfo_2014-01_88
+C1300072|stage|11|S|bioinfo_2014-01_88
+C1300072|stage|1198|B|bioinfo_2014-01_88
+C0035168|Research|2121|B|bioinfo_2014-01_88
+C1332744|CEA|1886|B|bioinfo_2014-01_88
+C0242481|Research|2121|B|bioinfo_2014-01_88
+C0233535|but|861|B|bioinfo_2014-01_88
+C0586917|Research Associate|2121|B|bioinfo_2014-01_88
+C0282116|collaboration|1826|B|bioinfo_2014-01_88
+C0524865|reconstruction|529|B|bioinfo_2014-01_88
+C0376683|lecture|387|B|bioinfo_2014-01_88

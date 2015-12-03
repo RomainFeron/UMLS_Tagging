@@ -1,0 +1,15 @@
+C0599807|Informatique|1377|B|bioinfo_2014-09_47
+C0470265|200|1001|B|bioinfo_2014-09_47
+C0442504|places|845|B|bioinfo_2014-09_47
+C0470275|1000|1025|B|bioinfo_2014-09_47
+C0007961|charge|1072|B|bioinfo_2014-09_47
+C0178566|concepts|518|B|bioinfo_2014-09_47
+C0557854|Service|1369|B|bioinfo_2014-09_47
+C1140694|Bioinformatics|1478|B|bioinfo_2014-09_47
+C0220781|formation|205|B|bioinfo_2014-09_47
+C0309847|premier|228|B|bioinfo_2014-09_47
+C1533716|informations|1147|B|bioinfo_2014-09_47
+C0439634|formation|205|B|bioinfo_2014-09_47
+C0679646|participants|1083|B|bioinfo_2014-09_47
+C2825316|Service|1369|B|bioinfo_2014-09_47
+C1883310|1000|1025|B|bioinfo_2014-09_47

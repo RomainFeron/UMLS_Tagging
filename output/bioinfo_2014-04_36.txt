@@ -1,0 +1,9 @@
+C0039828|these|82|B|bioinfo_2014-04_36
+C0185125|application|493|B|bioinfo_2014-04_36
+C1317574|note|479|B|bioinfo_2014-04_36
+C0041740|University|43|S|bioinfo_2014-04_36
+C0733755|positions|26|S|bioinfo_2014-04_36
+C0733755|positions|15|B|bioinfo_2014-04_36
+C0004340|Australia|52|B|bioinfo_2014-04_36
+C0175566|opening|25|B|bioinfo_2014-04_36
+C0034391|Queensland|57|S|bioinfo_2014-04_36

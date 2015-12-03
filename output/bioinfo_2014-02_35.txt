@@ -1,0 +1,5 @@
+C0442504|place|1179|B|bioinfo_2014-02_35
+C0013806|est|494|B|bioinfo_2014-02_35
+C0220781|formation|206|B|bioinfo_2014-02_35
+C1533716|informations|878|B|bioinfo_2014-02_35
+C0439634|formation|206|B|bioinfo_2014-02_35

@@ -1,0 +1,11 @@
+C0333052|version|280|B|bioinfo_2014-03_16
+C0330928|rue|701|B|bioinfo_2014-03_16
+C0441792|edition|5|S|bioinfo_2014-03_16
+C0441792|edition|88|B|bioinfo_2014-03_16
+C0330929|rue|701|B|bioinfo_2014-03_16
+C0591239|Cedex|724|B|bioinfo_2014-03_16
+C0030561|Paris|718|B|bioinfo_2014-03_16
+C0392366|tests|134|B|bioinfo_2014-03_16
+C2239224|tests|134|B|bioinfo_2014-03_16
+C0034865|Recombinaison|606|B|bioinfo_2014-03_16
+C0331677|Paris|718|B|bioinfo_2014-03_16

@@ -1,0 +1,10 @@
+C0337611|contact|205|B|bioinfo_2014-11_65
+C1171411|Support|121|B|bioinfo_2014-11_65
+C0332158|contact|205|B|bioinfo_2014-11_65
+C0344211|Support|121|B|bioinfo_2014-11_65
+C0678257|description|308|B|bioinfo_2014-11_65
+C0183683|Support|121|B|bioinfo_2014-11_65
+C0282111|www|61|B|bioinfo_2014-11_65
+C1317973|Support|121|B|bioinfo_2014-11_65
+C0022192|Ile|184|B|bioinfo_2014-11_65
+C1521721|Support|121|B|bioinfo_2014-11_65

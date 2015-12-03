@@ -1,0 +1,11 @@
+C0337611|contact|243|B|bioinfo_2014-06_97
+C0032098|plant|143|B|bioinfo_2014-06_97
+C0029246|organization|19|S|bioinfo_2014-06_97
+C0029246|organization|127|B|bioinfo_2014-06_97
+C0332158|contact|243|B|bioinfo_2014-06_97
+C1561598|organization|19|S|bioinfo_2014-06_97
+C1561598|organization|127|B|bioinfo_2014-06_97
+C0678257|description|343|B|bioinfo_2014-06_97
+C0282111|www|75|B|bioinfo_2014-06_97
+C0220885|organization|19|S|bioinfo_2014-06_97
+C0220885|organization|127|B|bioinfo_2014-06_97

@@ -1,0 +1,16 @@
+C0337611|contact|232|B|bioinfo_2014-01_48
+C0410539|CDD|172|B|bioinfo_2014-01_48
+C0011900|Diagnostic|49|S|bioinfo_2014-01_48
+C0011900|Diagnostic|133|B|bioinfo_2014-01_48
+C2698602|CDD|172|B|bioinfo_2014-01_48
+C0348026|Diagnostic|49|S|bioinfo_2014-01_48
+C0348026|Diagnostic|133|B|bioinfo_2014-01_48
+C0332158|contact|232|B|bioinfo_2014-01_48
+C2675746|CDD|172|B|bioinfo_2014-01_48
+C0678257|description|396|B|bioinfo_2014-01_48
+C0282111|www|61|B|bioinfo_2014-01_48
+C1547424|Diagnostic|49|S|bioinfo_2014-01_48
+C1547424|Diagnostic|133|B|bioinfo_2014-01_48
+C0358514|Diagnostic|49|S|bioinfo_2014-01_48
+C0358514|Diagnostic|133|B|bioinfo_2014-01_48
+C1413247|CDD|172|B|bioinfo_2014-01_48

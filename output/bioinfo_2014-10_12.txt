@@ -1,0 +1,11 @@
+C0680536|commercial|390|B|bioinfo_2014-10_12
+C0040722|transmission|1549|B|bioinfo_2014-10_12
+C0282411|comment|1001|B|bioinfo_2014-10_12
+C0475264|localisation|1776|B|bioinfo_2014-10_12
+C0013806|est|896|B|bioinfo_2014-10_12
+C0179038|analyser|983|B|bioinfo_2014-10_12
+C0016674|France|424|B|bioinfo_2014-10_12
+C1300072|stage|16|B|bioinfo_2014-10_12
+C0947611|comment|1001|B|bioinfo_2014-10_12
+C0678594|structure|632|B|bioinfo_2014-10_12
+C0230113|fins|1510|B|bioinfo_2014-10_12

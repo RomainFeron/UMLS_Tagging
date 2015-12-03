@@ -1,0 +1,13 @@
+C0205250|high|525|B|bioinfo_2014-02_16
+C0023185|learning|515|B|bioinfo_2014-02_16
+C0336779|machine|507|B|bioinfo_2014-02_16
+C0237070|disciplines|362|B|bioinfo_2014-02_16
+C0422202|notification|926|B|bioinfo_2014-02_16
+C2718284|mai|915|B|bioinfo_2014-02_16
+C0013806|est|242|B|bioinfo_2014-02_16
+C1533716|informations|1081|B|bioinfo_2014-02_16
+C0597198|performance|530|B|bioinfo_2014-02_16
+C0011008|date|841|B|bioinfo_2014-02_16
+C0026914|mai|915|B|bioinfo_2014-02_16
+C0333052|versions|976|B|bioinfo_2014-02_16
+C0013621|learning|515|B|bioinfo_2014-02_16

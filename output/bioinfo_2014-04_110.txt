@@ -1,0 +1,5 @@
+C0337611|contact|196|B|bioinfo_2014-04_110
+C0007996|Chimie|298|B|bioinfo_2014-04_110
+C0332158|contact|196|B|bioinfo_2014-04_110
+C0678257|description|337|B|bioinfo_2014-04_110
+C0282111|www|62|B|bioinfo_2014-04_110

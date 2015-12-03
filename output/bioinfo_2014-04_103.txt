@@ -1,0 +1,14 @@
+C0006137|Brésil|1830|B|bioinfo_2014-04_103
+C0005532|Biologie|128|B|bioinfo_2014-04_103
+C0013806|est|86|B|bioinfo_2014-04_103
+C0869014|relations|1029|B|bioinfo_2014-04_103
+C1550513|via|527|B|bioinfo_2014-04_103
+C0220781|formation|1088|B|bioinfo_2014-04_103
+C0039401|Enseignement|551|B|bioinfo_2014-04_103
+C0549177|large|1020|B|bioinfo_2014-04_103
+C0005544|Biométrie|115|B|bioinfo_2014-04_103
+C1414864|Les|655|B|bioinfo_2014-04_103
+C0439634|formation|1088|B|bioinfo_2014-04_103
+C0011008|date|47|S|bioinfo_2014-04_103
+C0011008|date|269|B|bioinfo_2014-04_103
+C0035168|Recherche|862|B|bioinfo_2014-04_103

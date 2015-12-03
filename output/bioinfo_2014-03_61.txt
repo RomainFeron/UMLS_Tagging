@@ -1,0 +1,11 @@
+C0441472|actions|184|B|bioinfo_2014-03_61
+C0439634|formations|615|B|bioinfo_2014-03_61
+C0012222|diffusion|459|B|bioinfo_2014-03_61
+C0085205|Fax|1662|B|bioinfo_2014-03_61
+C1880669|Fax|1662|B|bioinfo_2014-03_61
+C1578433|Fax|1662|B|bioinfo_2014-03_61
+C0016674|France|648|B|bioinfo_2014-03_61
+C2338314|Genome|1475|B|bioinfo_2014-03_61
+C0017428|Genome|1475|B|bioinfo_2014-03_61
+C1547563|Fax|1662|B|bioinfo_2014-03_61
+C0087164|vocation|74|B|bioinfo_2014-03_61

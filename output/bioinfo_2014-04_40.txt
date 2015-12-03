@@ -1,0 +1,9 @@
+C0599807|Informatique|29|S|bioinfo_2014-04_40
+C0013806|est|403|B|bioinfo_2014-04_40
+C0030561|Paris|42|S|bioinfo_2014-04_40
+C0030561|Paris|105|B|bioinfo_2014-04_40
+C0036397|Sciences|81|B|bioinfo_2014-04_40
+C0011008|date|365|B|bioinfo_2014-04_40
+C0687670|mis|26|B|bioinfo_2014-04_40
+C0331677|Paris|42|S|bioinfo_2014-04_40
+C0331677|Paris|105|B|bioinfo_2014-04_40

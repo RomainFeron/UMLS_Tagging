@@ -1,0 +1,9 @@
+C0185125|application|167|B|bioinfo_2014-12_56
+C0337611|contact|361|B|bioinfo_2014-12_56
+C0332158|contact|361|B|bioinfo_2014-12_56
+C0205419|variation|145|S|bioinfo_2014-12_56
+C0205419|variation|231|B|bioinfo_2014-12_56
+C0678257|description|456|B|bioinfo_2014-12_56
+C0282111|www|61|B|bioinfo_2014-12_56
+C0032659|populations|158|S|bioinfo_2014-12_56
+C0032659|populations|244|B|bioinfo_2014-12_56

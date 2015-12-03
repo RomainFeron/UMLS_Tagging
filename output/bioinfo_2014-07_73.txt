@@ -1,0 +1,8 @@
+C1280903|Exploration|95|B|bioinfo_2014-07_73
+C0337611|contact|299|B|bioinfo_2014-07_73
+C0687133|Interactions|405|B|bioinfo_2014-07_73
+C0332158|contact|299|B|bioinfo_2014-07_73
+C0678257|description|456|B|bioinfo_2014-07_73
+C0282111|www|62|B|bioinfo_2014-07_73
+C0001774|champignons|32|S|bioinfo_2014-07_73
+C0001774|champignons|122|B|bioinfo_2014-07_73

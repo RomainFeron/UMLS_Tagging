@@ -1,0 +1,140 @@
+C1956108|bioinfo_2014-12_23
+C0178801|bioinfo_2014-01_58
+C1291081|bioinfo_2014-10_57
+C0026376|bioinfo_2014-02_42
+C0017262|bioinfo_2014-05_67
+C0009605|bioinfo_2014-09_34
+C0497169|bioinfo_2014-05_67
+|bioinfo_2014-05_67
+C1047211|bioinfo_2014-06_94
+C1519068|bioinfo_2014-06_94.recoded.eval', '._cp_docs_bioinfo_2014-10_19
+C0950132|bioinfo_2014-06_94
+C1721099|bioinfo_2014-10_57
+C0558478|bioinfo_2014-02_81.recoded.eval', '._cp_docs_bioinfo_2014-12_26
+C0021785|bioinfo_2014-04_66
+C0005526|bioinfo_2014-04_66.recoded.eval', '._cp_docs_bioinfo_2014-06_34
+C2827400|bioinfo_2014-01_58
+C0376284|bioinfo_2014-03_26.recoded.eval', '._cp_docs_bioinfo_2014-06_3
+C0599840|bioinfo_2014-06_94
+C0027765|bioinfo_2014-05_67
+C2697524|bioinfo_2014-06_94
+C2363670|bioinfo_2014-06_3
+C0242262|bioinfo_2014-04_66
+C0917793|bioinfo_2014-02_81
+C1517484|bioinfo_2014-06_94
+C0005488|bioinfo_2014-12_23
+C0814722|bioinfo_2014-04_66
+C0031764|bioinfo_2014-06_94
+C1879848|bioinfo_2014-06_34
+C1517504|bioinfo_2014-01_58.recoded.eval', '._cp_docs_bioinfo_2014-01_58.recoded.eval~']
+C1956267|bioinfo_2014-02_81
+C1880171|bioinfo_2014-06_94
+C0029244|bioinfo_2014-02_35
+C0001829|bioinfo_2014-01_30
+C1254364|bioinfo_2014-06_42
+C0014415|bioinfo_2014-06_29
+C0277784|bioinfo_2014-01_30
+C0028811|bioinfo_2014-06_34
+C0086390|bioinfo_2014-02_35
+C0017363|bioinfo_2014-06_94
+C0162326|bioinfo_2014-04_27
+C0032347|bioinfo_2014-02_35
+C0013630|bioinfo_2014-07_29
+C0005532|bioinfo_2014-02_35
+C0032667|bioinfo_2014-09_20
+C0334963|bioinfo_2014-04_66
+C2717924|bioinfo_2014-03_26.recoded.eval', '._cp_docs_bioinfo_2014-05_31
+C1456459|bioinfo_2014-09_20
+C0035174|bioinfo_2014-02_35
+C0586182|bioinfo_2014-06_42
+C0242481|bioinfo_2014-02_42
+C0017263|bioinfo_2014-06_34.recoded.eval', '._cp_docs_bioinfo_2014-06_34
+C0009247|bioinfo_2014-02_42
+C0010996|bioinfo_2014-10_57
+C0018684|bioinfo_2014-12_23
+C0023676|bioinfo_2014-06_94
+C1140694|bioinfo_2014-02_42.recoded.eval', '._cp_docs_bioinfo_2014-03_26.recoded.eval', '._cp_docs_bioinfo_2014-03_62.recoded.eval', '._cp_docs_bioinfo_2014-04_27.recoded.eval', '._cp_docs_bioinfo_2014-05_31.recoded.eval', '._cp_docs_bioinfo_2014-05_67.recoded.eval', '._cp_docs_bioinfo_2014-06_34.recoded.eval', '._cp_docs_bioinfo_2014-06_42.recoded.eval', '._cp_docs_bioinfo_2014-06_94.recoded.eval', '._cp_docs_bioinfo_2014-10_57
+C0917792|bioinfo_2014-12_26
+C0376528|bioinfo_2014-01_30.recoded.eval', '._cp_docs_bioinfo_2014-06_42
+C0035544|bioinfo_2014-05_67
+C0586917|bioinfo_2014-02_42.recoded.eval', '._cp_docs_bioinfo_2014-05_31
+C0181839|bioinfo_2014-12_26
+C0017428|bioinfo_2014-04_27
+C2718059|bioinfo_2014-03_26
+C2350481|bioinfo_2014-02_42
+C0020242|bioinfo_2014-06_29
+C0014003|bioinfo_2014-03_62
+C1171366|bioinfo_2014-06_42
+C0020123|bioinfo_2014-09_20
+C1519620|bioinfo_2014-03_26
+C0035240|bioinfo_2014-12_23
+C2350277|bioinfo_2014-12_23
+C0025118|bioinfo_2014-01_30
+C0238815|bioinfo_2014-06_42
+C0009462|bioinfo_2014-06_94
+C2697523|bioinfo_2014-06_94
+C0599726|bioinfo_2014-01_30
+C0013203|bioinfo_2014-06_94
+C2348746|bioinfo_2014-05_31
+C1609465|bioinfo_2014-12_26
+C1880170|bioinfo_2014-10_57
+C1826636|bioinfo_2014-05_67
+C0679201|bioinfo_2014-05_67
+C0008972|bioinfo_2014-03_26
+C1519595|bioinfo_2014-02_81
+C0013227|bioinfo_2014-12_23
+C0872316|bioinfo_2014-06_42
+C0237805|bioinfo_2014-05_31
+C0039421|bioinfo_2014-06_34
+C1007013|bioinfo_2014-01_58
+C0013185|bioinfo_2014-03_26
+C1517329|bioinfo_2014-04_66
+C0085081|bioinfo_2014-01_30
+C0002345|bioinfo_2014-02_81
+C2936625|bioinfo_2014-12_26
+C0038215|bioinfo_2014-05_67
+C0038250|bioinfo_2014-06_34
+C0028762|bioinfo_2014-12_23
+C0013546|bioinfo_2014-01_30.recoded.eval', '._cp_docs_bioinfo_2014-01_30
+C1285572|bioinfo_2014-12_23
+C0011756|bioinfo_2014-01_30.recoded.eval', '._cp_docs_bioinfo_2014-06_34
+C0678594|bioinfo_2014-12_23
+C0887950|bioinfo_2014-01_58.recoded.eval', '._cp_docs_bioinfo_2014-03_62.recoded.eval', '._cp_docs_bioinfo_2014-06_34
+C2936494|bioinfo_2014-05_67
+C0699910|bioinfo_2014-01_30
+C1419339|bioinfo_2014-05_67
+C0242715|bioinfo_2014-09_20
+C0008546|bioinfo_2014-09_20
+C0554202|bioinfo_2014-12_23
+C0039828|bioinfo_2014-06_29
+C0018951|bioinfo_2014-09_20
+C1522492|bioinfo_2014-02_35.recoded.eval', '._cp_docs_bioinfo_2014-07_4
+C1879748|bioinfo_2014-02_81
+C0032529|bioinfo_2014-02_81
+C1512352|bioinfo_2014-04_66
+C0872252|bioinfo_2014-03_26.recoded.eval', '._cp_docs_bioinfo_2014-10_57
+C0589507|bioinfo_2014-07_4
+C1285573|bioinfo_2014-12_23
+C0035168|bioinfo_2014-05_67.recoded.eval', '._cp_docs_bioinfo_2014-12_23
+C0497549|bioinfo_2014-05_67
+C1450477|bioinfo_2014-06_3.recoded.eval', '._cp_docs_bioinfo_2014-06_34.recoded.eval', '._cp_docs_bioinfo_2014-06_42.recoded.eval', '._cp_docs_bioinfo_2014-10_57.recoded.eval', '._cp_docs_bioinfo_2014-12_23
+C0181827|bioinfo_2014-01_30
+C0449445|bioinfo_2014-06_34
+C0917791|bioinfo_2014-04_27
+C1449655|bioinfo_2014-09_49
+C0001175|bioinfo_2014-05_67
+C0002045|bioinfo_2014-02_81.recoded.eval', '._cp_docs_bioinfo_2014-06_94.recoded.eval', '._cp_docs_bioinfo_2014-12_26
+C1306459|bioinfo_2014-06_34
+C0081786|bioinfo_2014-06_94
+C0086047|bioinfo_2014-01_30
+C1552283|bioinfo_2014-06_34
+C1514230|bioinfo_2014-01_30
+C1328866|bioinfo_2014-06_42
+C0599807|bioinfo_2014-04_27
+C0085751|bioinfo_2014-09_34
+C0043113|bioinfo_2014-12_23
+C2717799|bioinfo_2014-06_94
+C0036375|bioinfo_2014-04_27
+C1328813|bioinfo_2014-03_26
+C0024934|bioinfo_2014-01_30
+C0037455|bioinfo_2014-06_34

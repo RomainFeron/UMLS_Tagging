@@ -1,0 +1,6 @@
+C0795974|EBM|43|S|bioinfo_2014-05_72
+C0556656|Meeting|83|B|bioinfo_2014-05_72
+C0309847|premiers|11|S|bioinfo_2014-05_72
+C0309847|premiers|27|B|bioinfo_2014-05_72
+C1414235|EBM|43|S|bioinfo_2014-05_72
+C0005532|Biology|75|B|bioinfo_2014-05_72

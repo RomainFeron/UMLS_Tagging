@@ -1,0 +1,9 @@
+C0470187|available|27|S|bioinfo_2014-10_93
+C0036612|Semantic|70|S|bioinfo_2014-10_93
+C0282111|Web|54|S|bioinfo_2014-10_93
+C0750865|Web|54|S|bioinfo_2014-10_93
+C2363670|developer|58|S|bioinfo_2014-10_93
+C0878517|engineer|9|S|bioinfo_2014-10_93
+C0733755|position|18|S|bioinfo_2014-10_93
+C0175566|Open|4|S|bioinfo_2014-10_93
+C0332875|Web|54|S|bioinfo_2014-10_93

@@ -1,0 +1,8 @@
+C0024934|Mathématiques|324|B|bioinfo_2014-12_72
+C0337611|contact|224|B|bioinfo_2014-12_72
+C1522290|Docking|7|S|bioinfo_2014-12_72
+C1522290|Docking|99|B|bioinfo_2014-12_72
+C0332158|contact|224|B|bioinfo_2014-12_72
+C0678257|description|385|B|bioinfo_2014-12_72
+C0282111|www|61|B|bioinfo_2014-12_72
+C0205099|Centre|314|B|bioinfo_2014-12_72

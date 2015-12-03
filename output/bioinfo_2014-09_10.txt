@@ -1,0 +1,22 @@
+C1970205|MIAT|2914|B|bioinfo_2014-09_10
+C1552597|Public|1386|B|bioinfo_2014-09_10
+C0439634|formations|2616|B|bioinfo_2014-09_10
+C1158830|Initiation|1291|B|bioinfo_2014-09_10
+C0678321|initiation|366|B|bioinfo_2014-09_10
+C1704686|Initiation|1291|B|bioinfo_2014-09_10
+C0441513|construction|1563|B|bioinfo_2014-09_10
+C2673163|training|221|B|bioinfo_2014-09_10
+C0282411|comment|869|B|bioinfo_2014-09_10
+C0678367|Public|1386|B|bioinfo_2014-09_10
+C0220781|formation|263|B|bioinfo_2014-09_10
+C0039421|technologies|823|B|bioinfo_2014-09_10
+C1533716|informations|2699|B|bioinfo_2014-09_10
+C0220931|training|221|B|bioinfo_2014-09_10
+C0589507|Initiation|1291|B|bioinfo_2014-09_10
+C1515568|de novo|673|B|bioinfo_2014-09_10
+C1300072|stage|1045|B|bioinfo_2014-09_10
+C0439634|formation|263|B|bioinfo_2014-09_10
+C0947611|comment|869|B|bioinfo_2014-09_10
+C0376683|lectures|929|B|bioinfo_2014-09_10
+C0589507|initiation|366|B|bioinfo_2014-09_10
+C0282116|collaboration|103|B|bioinfo_2014-09_10

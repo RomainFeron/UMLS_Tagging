@@ -1,0 +1,16 @@
+C0470187|available|161|B|bioinfo_2014-12_44
+C1547537|Department|52|B|bioinfo_2014-12_44
+C1549615|Department|52|B|bioinfo_2014-12_44
+C1552237|Informatics|66|B|bioinfo_2014-12_44
+C0599518|professor|133|B|bioinfo_2014-12_44
+C1704729|Department|52|B|bioinfo_2014-12_44
+C0750490|Associate|30|S|bioinfo_2014-12_44
+C1547116|Department|52|B|bioinfo_2014-12_44
+C1548283|Department|52|B|bioinfo_2014-12_44
+C0205172|more|302|B|bioinfo_2014-12_44
+C1706221|Associate|30|S|bioinfo_2014-12_44
+C0599807|Informatics|66|B|bioinfo_2014-12_44
+C0470166|Message|18|B|bioinfo_2014-12_44
+C1140694|bioinformatics|146|B|bioinfo_2014-12_44
+C0599518|Professor|18|S|bioinfo_2014-12_44
+C1548529|Department|52|B|bioinfo_2014-12_44

@@ -1,0 +1,162 @@
+C0470187|available|948|B|bioinfo_2014-11_91
+C0085862|independence|1839|B|bioinfo_2014-11_91
+C0392762|quantitative|1922|B|bioinfo_2014-11_91
+C0036572|fit|2434|B|bioinfo_2014-11_91
+C0042789|see|2255|B|bioinfo_2014-11_91
+C0043227|working|1619|B|bioinfo_2014-11_91
+C1272753|Institute|61|S|bioinfo_2014-11_91
+C1272753|Institute|3342|B|bioinfo_2014-11_91
+C0870071|modeling|863|B|bioinfo_2014-11_91
+C0442808|increasing|3090|B|bioinfo_2014-11_91
+C0205146|areas|2959|B|bioinfo_2014-11_91
+C0444454|access|688|B|bioinfo_2014-11_91
+C1705429|Group|2078|B|bioinfo_2014-11_91
+C1552456|Research|1225|B|bioinfo_2014-11_91
+C0947630|study|2512|B|bioinfo_2014-11_91
+C0036397|science|309|B|bioinfo_2014-11_91
+C0023185|learning|884|B|bioinfo_2014-11_91
+C0376558|life|1664|B|bioinfo_2014-11_91
+C0376528|computational biology|259|B|bioinfo_2014-11_91
+C1442065|address|2209|B|bioinfo_2014-11_91
+C0011065|death|150|B|bioinfo_2014-11_91
+C1548287|Research|1225|B|bioinfo_2014-11_91
+C0039828|these|905|B|bioinfo_2014-11_91
+C0185125|application|2016|B|bioinfo_2014-11_91
+C0439659|origins|376|B|bioinfo_2014-11_91
+C0445247|same|1793|B|bioinfo_2014-11_91
+C0402118|geneticists|593|B|bioinfo_2014-11_91
+C0007465|cause of death|141|B|bioinfo_2014-11_91
+C1550557|and|38|B|bioinfo_2014-11_91
+C0042950|will|1434|B|bioinfo_2014-11_91
+C0577559|mass|737|B|bioinfo_2014-11_91
+C1561557|Group|2078|B|bioinfo_2014-11_91
+C0747726|many|1673|B|bioinfo_2014-11_91
+C0205171|single|2552|B|bioinfo_2014-11_91
+C0205042|coronary artery|63|B|bioinfo_2014-11_91
+C0336779|machine|876|B|bioinfo_2014-11_91
+C0237876|share|1783|B|bioinfo_2014-11_91
+C0805586|challenge|1825|B|bioinfo_2014-11_91
+C0010054|coronary artery disease|63|B|bioinfo_2014-11_91
+C1292732|investigate|360|B|bioinfo_2014-11_91
+C0439792|of extension|1276|B|bioinfo_2014-11_91
+C0449445|approach|426|B|bioinfo_2014-11_91
+C0226004|artery|72|B|bioinfo_2014-11_91
+C0010478|Curriculum|2454|B|bioinfo_2014-11_91
+C0681919|quantitative data analysis|1922|B|bioinfo_2014-11_91
+C0009951|fit|2434|B|bioinfo_2014-11_91
+C0231448|extension|1279|B|bioinfo_2014-11_91
+C0012634|disease|79|B|bioinfo_2014-11_91
+C0038215|statistical|851|B|bioinfo_2014-11_91
+C0180853|file|2563|B|bioinfo_2014-11_91
+C0036064|salary|1427|B|bioinfo_2014-11_91
+C0332286|into|1722|B|bioinfo_2014-11_91
+C1956346|coronary artery disease|63|B|bioinfo_2014-11_91
+C1554990|pdf|2559|B|bioinfo_2014-11_91
+C1516908|epidemiologists|606|B|bioinfo_2014-11_91
+C0037585|software|2197|B|bioinfo_2014-11_91
+C1552389|Chemistry|2129|B|bioinfo_2014-11_91
+C0599726|computer science|300|B|bioinfo_2014-11_91
+C0005532|biology|273|B|bioinfo_2014-11_91
+C0010992|data analysis|1935|B|bioinfo_2014-11_91
+C0013621|Education|1211|B|bioinfo_2014-11_91
+C0037455|society|3065|B|bioinfo_2014-11_91
+C1554204|access|688|B|bioinfo_2014-11_91
+C2136992|mass|737|B|bioinfo_2014-11_91
+C1292711|part of|454|B|bioinfo_2014-11_91
+C0518214|quality of life|1653|B|bioinfo_2014-11_91
+C0205476|medical|46|B|bioinfo_2014-11_91
+C0079946|origins|376|B|bioinfo_2014-11_91
+C0541749|turning|1709|B|bioinfo_2014-11_91
+C0441800|grades|2540|B|bioinfo_2014-11_91
+C1524024|analysis|1940|B|bioinfo_2014-11_91
+C0026605|motivation|2395|B|bioinfo_2014-11_91
+C0868928|case|1305|B|bioinfo_2014-11_91
+C0699752|review of|1326|B|bioinfo_2014-11_91
+C0018684|health|1642|B|bioinfo_2014-11_91
+C1556085|German|1191|B|bioinfo_2014-11_91
+C0231170|disabilities|3132|B|bioinfo_2014-11_91
+C1705428|Group|2078|B|bioinfo_2014-11_91
+C1547978|Chemistry|2129|B|bioinfo_2014-11_91
+C0205210|clinical|518|B|bioinfo_2014-11_91
+C0013658|Education|1211|B|bioinfo_2014-11_91
+C0679840|goals|1798|B|bioinfo_2014-11_91
+C0028811|job|1859|B|bioinfo_2014-11_91
+C0025118|medicine|38|S|bioinfo_2014-11_91
+C0025118|medicine|290|B|bioinfo_2014-11_91
+C0087136|single|2552|B|bioinfo_2014-11_91
+C0018017|goals|1798|B|bioinfo_2014-11_91
+C0038215|statistics|328|B|bioinfo_2014-11_91
+C0309847|premier|2704|B|bioinfo_2014-11_91
+C0852949|artery disease|72|B|bioinfo_2014-11_91
+C0015127|cause|141|B|bioinfo_2014-11_91
+C0043210|women|2944|B|bioinfo_2014-11_91
+C0007996|Chemistry|2129|B|bioinfo_2014-11_91
+C0549177|large|767|B|bioinfo_2014-11_91
+C0025663|methods|839|B|bioinfo_2014-11_91
+C0521125|For|2751|B|bioinfo_2014-11_91
+C1552599|related|342|B|bioinfo_2014-11_91
+C1533716|information|2755|B|bioinfo_2014-11_91
+C0233820|insight|1727|B|bioinfo_2014-11_91
+C0376528|Computational Biology|2056|B|bioinfo_2014-11_91
+C0009622|computer|300|B|bioinfo_2014-11_91
+C0013622|Education|1211|B|bioinfo_2014-11_91
+C1880157|Computational|2056|B|bioinfo_2014-11_91
+C0439064|many|1673|B|bioinfo_2014-11_91
+C0201682|Chemistry|2129|B|bioinfo_2014-11_91
+C0282443|review|1326|B|bioinfo_2014-11_91
+C0039401|Education|1211|B|bioinfo_2014-11_91
+C0018017|goal|989|B|bioinfo_2014-11_91
+C1516769|Computational|2056|B|bioinfo_2014-11_91
+C0035168|Research|1225|B|bioinfo_2014-11_91
+C0441833|Group|2078|B|bioinfo_2014-11_91
+C0021622|institute|2628|B|bioinfo_2014-11_91
+C1140694|bioinformatics|13|S|bioinfo_2014-11_91
+C0180153|cover|2357|B|bioinfo_2014-11_91
+C0680240|according|1442|B|bioinfo_2014-11_91
+C0332273|Through|652|B|bioinfo_2014-11_91
+C1306577|death|150|B|bioinfo_2014-11_91
+C1306372|mass|737|B|bioinfo_2014-11_91
+C0005553|Biophysical|2117|B|bioinfo_2014-11_91
+C0871489|team|1752|B|bioinfo_2014-11_91
+C0185125|applications|3188|B|bioinfo_2014-11_91
+C1880201|Curriculum Vitae|2454|B|bioinfo_2014-11_91
+C0243089|sequels|54|B|bioinfo_2014-11_91
+C0439234|years|1248|B|bioinfo_2014-11_91
+C0035173|researcher|210|B|bioinfo_2014-11_91
+C1096774|letter|2363|B|bioinfo_2014-11_91
+C1552516|Group|2078|B|bioinfo_2014-11_91
+C0424927|Education|1211|B|bioinfo_2014-11_91
+C2015891|quality of life|1653|B|bioinfo_2014-11_91
+C0543488|interested|1989|B|bioinfo_2014-11_91
+C1272753|institution|2712|B|bioinfo_2014-11_91
+C0558083|enthusiastic|1690|B|bioinfo_2014-11_91
+C0026348|statistical modeling|851|B|bioinfo_2014-11_91
+C0242481|Research|1225|B|bioinfo_2014-11_91
+C0034380|quality of life|1653|B|bioinfo_2014-11_91
+C0040649|transcription|722|B|bioinfo_2014-11_91
+C0733755|position|1371|B|bioinfo_2014-11_91
+C0598013|Biophysical Chemistry|2117|B|bioinfo_2014-11_91
+C0332257|including|2530|B|bioinfo_2014-11_91
+C1692345|same|1793|B|bioinfo_2014-11_91
+C0003842|artery|72|B|bioinfo_2014-11_91
+C0018787|coronary|63|B|bioinfo_2014-11_91
+C0163712|related|342|B|bioinfo_2014-11_91
+C0936012|analysis|1940|B|bioinfo_2014-11_91
+C1257890|Group|2078|B|bioinfo_2014-11_91
+C0449719|part|454|B|bioinfo_2014-11_91
+C1552617|review|1326|B|bioinfo_2014-11_91
+C0025664|methods|839|B|bioinfo_2014-11_91
+C0679622|novel|833|B|bioinfo_2014-11_91
+C1547143|Education|1211|B|bioinfo_2014-11_91
+C0442805|increase|2920|B|bioinfo_2014-11_91
+C0947630|studies|786|B|bioinfo_2014-11_91
+C0870705|information|2755|B|bioinfo_2014-11_91
+C0442824|very|1984|B|bioinfo_2014-11_91
+C1080058|this|2438|B|bioinfo_2014-11_91
+C0005532|Biology|2070|B|bioinfo_2014-11_91
+C0334861|biologists|640|B|bioinfo_2014-11_91
+C0205245|functional|958|B|bioinfo_2014-11_91
+C0013621|learning|884|B|bioinfo_2014-11_91
+C0002838|AND|1577|B|bioinfo_2014-11_91
+C1552020|part|454|B|bioinfo_2014-11_91
+C1551058|are|106|B|bioinfo_2014-11_91

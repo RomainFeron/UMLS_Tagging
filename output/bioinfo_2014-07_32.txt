@@ -1,0 +1,11 @@
+C0522655|Dirk|43|B|bioinfo_2014-07_32
+C0439634|formations|140|B|bioinfo_2014-07_32
+C0456984|test|435|B|bioinfo_2014-07_32
+C0025663|Méthodes|423|B|bioinfo_2014-07_32
+C1533716|informations|544|B|bioinfo_2014-07_32
+C0236018|aura|473|B|bioinfo_2014-07_32
+C0470166|Message|12|B|bioinfo_2014-07_32
+C0392366|test|435|B|bioinfo_2014-07_32
+C0011008|date|711|B|bioinfo_2014-07_32
+C1418224|DSI|326|B|bioinfo_2014-07_32
+C0042553|vers|603|B|bioinfo_2014-07_32

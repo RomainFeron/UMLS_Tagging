@@ -1,0 +1,8 @@
+C0337611|contact|192|B|bioinfo_2014-01_38
+C0086047|Conférences|104|B|bioinfo_2014-01_38
+C0332158|contact|192|B|bioinfo_2014-01_38
+C0030561|Paris|176|B|bioinfo_2014-01_38
+C0678257|description|330|B|bioinfo_2014-01_38
+C0282111|www|61|B|bioinfo_2014-01_38
+C1417154|MIA|313|B|bioinfo_2014-01_38
+C0331677|Paris|176|B|bioinfo_2014-01_38
