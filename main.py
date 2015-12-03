@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from multiprocessing import Pool
 from multiprocessing.dummy import Pool as ThreadPool
 from formatThesaurus import checkThesaurus, createThesaurus
 from formatThesaurus import createThesaurusHardcore
@@ -18,16 +17,16 @@ def parallelTagging(mailPath, thesaurus, outputPath):
 # Global variables
 ressourcesPath = 'ressources'
 # Path to base thesaurus file
-originalThesaurusPath = os.path.join(ressourcesPath,'MRCONSO_2011AA.RRF')
+originalThesaurusPath = os.path.join(ressourcesPath, 'MRCONSO_2011AA.RRF')
 # Path to formatted thesaurus file
-formattedThesaurusPath = os.path.join(ressourcesPath,'FormattedThesaurus.RRF')
+formattedThesaurusPath = os.path.join(ressourcesPath, 'FormattedThesaurus.RRF')
 # Path to email files
-mailsPath = os.path.join(ressourcesPath,'mails')
+mailsPath = os.path.join(ressourcesPath, 'mails')
 # Path to output folder
 outputPath = 'output'
 tSizeHardcore = 6044285  # Expected number of lines in the formatted file
 tSize = 6046983  # Use this for Thesaurus with words of length 2
-hardcordeMode = True # Use this if you don't want words of length 2
+hardcordeMode = True  # Use this if you don't want words of length 2
 
 # Setting working directory to path of current file
 os.path.dirname(os.path.abspath(__file__))
@@ -56,5 +55,4 @@ for root, dirs, files in os.walk(mailsPath, topdown=False):
 
 # Parallel baby
 pool = ThreadPool()
-results = pool.starmap(parallelTagging,mailsList)
-
+results = pool.starmap(parallelTagging, mailsList)

@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os
-from class_Mail import Mail
-
 
 def verifyEntryIsWord(clef, text, pos):
     okChar = [' ', '.', ',', ';', ':']
@@ -30,7 +27,7 @@ def output(output_file, clef, pos, CUI, mail, mailPart):
 
 def findEntries(thesaurus, mail, oPath):
     outFilePath = oPath + '/' + mail.title + '.txt'
-    with open(outFilePath,'w', encoding='utf-8') as ofile:
+    with open(outFilePath, 'w', encoding='utf-8') as ofile:
         subject = mail.subject
         body = mail.body
         for line in thesaurus:
