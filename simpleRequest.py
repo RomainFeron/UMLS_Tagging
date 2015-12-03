@@ -15,7 +15,7 @@ def verifyEntryIsWord(clef, text, pos):
 
 
 def findEntryInText(clef, text):
-    # Vérifie si line n'est pas vide
+    # Vérifie si ligne n'est pas vide
     if text.strip() != 0:
         positionClef = text.find(clef)
         if verifyEntryIsWord(clef, text, positionClef):
@@ -44,12 +44,3 @@ def findEntries(thesaurus, mail, oPath):
                 if (body_pos != -1):
                     output(ofile, clef, body_pos, CUI, mail.title, 'B')
 
-
-# email = Mail('ressources/mails/bioinfo_2014-01/58.recoded')
-# # 'bodymail_test.txt'
-# f = open('ressources/FormattedThesaurus.RRF', encoding='utf-8')
-# thesaurus = list(f)
-# f.close()
-# ofilePath = 'sortie.txt'
-# ofile = open(ofilePath, 'w', encoding='utf-8')
-# test = findEntries(thesaurus, email, ofile)
