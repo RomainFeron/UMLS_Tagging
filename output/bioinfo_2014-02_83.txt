@@ -1,0 +1,5 @@
+C0599807|Informatique|352|B|bioinfo_2014-02_83
+C0337611|contact|237|B|bioinfo_2014-02_83
+C0332158|contact|237|B|bioinfo_2014-02_83
+C0678257|description|384|B|bioinfo_2014-02_83
+C0282111|www|61|B|bioinfo_2014-02_83

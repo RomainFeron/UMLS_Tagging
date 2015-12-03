@@ -1,0 +1,5 @@
+C0337611|contact|239|B|bioinfo_2014-11_80
+C0041740|Université|338|B|bioinfo_2014-11_80
+C0332158|contact|239|B|bioinfo_2014-11_80
+C0678257|description|370|B|bioinfo_2014-11_80
+C0282111|www|61|B|bioinfo_2014-11_80

@@ -1,0 +1,12 @@
+C1516627|Research Associate|746|B|bioinfo_2014-04_22
+C1552456|Research|746|B|bioinfo_2014-04_22
+C1332821|MIG|215|B|bioinfo_2014-04_22
+C1548287|Research|746|B|bioinfo_2014-04_22
+C0750490|Associate|755|B|bioinfo_2014-04_22
+C0591239|Cedex|881|B|bioinfo_2014-04_22
+C1707170|MIG|215|B|bioinfo_2014-04_22
+C1706221|Associate|755|B|bioinfo_2014-04_22
+C0035168|Research|746|B|bioinfo_2014-04_22
+C0242481|Research|746|B|bioinfo_2014-04_22
+C2717799|Métagénomique|6|S|bioinfo_2014-04_22
+C0586917|Research Associate|746|B|bioinfo_2014-04_22

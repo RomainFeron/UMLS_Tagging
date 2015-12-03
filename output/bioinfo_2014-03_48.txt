@@ -1,0 +1,13 @@
+C0337611|contact|258|B|bioinfo_2014-03_48
+C0410539|CDD|174|B|bioinfo_2014-03_48
+C2347268|Position|109|B|bioinfo_2014-03_48
+C2698602|CDD|174|B|bioinfo_2014-03_48
+C0260515|cancer|141|B|bioinfo_2014-03_48
+C0332158|contact|258|B|bioinfo_2014-03_48
+C0006826|cancer|141|B|bioinfo_2014-03_48
+C2675746|CDD|174|B|bioinfo_2014-03_48
+C0678257|description|399|B|bioinfo_2014-03_48
+C0282111|www|74|B|bioinfo_2014-03_48
+C0205099|Centre|347|B|bioinfo_2014-03_48
+C0733755|Position|109|B|bioinfo_2014-03_48
+C1413247|CDD|174|B|bioinfo_2014-03_48

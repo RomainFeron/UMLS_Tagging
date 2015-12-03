@@ -1,0 +1,21 @@
+C1554215|transformation|818|B|bioinfo_2014-04_101
+C0025664|techniques|225|B|bioinfo_2014-04_101
+C1552961|point|296|B|bioinfo_2014-04_101
+C1553441|point|296|B|bioinfo_2014-04_101
+C0410539|CDD|779|B|bioinfo_2014-04_101
+C0018684|Santé|38|B|bioinfo_2014-04_101
+C2698602|CDD|779|B|bioinfo_2014-04_101
+C2347617|point|296|B|bioinfo_2014-04_101
+C0442504|place|180|B|bioinfo_2014-04_101
+C0679823|Participation|521|B|bioinfo_2014-04_101
+C0005532|Biologie|14|B|bioinfo_2014-04_101
+C0871893|script|1000|B|bioinfo_2014-04_101
+C0013806|est|1072|B|bioinfo_2014-04_101
+C0376209|Mise au point|412|B|bioinfo_2014-04_101
+C2675746|CDD|779|B|bioinfo_2014-04_101
+C1510411|transformation|818|B|bioinfo_2014-04_101
+C0040682|transformation|818|B|bioinfo_2014-04_101
+C0557854|service|1305|B|bioinfo_2014-04_101
+C0037420|interaction|1277|B|bioinfo_2014-04_101
+C0011005|SGBD|971|B|bioinfo_2014-04_101
+C1413247|CDD|779|B|bioinfo_2014-04_101

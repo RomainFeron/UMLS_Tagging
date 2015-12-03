@@ -1,0 +1,12 @@
+C0337611|contact|262|B|bioinfo_2014-02_13
+C2604741|lab|371|B|bioinfo_2014-02_13
+C0332158|contact|262|B|bioinfo_2014-02_13
+C0936012|Analysis|69|S|bioinfo_2014-02_13
+C0936012|Analysis|165|B|bioinfo_2014-02_13
+C0678257|description|409|B|bioinfo_2014-02_13
+C0282111|www|61|B|bioinfo_2014-02_13
+C1417154|MIA|358|B|bioinfo_2014-02_13
+C0002778|Analysis|69|S|bioinfo_2014-02_13
+C0002778|Analysis|165|B|bioinfo_2014-02_13
+C0733755|position|13|S|bioinfo_2014-02_13
+C0733755|position|107|B|bioinfo_2014-02_13

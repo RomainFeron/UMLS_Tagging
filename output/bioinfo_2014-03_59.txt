@@ -1,0 +1,3 @@
+C1533716|information|24|B|bioinfo_2014-03_59
+C0011008|date|40|B|bioinfo_2014-03_59
+C0870705|information|24|B|bioinfo_2014-03_59

@@ -1,0 +1,12 @@
+C0337611|contact|204|B|bioinfo_2014-11_93
+C0410539|CDD|134|B|bioinfo_2014-11_93
+C2698602|CDD|134|B|bioinfo_2014-11_93
+C0019994|Hôpital|338|B|bioinfo_2014-11_93
+C0332158|contact|204|B|bioinfo_2014-11_93
+C2348314|Dr.|214|B|bioinfo_2014-11_93
+C2675746|CDD|134|B|bioinfo_2014-11_93
+C0678257|description|382|B|bioinfo_2014-11_93
+C0282111|www|61|B|bioinfo_2014-11_93
+C0017398|Génétique|297|B|bioinfo_2014-11_93
+C0031325|Pharmacogénétique|320|B|bioinfo_2014-11_93
+C1413247|CDD|134|B|bioinfo_2014-11_93

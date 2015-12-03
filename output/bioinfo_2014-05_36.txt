@@ -1,0 +1,6 @@
+C0337611|contact|197|B|bioinfo_2014-05_36
+C0332158|contact|197|B|bioinfo_2014-05_36
+C0282601|CDI|137|B|bioinfo_2014-05_36
+C0678257|description|290|B|bioinfo_2014-05_36
+C0282111|www|62|B|bioinfo_2014-05_36
+C0554202|Chef|95|B|bioinfo_2014-05_36

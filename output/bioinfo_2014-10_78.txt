@@ -1,0 +1,9 @@
+C0025664|techniques|66|S|bioinfo_2014-10_78
+C0025664|techniques|155|B|bioinfo_2014-10_78
+C0337611|contact|251|B|bioinfo_2014-10_78
+C1264665|SFR|172|B|bioinfo_2014-10_78
+C0332158|contact|251|B|bioinfo_2014-10_78
+C0678257|description|441|B|bioinfo_2014-10_78
+C0282111|www|61|B|bioinfo_2014-10_78
+C0035168|Recherche|369|B|bioinfo_2014-10_78
+C0036563|Semences|398|B|bioinfo_2014-10_78

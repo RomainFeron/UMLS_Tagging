@@ -1,0 +1,37 @@
+C0330928|rue|2537|B|bioinfo_2014-05_81
+C0042769|virus|4168|B|bioinfo_2014-05_81
+C0376558|life|1180|B|bioinfo_2014-05_81
+C1550557|and|96|B|bioinfo_2014-05_81
+C0042776|virus|4168|B|bioinfo_2014-05_81
+C2936469|Synthetic Biology|33|S|bioinfo_2014-05_81
+C2936469|Synthetic Biology|110|B|bioinfo_2014-05_81
+C0010453|cultures|412|B|bioinfo_2014-05_81
+C1273518|Responsible|2395|B|bioinfo_2014-05_81
+C0547040|minimal|731|B|bioinfo_2014-05_81
+C0330929|rue|2537|B|bioinfo_2014-05_81
+C1883254|Synthetic|33|S|bioinfo_2014-05_81
+C1883254|Synthetic|110|B|bioinfo_2014-05_81
+C0200008|UFR|4004|B|bioinfo_2014-05_81
+C0319157|virus|4168|B|bioinfo_2014-05_81
+C0439473|Pascal|2957|B|bioinfo_2014-05_81
+C0683625|cadre|2275|B|bioinfo_2014-05_81
+C0013806|est|1084|B|bioinfo_2014-05_81
+C0205360|stable|2057|B|bioinfo_2014-05_81
+C0030561|Paris|33|B|bioinfo_2014-05_81
+C0036397|Science|2369|B|bioinfo_2014-05_81
+C0449851|Techniques|3908|B|bioinfo_2014-05_81
+C1511780|der|2228|B|bioinfo_2014-05_81
+C0042295|Values|23|S|bioinfo_2014-05_81
+C0042295|Values|100|B|bioinfo_2014-05_81
+C0470166|message|4120|B|bioinfo_2014-05_81
+C0233494|tension|1359|B|bioinfo_2014-05_81
+C0039421|Technology|2381|B|bioinfo_2014-05_81
+C0878517|engineer|1195|B|bioinfo_2014-05_81
+C0557806|College|2710|B|bioinfo_2014-05_81
+C1708936|Mark|2761|B|bioinfo_2014-05_81
+C0037455|Society|2438|B|bioinfo_2014-05_81
+C0442989|Benjamin|3391|B|bioinfo_2014-05_81
+C0728831|social|504|B|bioinfo_2014-05_81
+C0005532|Biology|43|S|bioinfo_2014-05_81
+C0005532|Biology|120|B|bioinfo_2014-05_81
+C0331677|Paris|33|B|bioinfo_2014-05_81

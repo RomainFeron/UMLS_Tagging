@@ -1,0 +1,16 @@
+C0009013|clones|680|B|bioinfo_2014-04_39
+C1317574|notes|1304|B|bioinfo_2014-04_39
+C1578478|patient|351|B|bioinfo_2014-04_39
+C0026605|motivation|1283|B|bioinfo_2014-04_39
+C0013806|est|292|B|bioinfo_2014-04_39
+C0032659|population|318|B|bioinfo_2014-04_39
+C2200256|lymphocytes|44|S|bioinfo_2014-04_39
+C0205345|relative|553|B|bioinfo_2014-04_39
+C1414864|Les|563|B|bioinfo_2014-04_39
+C0009013|clone|422|B|bioinfo_2014-04_39
+C0080103|relative|553|B|bioinfo_2014-04_39
+C0021200|Indexation|159|B|bioinfo_2014-04_39
+C0678594|structure|920|B|bioinfo_2014-04_39
+C0233535|but|273|B|bioinfo_2014-04_39
+C0030705|patient|351|B|bioinfo_2014-04_39
+C0024264|lymphocytes|44|S|bioinfo_2014-04_39

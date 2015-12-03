@@ -1,0 +1,15 @@
+C0599807|Informatique|489|B|bioinfo_2014-02_53
+C0016094|Classement|452|B|bioinfo_2014-02_53
+C1522492|Formation|527|B|bioinfo_2014-02_53
+C1317574|notes|709|B|bioinfo_2014-02_53
+C0008532|Christian|337|B|bioinfo_2014-02_53
+C0013806|est|88|B|bioinfo_2014-02_53
+C0309847|premiers|474|B|bioinfo_2014-02_53
+C1140694|Bioinformatique|24|S|bioinfo_2014-02_53
+C1140694|Bioinformatique|1292|B|bioinfo_2014-02_53
+C1300072|stage|4|B|bioinfo_2014-02_53
+C1208951|Brant|1390|B|bioinfo_2014-02_53
+C0344346|Christian|337|B|bioinfo_2014-02_53
+C0234057|gratification|1072|B|bioinfo_2014-02_53
+C0035168|Recherche|11|S|bioinfo_2014-02_53
+C1328866|Fouille de données|1319|B|bioinfo_2014-02_53

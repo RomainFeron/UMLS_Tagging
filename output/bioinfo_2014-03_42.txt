@@ -1,0 +1,17 @@
+C1550557|and|7|S|bioinfo_2014-03_42
+C1550557|and|105|B|bioinfo_2014-03_42
+C0337611|contact|277|B|bioinfo_2014-03_42
+C0041740|Université|379|B|bioinfo_2014-03_42
+C0002045|algorithms|11|S|bioinfo_2014-03_42
+C0002045|algorithms|109|B|bioinfo_2014-03_42
+C0332158|contact|277|B|bioinfo_2014-03_42
+C0018684|health|93|S|bioinfo_2014-03_42
+C0018684|health|193|B|bioinfo_2014-03_42
+C0678257|description|409|B|bioinfo_2014-03_42
+C0282111|www|63|B|bioinfo_2014-03_42
+C0017337|gene|42|S|bioinfo_2014-03_42
+C0017337|gene|140|B|bioinfo_2014-03_42
+C0185125|applications|77|S|bioinfo_2014-03_42
+C0185125|applications|177|B|bioinfo_2014-03_42
+C0026336|Models|98|B|bioinfo_2014-03_42
+C0026339|Models|98|B|bioinfo_2014-03_42

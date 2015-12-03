@@ -1,0 +1,35 @@
+C0330928|rue|2041|B|bioinfo_2014-04_29
+C0034036|publications|1469|B|bioinfo_2014-04_29
+C2936469|Synthetic Biology|1916|B|bioinfo_2014-04_29
+C0449913|Systems|1906|B|bioinfo_2014-04_29
+C0441513|construction|571|B|bioinfo_2014-04_29
+C1512018|M.D.|1290|B|bioinfo_2014-04_29
+C0330929|rue|2041|B|bioinfo_2014-04_29
+C0005532|Biologie|46|S|bioinfo_2014-04_29
+C0005532|Biologie|71|B|bioinfo_2014-04_29
+C1883254|Synthetic|1916|B|bioinfo_2014-04_29
+C0470271|500|795|B|bioinfo_2014-04_29
+C0026605|motivation|1708|B|bioinfo_2014-04_29
+C0013806|est|1162|B|bioinfo_2014-04_29
+C0085205|Fax|2109|B|bioinfo_2014-04_29
+C0030561|Paris|1239|B|bioinfo_2014-04_29
+C0424611|physiques|1356|B|bioinfo_2014-04_29
+C1414864|Les|502|B|bioinfo_2014-04_29
+C1533716|information|239|B|bioinfo_2014-04_29
+C0282111|www|119|B|bioinfo_2014-04_29
+C1880669|Fax|2109|B|bioinfo_2014-04_29
+C1578433|Fax|2109|B|bioinfo_2014-04_29
+C1533691|vitro|715|B|bioinfo_2014-04_29
+C1533691|in vitro|712|B|bioinfo_2014-04_29
+C0041740|University|1986|B|bioinfo_2014-04_29
+C0806909|maximum|787|B|bioinfo_2014-04_29
+C0036397|sciences|1131|B|bioinfo_2014-04_29
+C0009637|conception|559|B|bioinfo_2014-04_29
+C1552615|maximum|787|B|bioinfo_2014-04_29
+C1547563|Fax|2109|B|bioinfo_2014-04_29
+C0687670|mis|813|B|bioinfo_2014-04_29
+C1512022|Ph.D.|1295|B|bioinfo_2014-04_29
+C0870705|information|239|B|bioinfo_2014-04_29
+C0005532|Biology|1926|B|bioinfo_2014-04_29
+C0331677|Paris|1239|B|bioinfo_2014-04_29
+C0743223|disposition|822|B|bioinfo_2014-04_29

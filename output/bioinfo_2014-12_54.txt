@@ -1,0 +1,8 @@
+C1882071|network|14|S|bioinfo_2014-12_54
+C1882071|network|108|B|bioinfo_2014-12_54
+C0337611|contact|214|B|bioinfo_2014-12_54
+C0332158|contact|214|B|bioinfo_2014-12_54
+C0678257|description|313|B|bioinfo_2014-12_54
+C0282111|www|61|B|bioinfo_2014-12_54
+C1513822|network|14|S|bioinfo_2014-12_54
+C1513822|network|108|B|bioinfo_2014-12_54

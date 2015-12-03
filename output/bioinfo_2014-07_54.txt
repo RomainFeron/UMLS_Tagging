@@ -1,0 +1,8 @@
+C0205313|original|295|B|bioinfo_2014-07_54
+C0006736|Calcul|47|B|bioinfo_2014-07_54
+C2299967|Julia|8|S|bioinfo_2014-07_54
+C2299967|Julia|129|B|bioinfo_2014-07_54
+C0005532|Biologie|861|B|bioinfo_2014-07_54
+C0470166|message|29|B|bioinfo_2014-07_54
+C0470166|Message|287|B|bioinfo_2014-07_54
+C0085205|fax|999|B|bioinfo_2014-07_54

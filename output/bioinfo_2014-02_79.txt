@@ -1,0 +1,12 @@
+C0337611|contact|191|B|bioinfo_2014-02_79
+C0038215|Statistical|276|B|bioinfo_2014-02_79
+C0557854|Services|288|B|bioinfo_2014-02_79
+C0034754|Reading|171|B|bioinfo_2014-02_79
+C1704289|Services|288|B|bioinfo_2014-02_79
+C0332158|contact|191|B|bioinfo_2014-02_79
+C0282601|CDI|123|B|bioinfo_2014-02_79
+C0678257|description|336|B|bioinfo_2014-02_79
+C0282111|www|61|B|bioinfo_2014-02_79
+C0041740|University|305|B|bioinfo_2014-02_79
+C0205099|Centre|297|B|bioinfo_2014-02_79
+C1705179|Reading|171|B|bioinfo_2014-02_79

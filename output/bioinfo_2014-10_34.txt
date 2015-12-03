@@ -1,0 +1,10 @@
+C0439634|formations|27|B|bioinfo_2014-10_34
+C1158830|Initiation|329|B|bioinfo_2014-10_34
+C1704686|Initiation|329|B|bioinfo_2014-10_34
+C0005532|Biologie|135|B|bioinfo_2014-10_34
+C0205345|relative|623|B|bioinfo_2014-10_34
+C0005544|Biométrie|122|B|bioinfo_2014-10_34
+C1414864|Les|270|B|bioinfo_2014-10_34
+C0589507|Initiation|329|B|bioinfo_2014-10_34
+C0080103|relative|623|B|bioinfo_2014-10_34
+C1306673|stages|636|B|bioinfo_2014-10_34

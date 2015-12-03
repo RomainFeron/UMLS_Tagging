@@ -1,0 +1,14 @@
+C1272753|Institute|295|B|bioinfo_2014-12_33
+C1550557|and|327|B|bioinfo_2014-12_33
+C0337611|contact|213|B|bioinfo_2014-12_33
+C0034754|read|33|S|bioinfo_2014-12_33
+C0034754|read|127|B|bioinfo_2014-12_33
+C0332158|contact|213|B|bioinfo_2014-12_33
+C1521991|Molecular|309|B|bioinfo_2014-12_33
+C0678257|description|349|B|bioinfo_2014-12_33
+C0282111|www|61|B|bioinfo_2014-12_33
+C0017337|Gene|223|B|bioinfo_2014-12_33
+C0205166|long|28|S|bioinfo_2014-12_33
+C0205166|long|122|B|bioinfo_2014-12_33
+C0026376|Molecular Biology|309|B|bioinfo_2014-12_33
+C0005532|Biology|319|B|bioinfo_2014-12_33

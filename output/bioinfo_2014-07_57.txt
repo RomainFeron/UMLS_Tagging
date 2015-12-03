@@ -1,0 +1,83 @@
+C0470187|available|47|B|bioinfo_2014-07_57
+C0014279|engineering|509|B|bioinfo_2014-07_57
+C0870071|modeling|496|B|bioinfo_2014-07_57
+C0696628|Applicants|1353|B|bioinfo_2014-07_57
+C0036397|Scientific|1229|B|bioinfo_2014-07_57
+C0684224|report|1404|B|bioinfo_2014-07_57
+C0887950|genomics|898|B|bioinfo_2014-07_57
+C1550557|and|248|B|bioinfo_2014-07_57
+C0042950|will|1178|B|bioinfo_2014-07_57
+C2936469|Synthetic Biology|69|S|bioinfo_2014-07_57
+C2936469|Synthetic Biology|88|B|bioinfo_2014-07_57
+C0242481|research activities|1431|B|bioinfo_2014-07_57
+C0449913|Systems|59|S|bioinfo_2014-07_57
+C0043227|work|417|B|bioinfo_2014-07_57
+C0220781|synthesis|458|B|bioinfo_2014-07_57
+C0699794|ranked|1215|B|bioinfo_2014-07_57
+C0221456|physicists|340|B|bioinfo_2014-07_57
+C0334707|Chemists|330|B|bioinfo_2014-07_57
+C0237463|agencies|774|B|bioinfo_2014-07_57
+C0598991|gene synthesis|453|B|bioinfo_2014-07_57
+C0015737|National|744|B|bioinfo_2014-07_57
+C2239122|activities|1440|B|bioinfo_2014-07_57
+C0596545|experience|1044|B|bioinfo_2014-07_57
+C0005532|biology|985|B|bioinfo_2014-07_57
+C0029073|operon|602|B|bioinfo_2014-07_57
+C0456693|30 min|1326|B|bioinfo_2014-07_57
+C0016820|funded|734|B|bioinfo_2014-07_57
+C0599779|animal model|686|B|bioinfo_2014-07_57
+C1883254|Synthetic|69|S|bioinfo_2014-07_57
+C1883254|Synthetic|88|B|bioinfo_2014-07_57
+C2699414|Committee|1519|B|bioinfo_2014-07_57
+C0439232|min|1329|B|bioinfo_2014-07_57
+C1553525|therapeutic|304|B|bioinfo_2014-07_57
+C0030561|Paris|1319|B|bioinfo_2014-07_57
+C0700287|report|1404|B|bioinfo_2014-07_57
+C0028811|job|1279|B|bioinfo_2014-07_57
+C0022877|laboratories|882|B|bioinfo_2014-07_57
+C1550511|location|1283|B|bioinfo_2014-07_57
+C0239307|European|757|B|bioinfo_2014-07_57
+C0444868|All|717|B|bioinfo_2014-07_57
+C1552599|related|926|B|bioinfo_2014-07_57
+C0376244|funding|766|B|bioinfo_2014-07_57
+C0009622|computer|397|B|bioinfo_2014-07_57
+C0017263|gene regulation|568|B|bioinfo_2014-07_57
+C0021622|institute|46|S|bioinfo_2014-07_57
+C0021622|institute|64|B|bioinfo_2014-07_57
+C0035168|research|21|S|bioinfo_2014-07_57
+C0035168|research|26|B|bioinfo_2014-07_57
+C0017337|gene|286|B|bioinfo_2014-07_57
+C0180153|cover|1388|B|bioinfo_2014-07_57
+C0085205|fax|1580|B|bioinfo_2014-07_57
+C0402112|scientists|406|B|bioinfo_2014-07_57
+C0871489|team|1164|B|bioinfo_2014-07_57
+C0185125|applications|316|B|bioinfo_2014-07_57
+C1327622|regulation|573|B|bioinfo_2014-07_57
+C1096774|letter|1394|B|bioinfo_2014-07_57
+C0679727|private|874|B|bioinfo_2014-07_57
+C0733755|position|30|S|bioinfo_2014-07_57
+C0733755|position|35|B|bioinfo_2014-07_57
+C1442458|30 min|1326|B|bioinfo_2014-07_57
+C0243098|funding|766|B|bioinfo_2014-07_57
+C0311400|metabolic|486|B|bioinfo_2014-07_57
+C0163712|related|926|B|bioinfo_2014-07_57
+C0003062|animal|686|B|bioinfo_2014-07_57
+C1512022|Ph.D.|976|B|bioinfo_2014-07_57
+C1556084|French|148|B|bioinfo_2014-07_57
+C1535514|European|757|B|bioinfo_2014-07_57
+C0441655|activities|1440|B|bioinfo_2014-07_57
+C0027365|names|1462|B|bioinfo_2014-07_57
+C0302350|therapeutic|304|B|bioinfo_2014-07_57
+C0017428|genome|663|B|bioinfo_2014-07_57
+C0237607|experience|1044|B|bioinfo_2014-07_57
+C0851285|regulation|573|B|bioinfo_2014-07_57
+C0005532|Biology|79|S|bioinfo_2014-07_57
+C0005532|Biology|98|B|bioinfo_2014-07_57
+C0334861|biologists|381|B|bioinfo_2014-07_57
+C1555588|location|1283|B|bioinfo_2014-07_57
+C0331677|Paris|1319|B|bioinfo_2014-07_57
+C0450429|location|1283|B|bioinfo_2014-07_57
+C0521116|currently|1141|B|bioinfo_2014-07_57
+C1551058|are|730|B|bioinfo_2014-07_57
+C0040594|track|15|S|bioinfo_2014-07_57
+C0040594|track|20|B|bioinfo_2014-07_57

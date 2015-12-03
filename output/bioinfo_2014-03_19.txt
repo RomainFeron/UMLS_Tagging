@@ -1,0 +1,11 @@
+C0337611|contact|234|B|bioinfo_2014-03_19
+C0410539|CDD|174|B|bioinfo_2014-03_19
+C2698602|CDD|174|B|bioinfo_2014-03_19
+C0008532|Christian|244|B|bioinfo_2014-03_19
+C0332158|contact|234|B|bioinfo_2014-03_19
+C2675746|CDD|174|B|bioinfo_2014-03_19
+C0344346|christian|278|B|bioinfo_2014-03_19
+C0678257|description|339|B|bioinfo_2014-03_19
+C0282111|www|61|B|bioinfo_2014-03_19
+C0344346|Christian|244|B|bioinfo_2014-03_19
+C1413247|CDD|174|B|bioinfo_2014-03_19

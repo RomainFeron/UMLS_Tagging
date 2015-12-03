@@ -1,0 +1,11 @@
+C0337611|contact|211|B|bioinfo_2014-02_47
+C0410539|CDD|152|B|bioinfo_2014-02_47
+C2698602|CDD|152|B|bioinfo_2014-02_47
+C0005532|Biologie|307|B|bioinfo_2014-02_47
+C0332158|contact|211|B|bioinfo_2014-02_47
+C2675746|CDD|152|B|bioinfo_2014-02_47
+C0005544|Biométrie|294|B|bioinfo_2014-02_47
+C0678257|description|350|B|bioinfo_2014-02_47
+C0282111|www|61|B|bioinfo_2014-02_47
+C0035168|Recherche|107|B|bioinfo_2014-02_47
+C1413247|CDD|152|B|bioinfo_2014-02_47

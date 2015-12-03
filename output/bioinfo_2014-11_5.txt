@@ -1,0 +1,11 @@
+C0205419|variations|38|S|bioinfo_2014-11_5
+C0205419|variations|125|B|bioinfo_2014-11_5
+C0337611|contact|315|B|bioinfo_2014-11_5
+C0040722|transmission|108|S|bioinfo_2014-11_5
+C0040722|transmission|195|B|bioinfo_2014-11_5
+C0332158|contact|315|B|bioinfo_2014-11_5
+C1101610|miRNAs|66|S|bioinfo_2014-11_5
+C1101610|miRNAs|155|B|bioinfo_2014-11_5
+C0019682|VIH|211|B|bioinfo_2014-11_5
+C0678257|description|426|B|bioinfo_2014-11_5
+C0282111|www|61|B|bioinfo_2014-11_5

@@ -1,0 +1,13 @@
+C1332396|BIM|171|B|bioinfo_2014-12_2
+C0557061|discussion|400|B|bioinfo_2014-12_2
+C1706320|BIM|171|B|bioinfo_2014-12_2
+C0013806|est|544|B|bioinfo_2014-12_2
+C0006347|budget|587|B|bioinfo_2014-12_2
+C0009452|communications|14|B|bioinfo_2014-12_2
+C0242747|mars|92|B|bioinfo_2014-12_2
+C0016674|France|521|B|bioinfo_2014-12_2
+C1337096|BIM|171|B|bioinfo_2014-12_2
+C0026219|missions|631|B|bioinfo_2014-12_2
+C2348829|BIM|171|B|bioinfo_2014-12_2
+C0449719|part|579|B|bioinfo_2014-12_2
+C1552020|part|579|B|bioinfo_2014-12_2

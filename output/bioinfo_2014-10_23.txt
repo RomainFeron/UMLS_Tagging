@@ -1,0 +1,16 @@
+C0678118|tem|83|S|bioinfo_2014-10_23
+C0337611|contact|275|B|bioinfo_2014-10_23
+C0220825|Evaluation|19|S|bioinfo_2014-10_23
+C0220825|Evaluation|111|B|bioinfo_2014-10_23
+C0018684|Santé|403|B|bioinfo_2014-10_23
+C1550157|Evaluation|19|S|bioinfo_2014-10_23
+C1550157|Evaluation|111|B|bioinfo_2014-10_23
+C0332158|contact|275|B|bioinfo_2014-10_23
+C0276640|tem|83|S|bioinfo_2014-10_23
+C0678257|description|473|B|bioinfo_2014-10_23
+C0282111|www|61|B|bioinfo_2014-10_23
+C0597198|performances|36|S|bioinfo_2014-10_23
+C0597198|performances|126|B|bioinfo_2014-10_23
+C0035295|Réseau|445|B|bioinfo_2014-10_23
+C1261322|Evaluation|19|S|bioinfo_2014-10_23
+C1261322|Evaluation|111|B|bioinfo_2014-10_23

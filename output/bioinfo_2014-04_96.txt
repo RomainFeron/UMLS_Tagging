@@ -1,0 +1,16 @@
+C0337611|contact|223|B|bioinfo_2014-04_96
+C0449851|Methods|317|B|bioinfo_2014-04_96
+C0332158|contact|223|B|bioinfo_2014-04_96
+C0936012|Analysis|333|B|bioinfo_2014-04_96
+C1880371|Diversity|349|B|bioinfo_2014-04_96
+C0678257|description|392|B|bioinfo_2014-04_96
+C0282111|www|62|B|bioinfo_2014-04_96
+C0025663|Methods|317|B|bioinfo_2014-04_96
+C1880157|Computational|303|B|bioinfo_2014-04_96
+C0733755|positions|4|S|bioinfo_2014-04_96
+C0733755|positions|99|B|bioinfo_2014-04_96
+C1516769|Computational|303|B|bioinfo_2014-04_96
+C1140694|bioinformatics|33|S|bioinfo_2014-04_96
+C1140694|bioinformatics|128|B|bioinfo_2014-04_96
+C0002778|Analysis|333|B|bioinfo_2014-04_96
+C1512022|PhD|95|B|bioinfo_2014-04_96

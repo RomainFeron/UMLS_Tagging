@@ -1,0 +1,13 @@
+C1705938|Base|94|B|bioinfo_2014-10_59
+C0178499|Base|94|B|bioinfo_2014-10_59
+C0337611|contact|305|B|bioinfo_2014-10_59
+C0205419|variants|110|S|bioinfo_2014-10_59
+C0205419|variants|189|B|bioinfo_2014-10_59
+C1549548|Base|94|B|bioinfo_2014-10_59
+C1626935|Base|94|B|bioinfo_2014-10_59
+C0993637|Base de données|94|B|bioinfo_2014-10_59
+C0332158|contact|305|B|bioinfo_2014-10_59
+C1704464|Base|94|B|bioinfo_2014-10_59
+C0678257|description|403|B|bioinfo_2014-10_59
+C1880279|Base|94|B|bioinfo_2014-10_59
+C0282111|www|61|B|bioinfo_2014-10_59

@@ -1,0 +1,7 @@
+C0337611|contact|189|B|bioinfo_2014-06_30
+C0332158|contact|189|B|bioinfo_2014-06_30
+C1140694|Bioinformatique|298|B|bioinfo_2014-06_30
+C0678257|description|335|B|bioinfo_2014-06_30
+C0282111|www|62|B|bioinfo_2014-06_30
+C0678594|Structural|95|B|bioinfo_2014-06_30
+C0442989|Benjamin|199|B|bioinfo_2014-06_30

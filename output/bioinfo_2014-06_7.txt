@@ -1,0 +1,5 @@
+C0337611|contact|189|B|bioinfo_2014-06_7
+C0332158|contact|189|B|bioinfo_2014-06_7
+C0678257|description|277|B|bioinfo_2014-06_7
+C0282111|www|62|B|bioinfo_2014-06_7
+C0022192|Ile|168|B|bioinfo_2014-06_7

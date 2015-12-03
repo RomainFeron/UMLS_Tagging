@@ -1,0 +1,85 @@
+C0392762|quantitative|1146|B|bioinfo_2014-10_9
+C1880355|Discovery|284|B|bioinfo_2014-10_9
+C0314603|Genetic|308|B|bioinfo_2014-10_9
+C1709790|Qualification|855|B|bioinfo_2014-10_9
+C0596545|Experience|955|B|bioinfo_2014-10_9
+C0006159|breeding|179|B|bioinfo_2014-10_9
+C0017398|Genetics|420|B|bioinfo_2014-10_9
+C0013621|education|1001|B|bioinfo_2014-10_9
+C0332522|contract|12|B|bioinfo_2014-10_9
+C1550557|and|217|B|bioinfo_2014-10_9
+C0683757|companies|188|B|bioinfo_2014-10_9
+C1948182|genetics|1159|B|bioinfo_2014-10_9
+C0543488|interest|1090|B|bioinfo_2014-10_9
+C0042950|will|378|B|bioinfo_2014-10_9
+C0442821|strong|1083|B|bioinfo_2014-10_9
+C0032098|plant|1471|B|bioinfo_2014-10_9
+C1552616|summary|649|B|bioinfo_2014-10_9
+C1553496|field|931|B|bioinfo_2014-10_9
+C0402118|Geneticist|13|S|bioinfo_2014-10_9
+C0242481|research activities|139|B|bioinfo_2014-10_9
+C0392762|Quantitative|295|B|bioinfo_2014-10_9
+C0700287|reports|657|B|bioinfo_2014-10_9
+C2717881|Gene Discovery|279|B|bioinfo_2014-10_9
+C0699792|association|612|B|bioinfo_2014-10_9
+C0038215|statistical|500|B|bioinfo_2014-10_9
+C0459471|interpretation|807|B|bioinfo_2014-10_9
+C0683757|company|119|B|bioinfo_2014-10_9
+C0205418|aggregating|127|B|bioinfo_2014-10_9
+C0439855|complex|492|B|bioinfo_2014-10_9
+C0013622|education|1001|B|bioinfo_2014-10_9
+C0007961|charge|471|B|bioinfo_2014-10_9
+C0870520|expertise|251|B|bioinfo_2014-10_9
+C2239122|activities|148|B|bioinfo_2014-10_9
+C0005532|biology|1449|B|bioinfo_2014-10_9
+C0010992|data analysis|1048|B|bioinfo_2014-10_9
+C0043266|writing|641|B|bioinfo_2014-10_9
+C1292711|part of|386|B|bioinfo_2014-10_9
+C1524024|analysis|599|B|bioinfo_2014-10_9
+C0027552|needs|692|B|bioinfo_2014-10_9
+C0871893|script|1309|B|bioinfo_2014-10_9
+C0034866|recommended|1416|B|bioinfo_2014-10_9
+C0205430|mixed|534|B|bioinfo_2014-10_9
+C0600673|Statistics|886|B|bioinfo_2014-10_9
+C0332307|types|576|B|bioinfo_2014-10_9
+C0871935|theory|1037|B|bioinfo_2014-10_9
+C0017428|Genomic|270|B|bioinfo_2014-10_9
+C0005516|marker|346|B|bioinfo_2014-10_9
+C0205208|solid|995|B|bioinfo_2014-10_9
+C0686904|needs|692|B|bioinfo_2014-10_9
+C1517004|experimental|825|B|bioinfo_2014-10_9
+C0376636|management|782|B|bioinfo_2014-10_9
+C0678723|development|353|B|bioinfo_2014-10_9
+C1552599|related|923|B|bioinfo_2014-10_9
+C0359589|provide|701|B|bioinfo_2014-10_9
+C0887950|genomic|757|B|bioinfo_2014-10_9
+C0017337|Gene|279|B|bioinfo_2014-10_9
+C0016674|France|60|B|bioinfo_2014-10_9
+C0017398|genetics|1159|B|bioinfo_2014-10_9
+C0376245|English|1508|B|bioinfo_2014-10_9
+C1548281|contract|12|B|bioinfo_2014-10_9
+C0035168|research|139|B|bioinfo_2014-10_9
+C1285553|interpreting|1237|B|bioinfo_2014-10_9
+C0597336|QTL|595|B|bioinfo_2014-10_9
+C0004083|association|612|B|bioinfo_2014-10_9
+C1705313|term|7|B|bioinfo_2014-10_9
+C0243107|development|353|B|bioinfo_2014-10_9
+C0684224|reports|657|B|bioinfo_2014-10_9
+C1710360|Platform|429|B|bioinfo_2014-10_9
+C0039401|education|1001|B|bioinfo_2014-10_9
+C0163712|related|923|B|bioinfo_2014-10_9
+C0936012|analysis|599|B|bioinfo_2014-10_9
+C1556083|English|1508|B|bioinfo_2014-10_9
+C0449719|part|386|B|bioinfo_2014-10_9
+C1552529|Genetics|420|B|bioinfo_2014-10_9
+C0441655|activities|148|B|bioinfo_2014-10_9
+C0017399|genetics|1159|B|bioinfo_2014-10_9
+C0424927|education|1001|B|bioinfo_2014-10_9
+C0014406|environment|1337|B|bioinfo_2014-10_9
+C0314603|genetic|745|B|bioinfo_2014-10_9
+C1514626|Quantitative Genetics|407|B|bioinfo_2014-10_9
+C0038215|Statistics|886|B|bioinfo_2014-10_9
+C0596404|data management|777|B|bioinfo_2014-10_9
+C0027361|person|371|B|bioinfo_2014-10_9
+C1552020|part|386|B|bioinfo_2014-10_9
+C0871424|statistical analysis|1110|B|bioinfo_2014-10_9

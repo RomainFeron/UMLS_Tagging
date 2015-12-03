@@ -1,0 +1,11 @@
+C0599807|Informatique|351|B|bioinfo_2014-10_76
+C0337611|contact|239|B|bioinfo_2014-10_76
+C0041740|Université|365|B|bioinfo_2014-10_76
+C0410539|CDD|168|B|bioinfo_2014-10_76
+C2698602|CDD|168|B|bioinfo_2014-10_76
+C0332158|contact|239|B|bioinfo_2014-10_76
+C2675746|CDD|168|B|bioinfo_2014-10_76
+C0678257|description|395|B|bioinfo_2014-10_76
+C0282111|www|61|B|bioinfo_2014-10_76
+C0035168|Recherche|338|B|bioinfo_2014-10_76
+C1413247|CDD|168|B|bioinfo_2014-10_76

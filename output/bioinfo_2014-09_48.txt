@@ -1,0 +1,27 @@
+C1554215|transformation|1297|B|bioinfo_2014-09_48
+C0178499|bases|819|B|bioinfo_2014-09_48
+C0330928|rue|446|B|bioinfo_2014-09_48
+C0025664|techniques|974|B|bioinfo_2014-09_48
+C0034754|reads|675|B|bioinfo_2014-09_48
+C1522492|Formation|1981|B|bioinfo_2014-09_48
+C0887950|Génomique|353|B|bioinfo_2014-09_48
+C1140694|Bio-informatique|89|B|bioinfo_2014-09_48
+C0947647|manipulation|1278|B|bioinfo_2014-09_48
+C1301627|formats|1195|B|bioinfo_2014-09_48
+C0330929|rue|446|B|bioinfo_2014-09_48
+C0013806|est|295|B|bioinfo_2014-09_48
+C1140694|Bioinformatique|10|S|bioinfo_2014-09_48
+C1140694|Bioinformatique|28|B|bioinfo_2014-09_48
+C0220781|formation|76|B|bioinfo_2014-09_48
+C1510411|transformation|1297|B|bioinfo_2014-09_48
+C1414864|Les|1191|B|bioinfo_2014-09_48
+C0040682|transformation|1297|B|bioinfo_2014-09_48
+C1533716|information|2079|B|bioinfo_2014-09_48
+C0205225|principal|318|B|bioinfo_2014-09_48
+C0205099|Centre|18|B|bioinfo_2014-09_48
+C0439634|formation|76|B|bioinfo_2014-09_48
+C0439836|conversion|1364|B|bioinfo_2014-09_48
+C0401925|principal|318|B|bioinfo_2014-09_48
+C1328866|Fouille de données|28|S|bioinfo_2014-09_48
+C0870705|information|2079|B|bioinfo_2014-09_48
+C0376683|lecture|1219|B|bioinfo_2014-09_48

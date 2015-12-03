@@ -1,0 +1,8 @@
+C0282063|Galaxy|979|B|bioinfo_2014-01_40
+C0205352|simple|685|B|bioinfo_2014-01_40
+C0683625|cadre|560|B|bioinfo_2014-01_40
+C1550513|via|962|B|bioinfo_2014-01_40
+C0220781|formation|138|B|bioinfo_2014-01_40
+C0236018|aura|246|B|bioinfo_2014-01_40
+C0439634|formation|138|B|bioinfo_2014-01_40
+C0743223|disposition|1347|B|bioinfo_2014-01_40

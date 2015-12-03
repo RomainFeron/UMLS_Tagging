@@ -1,0 +1,19 @@
+C0022877|Laboratory|321|B|bioinfo_2014-04_72
+C0337611|contact|217|B|bioinfo_2014-04_72
+C1571737|Laboratory|321|B|bioinfo_2014-04_72
+C1697786|Laboratory|321|B|bioinfo_2014-04_72
+C2598148|Laboratory|321|B|bioinfo_2014-04_72
+C0332158|contact|217|B|bioinfo_2014-04_72
+C1521991|Molecular|303|B|bioinfo_2014-04_72
+C0239307|European|294|B|bioinfo_2014-04_72
+C0678257|description|348|B|bioinfo_2014-04_72
+C0282111|www|62|B|bioinfo_2014-04_72
+C1880157|Computational|19|S|bioinfo_2014-04_72
+C1880157|Computational|114|B|bioinfo_2014-04_72
+C1516769|Computational|19|S|bioinfo_2014-04_72
+C1516769|Computational|114|B|bioinfo_2014-04_72
+C0026376|Molecular Biology|303|B|bioinfo_2014-04_72
+C0022885|Laboratory|321|B|bioinfo_2014-04_72
+C1535514|European|294|B|bioinfo_2014-04_72
+C0005532|Biology|313|B|bioinfo_2014-04_72
+C1548427|Laboratory|321|B|bioinfo_2014-04_72

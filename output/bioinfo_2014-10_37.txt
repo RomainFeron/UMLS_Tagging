@@ -1,0 +1,16 @@
+C0887950|genomics|29|S|bioinfo_2014-10_37
+C0887950|genomics|123|B|bioinfo_2014-10_37
+C1550557|and|38|S|bioinfo_2014-10_37
+C1550557|and|132|B|bioinfo_2014-10_37
+C0337611|contact|259|B|bioinfo_2014-10_37
+C0521033|fungi|78|S|bioinfo_2014-10_37
+C0521033|fungi|174|B|bioinfo_2014-10_37
+C0332158|contact|259|B|bioinfo_2014-10_37
+C2348314|Dr.|269|B|bioinfo_2014-10_37
+C1140694|Bioinformatics|94|B|bioinfo_2014-10_37
+C0678257|description|446|B|bioinfo_2014-10_37
+C0282111|www|61|B|bioinfo_2014-10_37
+C0005574|Biotechnologie|372|B|bioinfo_2014-10_37
+C0016832|fungi|78|S|bioinfo_2014-10_37
+C0016832|fungi|174|B|bioinfo_2014-10_37
+C0282469|Biodiversité|356|B|bioinfo_2014-10_37

@@ -1,0 +1,45 @@
+C0870071|modeling|610|B|bioinfo_2014-07_27
+C0009622|Computer|177|B|bioinfo_2014-07_27
+C1550557|and|98|B|bioinfo_2014-07_27
+C0042950|will|720|B|bioinfo_2014-07_27
+C0586917|Postdoctoral Fellow|50|B|bioinfo_2014-07_27
+C1442948|lead|301|B|bioinfo_2014-07_27
+C0600115|molecular modeling|1099|B|bioinfo_2014-07_27
+C0331857|Mason|49|S|bioinfo_2014-07_27
+C0331857|Mason|145|B|bioinfo_2014-07_27
+C0597196|peptide structure|1033|B|bioinfo_2014-07_27
+C0002045|algorithms|430|B|bioinfo_2014-07_27
+C1272684|accepted|703|B|bioinfo_2014-07_27
+C0015737|National|341|B|bioinfo_2014-07_27
+C0870520|expertise|851|B|bioinfo_2014-07_27
+C0013849|emails|1210|B|bioinfo_2014-07_27
+C1551022|Excellent|898|B|bioinfo_2014-07_27
+C0596545|experience|576|B|bioinfo_2014-07_27
+C0016820|funded|327|B|bioinfo_2014-07_27
+C0005532|Biologie|19|S|bioinfo_2014-07_27
+C0205172|more|1306|B|bioinfo_2014-07_27
+C1550513|via|1235|B|bioinfo_2014-07_27
+C0016617|Foundation|358|B|bioinfo_2014-07_27
+C0729333|dynamic|478|B|bioinfo_2014-07_27
+C1533716|information|1311|B|bioinfo_2014-07_27
+C0023175|lead|301|B|bioinfo_2014-07_27
+C0376528|Computational Biology|1363|B|bioinfo_2014-07_27
+C1519042|2-3|1220|B|bioinfo_2014-07_27
+C0439792|extend|392|B|bioinfo_2014-07_27
+C0030956|peptide|1033|B|bioinfo_2014-07_27
+C1548784|Excellent|898|B|bioinfo_2014-07_27
+C1961136|Excellent|898|B|bioinfo_2014-07_27
+C0678856|skills|920|B|bioinfo_2014-07_27
+C0332152|Prior|830|B|bioinfo_2014-07_27
+C0439234|years|670|B|bioinfo_2014-07_27
+C1880157|Computation|86|B|bioinfo_2014-07_27
+C0733755|position|636|B|bioinfo_2014-07_27
+C0600269|familiarity|1068|B|bioinfo_2014-07_27
+C1512022|Ph.D.|801|B|bioinfo_2014-07_27
+C0678594|Structural|118|B|bioinfo_2014-07_27
+C0205392|Some|1063|B|bioinfo_2014-07_27
+C0870705|information|1311|B|bioinfo_2014-07_27
+C0237607|experience|576|B|bioinfo_2014-07_27
+C0233535|but|553|B|bioinfo_2014-07_27
+C0033684|proteins|498|B|bioinfo_2014-07_27
+C1551058|are|243|B|bioinfo_2014-07_27

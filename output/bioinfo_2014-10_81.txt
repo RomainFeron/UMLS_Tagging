@@ -1,0 +1,4 @@
+C1140694|Bio-informatique|51|B|bioinfo_2014-10_81
+C1140694|Bioinformatique|51|S|bioinfo_2014-10_81
+C0236018|aura|245|B|bioinfo_2014-10_81
+C0679823|participation|375|B|bioinfo_2014-10_81

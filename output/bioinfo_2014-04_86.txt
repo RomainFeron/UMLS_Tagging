@@ -1,0 +1,29 @@
+C1948036|held|144|B|bioinfo_2014-04_86
+C0585027|Wednesday|88|B|bioinfo_2014-04_86
+C0330928|rue|182|B|bioinfo_2014-04_86
+C0023185|learning|351|B|bioinfo_2014-04_86
+C0085952|coffee|403|B|bioinfo_2014-04_86
+C0205460|biological|504|B|bioinfo_2014-04_86
+C0038215|Statistical|455|B|bioinfo_2014-04_86
+C0042950|will|136|B|bioinfo_2014-04_86
+C0001128|Acid|576|B|bioinfo_2014-04_86
+C0140278|Retinoic Acid Receptors|567|B|bioinfo_2014-04_86
+C0387288|VERT|283|B|bioinfo_2014-04_86
+C0330929|rue|182|B|bioinfo_2014-04_86
+C0679201|inference|467|B|bioinfo_2014-04_86
+C0340978|May|32|S|bioinfo_2014-04_86
+C0340978|May|99|B|bioinfo_2014-04_86
+C1552851|next|25|B|bioinfo_2014-04_86
+C0700085|Curie|316|B|bioinfo_2014-04_86
+C2348077|DATE|12|B|bioinfo_2014-04_86
+C2740799|DATE|12|B|bioinfo_2014-04_86
+C1300196|organized|46|B|bioinfo_2014-04_86
+C0597357|Receptors|581|B|bioinfo_2014-04_86
+C0205117|next|25|B|bioinfo_2014-04_86
+C0205246|general|649|B|bioinfo_2014-04_86
+C0011008|date|9|S|bioinfo_2014-04_86
+C0011008|DATE|12|B|bioinfo_2014-04_86
+C0040845|Retinoic Acid|567|B|bioinfo_2014-04_86
+C0013621|learning|351|B|bioinfo_2014-04_86
+C0009237|coffee|403|B|bioinfo_2014-04_86
+C0336779|Machine|343|B|bioinfo_2014-04_86

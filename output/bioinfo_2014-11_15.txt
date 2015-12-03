@@ -1,0 +1,7 @@
+C0079220|destination|674|B|bioinfo_2014-11_15
+C0237070|disciplines|574|B|bioinfo_2014-11_15
+C0475208|titre|592|B|bioinfo_2014-11_15
+C0442504|place|322|B|bioinfo_2014-11_15
+C0336809|train|168|B|bioinfo_2014-11_15
+C0013806|est|280|B|bioinfo_2014-11_15
+C0032659|population|393|B|bioinfo_2014-11_15

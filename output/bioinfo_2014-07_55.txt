@@ -1,0 +1,29 @@
+C0205099|Center|432|B|bioinfo_2014-07_55
+C0887950|genomics|11|S|bioinfo_2014-07_55
+C0887950|genomics|106|B|bioinfo_2014-07_55
+C1550557|and|34|S|bioinfo_2014-07_55
+C1550557|and|129|B|bioinfo_2014-07_55
+C0337611|contact|279|B|bioinfo_2014-07_55
+C1561579|Medical|401|B|bioinfo_2014-07_55
+C1547184|Medical|401|B|bioinfo_2014-07_55
+C1561578|Medical|401|B|bioinfo_2014-07_55
+C1513397|Molecular Medicine|443|B|bioinfo_2014-07_55
+C2700217|Functional|95|B|bioinfo_2014-07_55
+C0758256|dysferlin|83|S|bioinfo_2014-07_55
+C0758256|dysferlin|179|B|bioinfo_2014-07_55
+C0005532|biology|72|S|bioinfo_2014-07_55
+C0005532|biology|168|B|bioinfo_2014-07_55
+C0332158|contact|279|B|bioinfo_2014-07_55
+C0013227|Medicine|453|B|bioinfo_2014-07_55
+C0542341|Functional|95|B|bioinfo_2014-07_55
+C0205245|Functional|95|B|bioinfo_2014-07_55
+C0030561|Paris|256|B|bioinfo_2014-07_55
+C1521991|Molecular|443|B|bioinfo_2014-07_55
+C1552275|Medical|401|B|bioinfo_2014-07_55
+C0678257|description|479|B|bioinfo_2014-07_55
+C0282111|www|62|B|bioinfo_2014-07_55
+C0025118|Medicine|453|B|bioinfo_2014-07_55
+C0205476|Medical|401|B|bioinfo_2014-07_55
+C0015537|Medical Faculty|401|B|bioinfo_2014-07_55
+C0015535|Faculty|409|B|bioinfo_2014-07_55
+C0331677|Paris|256|B|bioinfo_2014-07_55

@@ -1,0 +1,17 @@
+C0599807|Informatique|1394|B|bioinfo_2014-01_55
+C0439634|formations|1229|B|bioinfo_2014-01_55
+C0086047|Conférences|726|B|bioinfo_2014-01_55
+C0005532|Biologie|633|B|bioinfo_2014-01_55
+C0013806|est|284|B|bioinfo_2014-01_55
+C0030561|Paris|45|S|bioinfo_2014-01_55
+C1140694|Bioinformatique|603|B|bioinfo_2014-01_55
+C0236018|aura|738|B|bioinfo_2014-01_55
+C0276241|MCF|8|S|bioinfo_2014-01_55
+C0276241|MCF|142|B|bioinfo_2014-01_55
+C0557854|service|1607|B|bioinfo_2014-01_55
+C0282116|collaborations|495|B|bioinfo_2014-01_55
+C0008015|MCF|8|S|bioinfo_2014-01_55
+C0008015|MCF|142|B|bioinfo_2014-01_55
+C0444649|Master|1418|B|bioinfo_2014-01_55
+C0233535|but|260|B|bioinfo_2014-01_55
+C0331677|Paris|45|S|bioinfo_2014-01_55

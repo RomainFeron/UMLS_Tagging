@@ -1,0 +1,16 @@
+C0330928|rue|859|B|bioinfo_2014-11_31
+C1450477|Systems Biology|825|B|bioinfo_2014-11_31
+C1550557|and|807|B|bioinfo_2014-11_31
+C0449913|Systems|825|B|bioinfo_2014-11_31
+C0330929|rue|859|B|bioinfo_2014-11_31
+C0013806|est|590|B|bioinfo_2014-11_31
+C0030561|Paris|177|B|bioinfo_2014-11_31
+C1550513|via|495|B|bioinfo_2014-11_31
+C1140694|Bioinformatics|792|B|bioinfo_2014-11_31
+C0043227|Travail|28|B|bioinfo_2014-11_31
+C1880157|Computational|811|B|bioinfo_2014-11_31
+C0439228|Day|7|S|bioinfo_2014-11_31
+C1516769|Computational|811|B|bioinfo_2014-11_31
+C0011008|date|561|B|bioinfo_2014-11_31
+C0005532|Biology|833|B|bioinfo_2014-11_31
+C0331677|Paris|177|B|bioinfo_2014-11_31

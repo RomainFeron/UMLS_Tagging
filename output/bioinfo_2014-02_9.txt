@@ -1,0 +1,9 @@
+C1552923|section|18|S|bioinfo_2014-02_9
+C0332287|Plus|1117|B|bioinfo_2014-02_9
+C1552924|section|18|S|bioinfo_2014-02_9
+C0013806|est|549|B|bioinfo_2014-02_9
+C1552858|section|18|S|bioinfo_2014-02_9
+C1417063|MC3|324|B|bioinfo_2014-02_9
+C0185125|applications|1140|B|bioinfo_2014-02_9
+C0276241|MCF|9|S|bioinfo_2014-02_9
+C0008015|MCF|9|S|bioinfo_2014-02_9

@@ -1,0 +1,136 @@
+C0470187|available|34|B|bioinfo_2014-03_54
+C1272753|Institute|58|B|bioinfo_2014-03_54
+C0205250|high|569|B|bioinfo_2014-03_54
+C0007634|cells|367|B|bioinfo_2014-03_54
+C0020124|human genetics|2198|B|bioinfo_2014-03_54
+C0205146|areas|1419|B|bioinfo_2014-03_54
+C0376554|knowledge|2531|B|bioinfo_2014-03_54
+C0036397|science|1194|B|bioinfo_2014-03_54
+C0489654|style|2785|B|bioinfo_2014-03_54
+C0039796|therapeutics|2078|B|bioinfo_2014-03_54
+C0023185|learning|1541|B|bioinfo_2014-03_54
+C1186763|stem|362|B|bioinfo_2014-03_54
+C0376558|life|2894|B|bioinfo_2014-03_54
+C0376528|computational biology|1217|B|bioinfo_2014-03_54
+C0887950|genomics|184|B|bioinfo_2014-03_54
+C0022877|laboratory|1057|B|bioinfo_2014-03_54
+C0018956|Stem Cell|45|S|bioinfo_2014-03_54
+C0007634|Cell|50|S|bioinfo_2014-03_54
+C0681871|research plan|840|B|bioinfo_2014-03_54
+C0543488|interest|1560|B|bioinfo_2014-03_54
+C1269647|Cell|50|S|bioinfo_2014-03_54
+C0042950|will|275|B|bioinfo_2014-03_54
+C0442821|strong|1346|B|bioinfo_2014-03_54
+C0009452|communication|1599|B|bioinfo_2014-03_54
+C0336779|machine|1533|B|bioinfo_2014-03_54
+C0038250|stem cells|362|B|bioinfo_2014-03_54
+C0015737|national|1970|B|bioinfo_2014-03_54
+C0007634|cell|333|B|bioinfo_2014-03_54
+C1325786|DNA|1510|B|bioinfo_2014-03_54
+C0034036|publication|1353|B|bioinfo_2014-03_54
+C0043227|work|280|B|bioinfo_2014-03_54
+C0424215|identity|663|B|bioinfo_2014-03_54
+C0260515|cancer|2071|B|bioinfo_2014-03_54
+C0887950|Genomics|35|S|bioinfo_2014-03_54
+C0001675|adult|446|B|bioinfo_2014-03_54
+C0278627|oncology|2106|B|bioinfo_2014-03_54
+C0205265|initial|692|B|bioinfo_2014-03_54
+C0029246|organization|2410|B|bioinfo_2014-03_54
+C0162340|understanding|1261|B|bioinfo_2014-03_54
+C0851286|staff|2318|B|bioinfo_2014-03_54
+C1704653|Cell|50|S|bioinfo_2014-03_54
+C0870520|expertise|2545|B|bioinfo_2014-03_54
+C0596545|experience|1318|B|bioinfo_2014-03_54
+C0005532|biology|1231|B|bioinfo_2014-03_54
+C0034869|record|1365|B|bioinfo_2014-03_54
+C0518214|quality of life|2883|B|bioinfo_2014-03_54
+C0037173|Singapore|71|B|bioinfo_2014-03_54
+C0038250|Stem Cell|45|S|bioinfo_2014-03_54
+C1552827|top|1095|B|bioinfo_2014-03_54
+C0458003|developmental|2128|B|bioinfo_2014-03_54
+C0470269|300|2289|B|bioinfo_2014-03_54
+C1524024|analysis|557|B|bioinfo_2014-03_54
+C0442519|houses|2277|B|bioinfo_2014-03_54
+C1655731|epigenetics|712|B|bioinfo_2014-03_54
+C0870313|communication skills|1599|B|bioinfo_2014-03_54
+C0687744|groups|1711|B|bioinfo_2014-03_54
+C1136359|Cell|50|S|bioinfo_2014-03_54
+C0006826|cancer|2071|B|bioinfo_2014-03_54
+C1561598|organization|2410|B|bioinfo_2014-03_54
+C1301808|states|338|B|bioinfo_2014-03_54
+C0205172|more|1397|B|bioinfo_2014-03_54
+C0205208|solid|1255|B|bioinfo_2014-03_54
+C0242767|Stem|45|S|bioinfo_2014-03_54
+C0220905|regulatory|470|B|bioinfo_2014-03_54
+C0022877|laboratories|1109|B|bioinfo_2014-03_54
+C0038215|statistics|1294|B|bioinfo_2014-03_54
+C0678640|exchange|2512|B|bioinfo_2014-03_54
+C1514185|pluripotent|321|B|bioinfo_2014-03_54
+C1517004|experimental|1698|B|bioinfo_2014-03_54
+C0459920|ideas|807|B|bioinfo_2014-03_54
+C1552839|groups|1711|B|bioinfo_2014-03_54
+C0012634|diseases|2188|B|bioinfo_2014-03_54
+C0039421|technologies|2222|B|bioinfo_2014-03_54
+C1186763|Stem|45|S|bioinfo_2014-03_54
+C0025663|methods|533|B|bioinfo_2014-03_54
+C0678257|description|112|B|bioinfo_2014-03_54
+C0012854|DNA|1510|B|bioinfo_2014-03_54
+C0013935|embryonic|352|B|bioinfo_2014-03_54
+C0009450|infectious diseases|2177|B|bioinfo_2014-03_54
+C1880157|Computational|21|S|bioinfo_2014-03_54
+C1550587|infectious|2177|B|bioinfo_2014-03_54
+C1533716|Information|1730|B|bioinfo_2014-03_54
+C0026376|molecular biology|1572|B|bioinfo_2014-03_54
+C0332282|following|12|B|bioinfo_2014-03_54
+C0038137|standards|2609|B|bioinfo_2014-03_54
+C0205170|good|1594|B|bioinfo_2014-03_54
+C0441833|groups|1711|B|bioinfo_2014-03_54
+C0205263|induced|382|B|bioinfo_2014-03_54
+C1516769|Computational|21|S|bioinfo_2014-03_54
+C0220885|organization|2410|B|bioinfo_2014-03_54
+C0872076|pluripotent stem cells|390|B|bioinfo_2014-03_54
+C0035168|research|840|B|bioinfo_2014-03_54
+C0078988|Asian|2759|B|bioinfo_2014-03_54
+C0180153|cover|1788|B|bioinfo_2014-03_54
+C0678856|skills|1613|B|bioinfo_2014-03_54
+C0683941|comparative analysis|545|B|bioinfo_2014-03_54
+C2338314|Genome|51|B|bioinfo_2014-03_54
+C0402112|scientists|2293|B|bioinfo_2014-03_54
+C0871489|team|894|B|bioinfo_2014-03_54
+C0237070|discipline|2381|B|bioinfo_2014-03_54
+C0332296|free|2507|B|bioinfo_2014-03_54
+C0441471|events|630|B|bioinfo_2014-03_54
+C0036397|sciences|2012|B|bioinfo_2014-03_54
+C1096774|letter|1794|B|bioinfo_2014-03_54
+C2015891|quality of life|2883|B|bioinfo_2014-03_54
+C0162326|DNA sequence|1510|B|bioinfo_2014-03_54
+C1948049|Cell|50|S|bioinfo_2014-03_54
+C0205363|stratified|2095|B|bioinfo_2014-03_54
+C0011756|developmental biology|2128|B|bioinfo_2014-03_54
+C0558083|enthusiastic|1175|B|bioinfo_2014-03_54
+C0439836|conversion|676|B|bioinfo_2014-03_54
+C1299583|independent|828|B|bioinfo_2014-03_54
+C0699759|rich|2754|B|bioinfo_2014-03_54
+C0034380|quality of life|2883|B|bioinfo_2014-03_54
+C1546857|required|1624|B|bioinfo_2014-03_54
+C0733755|position|22|B|bioinfo_2014-03_54
+C0017428|Genome|51|B|bioinfo_2014-03_54
+C1551040|staff|2318|B|bioinfo_2014-03_54
+C0936012|analysis|557|B|bioinfo_2014-03_54
+C1272703|successful|254|B|bioinfo_2014-03_54
+C0443324|traditional|2344|B|bioinfo_2014-03_54
+C0282116|collaborations|2484|B|bioinfo_2014-03_54
+C1561527|Information|1730|B|bioinfo_2014-03_54
+C0025664|methods|533|B|bioinfo_2014-03_54
+C0010819|cell biology|2163|B|bioinfo_2014-03_54
+C0033204|probability|1278|B|bioinfo_2014-03_54
+C1561528|Information|1730|B|bioinfo_2014-03_54
+C0027365|names|1810|B|bioinfo_2014-03_54
+C0237607|experience|1318|B|bioinfo_2014-03_54
+C1555582|initial|692|B|bioinfo_2014-03_54
+C0233535|but|756|B|bioinfo_2014-03_54
+C1285542|focus|700|B|bioinfo_2014-03_54
+C1512022|PhD|1210|B|bioinfo_2014-03_54
+C0013621|learning|1541|B|bioinfo_2014-03_54
+C0282116|collaboration|1034|B|bioinfo_2014-03_54
+C0723712|therapeutics|2078|B|bioinfo_2014-03_54

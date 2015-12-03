@@ -1,0 +1,5 @@
+C0007447|cation|81|S|bioinfo_2014-11_16
+C0337611|contact|319|B|bioinfo_2014-11_16
+C0332158|contact|319|B|bioinfo_2014-11_16
+C0678257|description|479|B|bioinfo_2014-11_16
+C0282111|www|61|B|bioinfo_2014-11_16

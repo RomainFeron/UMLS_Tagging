@@ -1,0 +1,15 @@
+C0337611|contact|356|B|bioinfo_2014-07_2
+C0260515|cancer|44|B|bioinfo_2014-07_2
+C0542559|context|33|B|bioinfo_2014-07_2
+C0010992|data analysis|12|B|bioinfo_2014-07_2
+C0332149|possible|315|B|bioinfo_2014-07_2
+C0332158|contact|356|B|bioinfo_2014-07_2
+C1524024|analysis|17|B|bioinfo_2014-07_2
+C0449255|context|33|B|bioinfo_2014-07_2
+C0006826|cancer|44|B|bioinfo_2014-07_2
+C0678257|description|453|B|bioinfo_2014-07_2
+C0282111|www|121|B|bioinfo_2014-07_2
+C0439234|years|303|B|bioinfo_2014-07_2
+C0733755|position|14|S|bioinfo_2014-07_2
+C0733755|position|168|B|bioinfo_2014-07_2
+C0936012|analysis|17|B|bioinfo_2014-07_2

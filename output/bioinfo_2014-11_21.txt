@@ -1,0 +1,14 @@
+C0439634|formations|66|B|bioinfo_2014-11_21
+C1158830|Initiation|186|B|bioinfo_2014-11_21
+C0442504|places|36|B|bioinfo_2014-11_21
+C1704686|Initiation|186|B|bioinfo_2014-11_21
+C0085205|Fax|935|B|bioinfo_2014-11_21
+C0591239|Cedex|893|B|bioinfo_2014-11_21
+C0205345|relative|613|B|bioinfo_2014-11_21
+C1414864|Les|128|B|bioinfo_2014-11_21
+C0589507|Initiation|186|B|bioinfo_2014-11_21
+C1880669|Fax|935|B|bioinfo_2014-11_21
+C1578433|Fax|935|B|bioinfo_2014-11_21
+C0080103|relative|613|B|bioinfo_2014-11_21
+C1306673|stages|626|B|bioinfo_2014-11_21
+C1547563|Fax|935|B|bioinfo_2014-11_21

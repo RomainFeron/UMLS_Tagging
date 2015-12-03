@@ -1,0 +1,128 @@
+C0032214|play|499|B|bioinfo_2014-05_82
+C0179586|Cap|61|B|bioinfo_2014-05_82
+C1314939|involved|397|B|bioinfo_2014-05_82
+C0017262|Gene Expression|78|B|bioinfo_2014-05_82
+C1080058|This|815|B|bioinfo_2014-05_82
+C0042153|use|1954|B|bioinfo_2014-05_82
+C0680063|Child|2693|B|bioinfo_2014-05_82
+C0031843|physiology|530|B|bioinfo_2014-05_82
+C1705429|Group|2564|B|bioinfo_2014-05_82
+C0015576|Family|2701|B|bioinfo_2014-05_82
+C1552456|Research|2708|B|bioinfo_2014-05_82
+C1442461|3 months|2412|B|bioinfo_2014-05_82
+C0596227|British|233|B|bioinfo_2014-05_82
+C0017262|Expression|83|B|bioinfo_2014-05_82
+C0006935|Cap|61|B|bioinfo_2014-05_82
+C0022877|laboratory|158|B|bioinfo_2014-05_82
+C0086860|promoters|1869|B|bioinfo_2014-05_82
+C0449445|approaches|2150|B|bioinfo_2014-05_82
+C1548287|Research|2708|B|bioinfo_2014-05_82
+C0039828|these|1935|B|bioinfo_2014-05_82
+C0185125|application|1811|B|bioinfo_2014-05_82
+C1547120|Room|2749|B|bioinfo_2014-05_82
+C1550557|and|40|B|bioinfo_2014-05_82
+C2700055|Family|2701|B|bioinfo_2014-05_82
+C0042950|will|1587|B|bioinfo_2014-05_82
+C1561557|Group|2564|B|bioinfo_2014-05_82
+C1546495|Child|2693|B|bioinfo_2014-05_82
+C0205227|endogenous|367|B|bioinfo_2014-05_82
+C0007634|cell|525|B|bioinfo_2014-05_82
+C1706092|Cap|61|B|bioinfo_2014-05_82
+C0037769|West|2731|B|bioinfo_2014-05_82
+C0459471|interpretation|2196|B|bioinfo_2014-05_82
+C1513397|Molecular Medicine|181|B|bioinfo_2014-05_82
+C0439064|multiple|1958|B|bioinfo_2014-05_82
+C0162340|understanding|618|B|bioinfo_2014-05_82
+C1101610|microRNA|20|B|bioinfo_2014-05_82
+C0851285|regulations|1432|B|bioinfo_2014-05_82
+C0185117|expression|449|B|bioinfo_2014-05_82
+C1563343|Family|2701|B|bioinfo_2014-05_82
+C1292711|part of|832|B|bioinfo_2014-05_82
+C2911684|Expression|83|B|bioinfo_2014-05_82
+C0185117|Expression|83|B|bioinfo_2014-05_82
+C0700321|small|105|B|bioinfo_2014-05_82
+C1524024|analysis|1143|B|bioinfo_2014-05_82
+C0013227|Medicine|191|B|bioinfo_2014-05_82
+C0683607|allow|1592|B|bioinfo_2014-05_82
+C0017337|genes|1751|B|bioinfo_2014-05_82
+C1705428|Group|2564|B|bioinfo_2014-05_82
+C0456387|class|358|B|bioinfo_2014-05_82
+C0038492|student|2125|B|bioinfo_2014-05_82
+C1882071|networks|1627|B|bioinfo_2014-05_82
+C0600138|play|499|B|bioinfo_2014-05_82
+C1547703|Room|2749|B|bioinfo_2014-05_82
+C1706433|Cap|61|B|bioinfo_2014-05_82
+C0006823|Canada|266|B|bioinfo_2014-05_82
+C0681814|experiments|1229|B|bioinfo_2014-05_82
+C1521991|Molecular|181|B|bioinfo_2014-05_82
+C0936012|Analysis|65|B|bioinfo_2014-05_82
+C0006935|cap|1139|B|bioinfo_2014-05_82
+C0012634|diseases|582|B|bioinfo_2014-05_82
+C0332183|often|560|B|bioinfo_2014-05_82
+C0376636|management|2169|B|bioinfo_2014-05_82
+C0678723|development|1795|B|bioinfo_2014-05_82
+C0025663|methods|1353|B|bioinfo_2014-05_82
+C1619814|Child|2693|B|bioinfo_2014-05_82
+C0332281|associated|566|B|bioinfo_2014-05_82
+C1551041|student|2125|B|bioinfo_2014-05_82
+C1533716|information|1575|B|bioinfo_2014-05_82
+C1555907|Family|2701|B|bioinfo_2014-05_82
+C0684321|regression|1975|B|bioinfo_2014-05_82
+C0017337|Gene|78|B|bioinfo_2014-05_82
+C0016674|France|937|B|bioinfo_2014-05_82
+C0041740|University|219|B|bioinfo_2014-05_82
+C1706433|cap|1139|B|bioinfo_2014-05_82
+C0017398|Génétique|899|B|bioinfo_2014-05_82
+C1552573|student|2125|B|bioinfo_2014-05_82
+C0035168|Research|2708|B|bioinfo_2014-05_82
+C0441833|Group|2564|B|bioinfo_2014-05_82
+C0021622|institute|1005|B|bioinfo_2014-05_82
+C0205099|Centre|170|B|bioinfo_2014-05_82
+C0439231|months|2414|B|bioinfo_2014-05_82
+C0017337|gene|1152|B|bioinfo_2014-05_82
+C0684320|regression|1975|B|bioinfo_2014-05_82
+C0086418|human|1277|B|bioinfo_2014-05_82
+C0025118|Medicine|191|B|bioinfo_2014-05_82
+C0008059|Child|2693|B|bioinfo_2014-05_82
+C0871489|team|2278|B|bioinfo_2014-05_82
+C1551442|Columbia|241|B|bioinfo_2014-05_82
+C1327622|regulation|16|S|bioinfo_2014-05_82
+C1327622|regulation|29|B|bioinfo_2014-05_82
+C1552516|Group|2564|B|bioinfo_2014-05_82
+C1705738|mode|641|B|bioinfo_2014-05_82
+C0150098|data sets|1249|B|bioinfo_2014-05_82
+C0242481|Research|2708|B|bioinfo_2014-05_82
+C1704727|Family|2701|B|bioinfo_2014-05_82
+C0002778|Analysis|65|B|bioinfo_2014-05_82
+C1546857|required|716|B|bioinfo_2014-05_82
+C0243107|development|1795|B|bioinfo_2014-05_82
+C1325880|cell physiology|525|B|bioinfo_2014-05_82
+C0542341|functions|512|B|bioinfo_2014-05_82
+C0936012|analysis|1143|B|bioinfo_2014-05_82
+C0007613|cell physiology|525|B|bioinfo_2014-05_82
+C1272703|successful|2344|B|bioinfo_2014-05_82
+C0493327|Cap|61|B|bioinfo_2014-05_82
+C1257890|Group|2564|B|bioinfo_2014-05_82
+C1556084|French|2502|B|bioinfo_2014-05_82
+C0040648|transcription factors|1707|B|bioinfo_2014-05_82
+C0449719|part|832|B|bioinfo_2014-05_82
+C0031842|physiology|530|B|bioinfo_2014-05_82
+C0025664|methods|1353|B|bioinfo_2014-05_82
+C0006193|British Columbia|233|B|bioinfo_2014-05_82
+C0015610|Family Research|2701|B|bioinfo_2014-05_82
+C0014406|environment|2283|B|bioinfo_2014-05_82
+C0220905|regulations|1432|B|bioinfo_2014-05_82
+C0870705|information|1575|B|bioinfo_2014-05_82
+C0851285|regulation|16|S|bioinfo_2014-05_82
+C0851285|regulation|29|B|bioinfo_2014-05_82
+C0017262|gene expression|1152|B|bioinfo_2014-05_82
+C1285542|focus|1782|B|bioinfo_2014-05_82
+C0006826|cancers|599|B|bioinfo_2014-05_82
+C1705493|West|2731|B|bioinfo_2014-05_82
+C1512022|PhD|1763|B|bioinfo_2014-05_82
+C0205245|functional|1674|B|bioinfo_2014-05_82
+C0332281|associated with|566|B|bioinfo_2014-05_82
+C1552020|part|832|B|bioinfo_2014-05_82
+C1551058|are|352|B|bioinfo_2014-05_82
+C1552262|Family|2701|B|bioinfo_2014-05_82
+C0282116|collaboration|857|B|bioinfo_2014-05_82

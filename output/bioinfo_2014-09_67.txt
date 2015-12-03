@@ -1,0 +1,13 @@
+C0026219|mission|193|B|bioinfo_2014-09_67
+C0234621|Visual|1286|B|bioinfo_2014-09_67
+C0683625|cadre|566|B|bioinfo_2014-09_67
+C0013806|est|158|B|bioinfo_2014-09_67
+C0024501|Maintenance|1189|B|bioinfo_2014-09_67
+C0002045|Algorithme|1362|B|bioinfo_2014-09_67
+C0282111|www|1572|B|bioinfo_2014-09_67
+C0005574|Biotechnologie|41|B|bioinfo_2014-09_67
+C0016674|France|1500|B|bioinfo_2014-09_67
+C1300072|stage|795|B|bioinfo_2014-09_67
+C0557854|service|177|B|bioinfo_2014-09_67
+C0678594|structure|1236|B|bioinfo_2014-09_67
+C0812409|gradients|1173|B|bioinfo_2014-09_67

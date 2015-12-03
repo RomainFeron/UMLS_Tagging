@@ -1,0 +1,11 @@
+C1883016|session|310|B|bioinfo_2014-03_29
+C0005532|Biologie|31|S|bioinfo_2014-03_29
+C0005532|Biologie|124|B|bioinfo_2014-03_29
+C0013806|est|163|B|bioinfo_2014-03_29
+C0015127|cause|7|B|bioinfo_2014-03_29
+C1414864|Les|358|B|bioinfo_2014-03_29
+C0242747|mars|46|S|bioinfo_2014-03_29
+C0242747|mars|148|B|bioinfo_2014-03_29
+C0011008|date|181|B|bioinfo_2014-03_29
+C0591239|cedex|732|B|bioinfo_2014-03_29
+C0033164|prions|209|B|bioinfo_2014-03_29

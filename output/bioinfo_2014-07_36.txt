@@ -1,0 +1,35 @@
+C0470187|available|611|B|bioinfo_2014-07_36
+C1272753|Institute|1041|B|bioinfo_2014-07_36
+C1080058|This|400|B|bioinfo_2014-07_36
+C1450477|Systems Biology|33|S|bioinfo_2014-07_36
+C1450477|Systems Biology|131|B|bioinfo_2014-07_36
+C1550557|and|928|B|bioinfo_2014-07_36
+C1553384|registration|775|B|bioinfo_2014-07_36
+C1561543|year|405|B|bioinfo_2014-07_36
+C0334861|Biologists|388|B|bioinfo_2014-07_36
+C0441471|event|602|B|bioinfo_2014-07_36
+C0205170|well|683|B|bioinfo_2014-07_36
+C0449913|Systems|33|S|bioinfo_2014-07_36
+C0449913|Systems|131|B|bioinfo_2014-07_36
+C0086047|Conference|19|S|bioinfo_2014-07_36
+C0086047|Conference|117|B|bioinfo_2014-07_36
+C0439234|year|405|B|bioinfo_2014-07_36
+C0392756|reduced|806|B|bioinfo_2014-07_36
+C0205225|main|342|B|bioinfo_2014-07_36
+C1561544|year|405|B|bioinfo_2014-07_36
+C0556656|meeting|415|B|bioinfo_2014-07_36
+C0085205|Fax|1108|B|bioinfo_2014-07_36
+C0376675|posters|920|B|bioinfo_2014-07_36
+C1880669|Fax|1108|B|bioinfo_2014-07_36
+C1578433|Fax|1108|B|bioinfo_2014-07_36
+C1522508|Details|469|B|bioinfo_2014-07_36
+C1512888|International|5|S|bioinfo_2014-07_36
+C1512888|International|103|B|bioinfo_2014-07_36
+C0439611|preliminary|573|B|bioinfo_2014-07_36
+C1547563|Fax|1108|B|bioinfo_2014-07_36
+C0004340|Australia|458|B|bioinfo_2014-07_36
+C0080045|price|814|B|bioinfo_2014-07_36
+C0005532|Biology|41|S|bioinfo_2014-07_36
+C0005532|Biology|139|B|bioinfo_2014-07_36
+C0600118|talks|932|B|bioinfo_2014-07_36
+C0005595|bird|770|B|bioinfo_2014-07_36

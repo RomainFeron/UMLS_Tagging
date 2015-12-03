@@ -1,0 +1,13 @@
+C0034036|publications|1331|B|bioinfo_2014-06_85
+C0205099|Center|471|B|bioinfo_2014-06_85
+C1332821|MIG|171|B|bioinfo_2014-06_85
+C0805586|challenge|701|B|bioinfo_2014-06_85
+C0005532|Biologie|1151|B|bioinfo_2014-06_85
+C0013849|email|1348|B|bioinfo_2014-06_85
+C0683625|cadre|388|B|bioinfo_2014-06_85
+C0013806|est|452|B|bioinfo_2014-06_85
+C0268238|CDS|1664|B|bioinfo_2014-06_85
+C0036397|Science|487|B|bioinfo_2014-06_85
+C1707170|MIG|171|B|bioinfo_2014-06_85
+C1553519|email|1348|B|bioinfo_2014-06_85
+C0205099|centre|1487|B|bioinfo_2014-06_85

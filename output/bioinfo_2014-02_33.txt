@@ -1,0 +1,11 @@
+C0445542|mini|204|B|bioinfo_2014-02_33
+C0677507|workshop|85|B|bioinfo_2014-02_33
+C0013806|est|301|B|bioinfo_2014-02_33
+C0025663|methods|7|S|bioinfo_2014-02_33
+C0025663|methods|148|B|bioinfo_2014-02_33
+C0242747|mars|112|B|bioinfo_2014-02_33
+C0242262|workshop|85|B|bioinfo_2014-02_33
+C0025664|methods|7|S|bioinfo_2014-02_33
+C0025664|methods|148|B|bioinfo_2014-02_33
+C0549177|big|19|S|bioinfo_2014-02_33
+C0549177|big|160|B|bioinfo_2014-02_33

@@ -1,0 +1,29 @@
+C1705429|Group|320|B|bioinfo_2014-01_79
+C1516627|Research Associate|94|B|bioinfo_2014-01_79
+C1552456|Research|94|B|bioinfo_2014-01_79
+C1548287|Research|94|B|bioinfo_2014-01_79
+C1550557|and|307|B|bioinfo_2014-01_79
+C0337611|contact|206|B|bioinfo_2014-01_79
+C1561557|Group|320|B|bioinfo_2014-01_79
+C0542341|Function|311|B|bioinfo_2014-01_79
+C0332158|contact|206|B|bioinfo_2014-01_79
+C0750490|Associate|9|S|bioinfo_2014-01_79
+C0750490|Associate|103|B|bioinfo_2014-01_79
+C0029246|Organization|294|B|bioinfo_2014-01_79
+C2348314|Dr.|336|B|bioinfo_2014-01_79
+C1705428|Group|320|B|bioinfo_2014-01_79
+C1706221|Associate|9|S|bioinfo_2014-01_79
+C1706221|Associate|103|B|bioinfo_2014-01_79
+C0678257|description|365|B|bioinfo_2014-01_79
+C0282111|www|61|B|bioinfo_2014-01_79
+C0035168|Research|94|B|bioinfo_2014-01_79
+C0441833|Group|320|B|bioinfo_2014-01_79
+C2338314|Genome|287|B|bioinfo_2014-01_79
+C1552516|Group|320|B|bioinfo_2014-01_79
+C0242481|Research|94|B|bioinfo_2014-01_79
+C1522486|Organization|294|B|bioinfo_2014-01_79
+C0017428|Genome|287|B|bioinfo_2014-01_79
+C1705273|Function|311|B|bioinfo_2014-01_79
+C1257890|Group|320|B|bioinfo_2014-01_79
+C0029237|Organization|294|B|bioinfo_2014-01_79
+C0586917|Research Associate|94|B|bioinfo_2014-01_79

@@ -1,0 +1,16 @@
+C1547537|Department|1330|B|bioinfo_2014-10_30
+C0919279|code|438|B|bioinfo_2014-10_30
+C1549615|Department|1330|B|bioinfo_2014-10_30
+C0005532|biology|1100|B|bioinfo_2014-10_30
+C0009219|code|438|B|bioinfo_2014-10_30
+C1704729|Department|1330|B|bioinfo_2014-10_30
+C1547116|Department|1330|B|bioinfo_2014-10_30
+C0013806|est|16|B|bioinfo_2014-10_30
+C1548283|Department|1330|B|bioinfo_2014-10_30
+C1300072|stage|7|B|bioinfo_2014-10_30
+C0005477|Biochimie|1368|B|bioinfo_2014-10_30
+C0033684|Proteins|1212|B|bioinfo_2014-10_30
+C0185125|applications|739|B|bioinfo_2014-10_30
+C0205447|One|1257|B|bioinfo_2014-10_30
+C1548529|Department|1330|B|bioinfo_2014-10_30
+C0233535|but|313|B|bioinfo_2014-10_30

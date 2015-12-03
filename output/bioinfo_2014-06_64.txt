@@ -1,0 +1,4 @@
+C0337611|contact|184|B|bioinfo_2014-06_64
+C0332158|contact|184|B|bioinfo_2014-06_64
+C0678257|description|300|B|bioinfo_2014-06_64
+C0282111|www|62|B|bioinfo_2014-06_64

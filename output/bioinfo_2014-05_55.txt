@@ -1,0 +1,10 @@
+C1261473|Sarcomes|327|B|bioinfo_2014-05_55
+C0337611|contact|211|B|bioinfo_2014-05_55
+C0005532|Biologie|314|B|bioinfo_2014-05_55
+C0332158|contact|211|B|bioinfo_2014-05_55
+C0017428|Génome|104|B|bioinfo_2014-05_55
+C0678257|description|378|B|bioinfo_2014-05_55
+C0282111|www|62|B|bioinfo_2014-05_55
+C0017398|Génétique|301|B|bioinfo_2014-05_55
+C0678594|structure|22|S|bioinfo_2014-05_55
+C0678594|structure|112|B|bioinfo_2014-05_55

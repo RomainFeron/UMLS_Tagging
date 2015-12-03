@@ -1,0 +1,8 @@
+C0005553|Biophysique|50|S|bioinfo_2014-12_59
+C0005553|Biophysique|137|B|bioinfo_2014-12_59
+C0024934|Math|82|S|bioinfo_2014-12_59
+C0337611|contact|249|B|bioinfo_2014-12_59
+C0453932|jean|290|B|bioinfo_2014-12_59
+C0332158|contact|249|B|bioinfo_2014-12_59
+C0678257|description|357|B|bioinfo_2014-12_59
+C0282111|www|61|B|bioinfo_2014-12_59

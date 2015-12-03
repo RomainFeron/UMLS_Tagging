@@ -1,0 +1,6 @@
+C0242823|Saint|184|B|bioinfo_2014-10_89
+C0337611|contact|206|B|bioinfo_2014-10_89
+C0332158|contact|206|B|bioinfo_2014-10_89
+C0282601|CDI|136|B|bioinfo_2014-10_89
+C0678257|description|312|B|bioinfo_2014-10_89
+C0282111|www|61|B|bioinfo_2014-10_89

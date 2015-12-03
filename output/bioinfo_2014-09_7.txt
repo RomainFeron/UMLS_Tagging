@@ -1,0 +1,17 @@
+C0022877|Laboratory|315|B|bioinfo_2014-09_7
+C0337611|contact|250|B|bioinfo_2014-09_7
+C1571737|Laboratory|315|B|bioinfo_2014-09_7
+C1516924|Epigenetics|330|B|bioinfo_2014-09_7
+C1697786|Laboratory|315|B|bioinfo_2014-09_7
+C0014406|Environment|344|B|bioinfo_2014-09_7
+C2598148|Laboratory|315|B|bioinfo_2014-09_7
+C1655731|Epigenetics|330|B|bioinfo_2014-09_7
+C0332158|contact|250|B|bioinfo_2014-09_7
+C1524024|analysis|113|B|bioinfo_2014-09_7
+C0678257|description|380|B|bioinfo_2014-09_7
+C0282111|www|61|B|bioinfo_2014-09_7
+C0441712|mechanisms|50|S|bioinfo_2014-09_7
+C0441712|mechanisms|137|B|bioinfo_2014-09_7
+C0022885|Laboratory|315|B|bioinfo_2014-09_7
+C0936012|analysis|113|B|bioinfo_2014-09_7
+C1548427|Laboratory|315|B|bioinfo_2014-09_7

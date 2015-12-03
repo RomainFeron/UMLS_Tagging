@@ -1,0 +1,9 @@
+C0026219|mission|93|B|bioinfo_2014-06_35
+C0013806|est|162|B|bioinfo_2014-06_35
+C0036397|Sciences|668|B|bioinfo_2014-06_35
+C0016674|France|181|B|bioinfo_2014-06_35
+C0005526|Life Sciences|663|B|bioinfo_2014-06_35
+C0008942|client|259|B|bioinfo_2014-06_35
+C0009818|Consulting|636|B|bioinfo_2014-06_35
+C0376558|Life|663|B|bioinfo_2014-06_35
+C0022192|Ile|174|B|bioinfo_2014-06_35

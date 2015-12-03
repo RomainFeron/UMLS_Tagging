@@ -1,0 +1,11 @@
+C0041740|Université|548|B|bioinfo_2014-07_30
+C0018459|Habilitation|66|B|bioinfo_2014-07_30
+C0680644|jury|380|B|bioinfo_2014-07_30
+C0006037|Boston|443|B|bioinfo_2014-07_30
+C0008532|Christian|518|B|bioinfo_2014-07_30
+C0677620|Boston|443|B|bioinfo_2014-07_30
+C0013806|est|385|B|bioinfo_2014-07_30
+C0700085|Curie|642|B|bioinfo_2014-07_30
+C0016674|France|362|B|bioinfo_2014-07_30
+C0344346|Christian|518|B|bioinfo_2014-07_30
+C0591239|cedex|1024|B|bioinfo_2014-07_30

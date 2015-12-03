@@ -1,0 +1,67 @@
+C0205393|most|360|B|bioinfo_2014-05_44
+C0870071|modeling|657|B|bioinfo_2014-05_44
+C0332185|recent|365|B|bioinfo_2014-05_44
+C0038492|students|783|B|bioinfo_2014-05_44
+C1553451|System|709|B|bioinfo_2014-05_44
+C0008633|Chromosome|45|S|bioinfo_2014-05_44
+C0008633|Chromosome|119|B|bioinfo_2014-05_44
+C1550557|and|66|S|bioinfo_2014-05_44
+C1550557|and|140|B|bioinfo_2014-05_44
+C0337611|contact|1154|B|bioinfo_2014-05_44
+C1512346|visit|885|B|bioinfo_2014-05_44
+C0679083|simulation|670|B|bioinfo_2014-05_44
+C0004611|bacteria|596|B|bioinfo_2014-05_44
+C2607943|findings|372|B|bioinfo_2014-05_44
+C0449913|System|709|B|bioinfo_2014-05_44
+C0221456|physicists|301|B|bioinfo_2014-05_44
+C0079382|friends|21|B|bioinfo_2014-05_44
+C0185117|expression|732|B|bioinfo_2014-05_44
+C0013987|feel|1057|B|bioinfo_2014-05_44
+C0005532|biology|716|B|bioinfo_2014-05_44
+C0205197|complete|837|B|bioinfo_2014-05_44
+C0729606|chromosome structure|515|B|bioinfo_2014-05_44
+C0678594|Structure|56|S|bioinfo_2014-05_44
+C0678594|Structure|130|B|bioinfo_2014-05_44
+C0444868|all|1214|B|bioinfo_2014-05_44
+C0729606|Chromosome Structure|45|S|bioinfo_2014-05_44
+C0729606|Chromosome Structure|119|B|bioinfo_2014-05_44
+C0332158|contact|1154|B|bioinfo_2014-05_44
+C0677507|workshop|5|S|bioinfo_2014-05_44
+C0677507|workshop|78|B|bioinfo_2014-05_44
+C1882071|networks|569|B|bioinfo_2014-05_44
+C1510439|bacteria|596|B|bioinfo_2014-05_44
+C0220905|regulatory|558|B|bioinfo_2014-05_44
+C0681814|experiments|606|B|bioinfo_2014-05_44
+C1552866|include|463|B|bioinfo_2014-05_44
+C1275506|imaging methods|495|B|bioinfo_2014-05_44
+C1513491|most recent|360|B|bioinfo_2014-05_44
+C0025663|methods|503|B|bioinfo_2014-05_44
+C1533716|information|846|B|bioinfo_2014-05_44
+C0449911|Views|36|S|bioinfo_2014-05_44
+C0449911|Views|110|B|bioinfo_2014-05_44
+C0022277|Italy|169|B|bioinfo_2014-05_44
+C1552816|all|1214|B|bioinfo_2014-05_44
+C0017337|Gene|553|B|bioinfo_2014-05_44
+C1300196|organising|1268|B|bioinfo_2014-05_44
+C0017337|gene|727|B|bioinfo_2014-05_44
+C0402112|scientists|242|B|bioinfo_2014-05_44
+C0332296|free|1062|B|bioinfo_2014-05_44
+C1327622|regulation|747|B|bioinfo_2014-05_44
+C0205485|physical|648|B|bioinfo_2014-05_44
+C0543488|interested|1130|B|bioinfo_2014-05_44
+C0008633|chromosomes|440|B|bioinfo_2014-05_44
+C1517741|Last|82|S|bioinfo_2014-05_44
+C0039869|think|1114|B|bioinfo_2014-05_44
+C1704459|System|709|B|bioinfo_2014-05_44
+C0332257|include|463|B|bioinfo_2014-05_44
+C0242262|workshop|5|S|bioinfo_2014-05_44
+C0242262|workshop|78|B|bioinfo_2014-05_44
+C0678594|structure|388|B|bioinfo_2014-05_44
+C0025664|methods|503|B|bioinfo_2014-05_44
+C1552837|all|1214|B|bioinfo_2014-05_44
+C0079595|imaging|495|B|bioinfo_2014-05_44
+C0870705|information|846|B|bioinfo_2014-05_44
+C0851285|regulation|747|B|bioinfo_2014-05_44
+C0017262|gene expression|727|B|bioinfo_2014-05_44
+C1512022|PhD|779|B|bioinfo_2014-05_44
+C0684063|eukaryotes|581|B|bioinfo_2014-05_44

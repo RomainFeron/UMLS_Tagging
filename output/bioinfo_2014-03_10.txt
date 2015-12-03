@@ -1,0 +1,17 @@
+C0599807|Informatique|7|S|bioinfo_2014-03_10
+C0599807|Informatique|622|B|bioinfo_2014-03_10
+C0555903|Protein|697|B|bioinfo_2014-03_10
+C0033684|Protein|697|B|bioinfo_2014-03_10
+C1550557|and|716|B|bioinfo_2014-03_10
+C0041740|Université|121|B|bioinfo_2014-03_10
+C0021704|Intelligence|236|B|bioinfo_2014-03_10
+C1521746|Protein|697|B|bioinfo_2014-03_10
+C0687133|Interactions|720|B|bioinfo_2014-03_10
+C0013806|est|83|B|bioinfo_2014-03_10
+C0002045|Algorithms|682|B|bioinfo_2014-03_10
+C0202202|Protein|697|B|bioinfo_2014-03_10
+C1704241|Complexes|223|B|bioinfo_2014-03_10
+C1880157|Computational|668|B|bioinfo_2014-03_10
+C1516769|Computational|668|B|bioinfo_2014-03_10
+C0035168|Recherche|609|B|bioinfo_2014-03_10
+C0557061|discussions|746|B|bioinfo_2014-03_10

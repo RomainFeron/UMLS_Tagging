@@ -1,0 +1,6 @@
+C0678594|structures|20|S|bioinfo_2014-11_71
+C0678594|structures|112|B|bioinfo_2014-11_71
+C0337611|contact|219|B|bioinfo_2014-11_71
+C0332158|contact|219|B|bioinfo_2014-11_71
+C0678257|description|312|B|bioinfo_2014-11_71
+C0282111|www|61|B|bioinfo_2014-11_71

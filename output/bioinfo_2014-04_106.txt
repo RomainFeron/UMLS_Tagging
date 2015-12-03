@@ -1,0 +1,27 @@
+C0444649|master|1413|B|bioinfo_2014-04_106
+C1516627|Research Associate|2432|B|bioinfo_2014-04_106
+C1552456|Research|2432|B|bioinfo_2014-04_106
+C0025664|techniques|1529|B|bioinfo_2014-04_106
+C1548287|Research|2432|B|bioinfo_2014-04_106
+C0205419|variants|373|B|bioinfo_2014-04_106
+C0026219|mission|713|B|bioinfo_2014-04_106
+C0442504|place|734|B|bioinfo_2014-04_106
+C0456984|test|774|B|bioinfo_2014-04_106
+C0009219|Codage|1714|B|bioinfo_2014-04_106
+C0332149|possible|255|B|bioinfo_2014-04_106
+C0026605|motivation|1437|B|bioinfo_2014-04_106
+C0683625|cadre|38|B|bioinfo_2014-04_106
+C0750490|Associate|2441|B|bioinfo_2014-04_106
+C0591239|Cedex|2563|B|bioinfo_2014-04_106
+C0010341|critique|637|B|bioinfo_2014-04_106
+C1706221|Associate|2441|B|bioinfo_2014-04_106
+C0043227|Travail|1822|B|bioinfo_2014-04_106
+C1414864|Les|1102|B|bioinfo_2014-04_106
+C0236018|aura|703|B|bioinfo_2014-04_106
+C0024492|mail|2367|B|bioinfo_2014-04_106
+C0035168|Research|2432|B|bioinfo_2014-04_106
+C0242481|Research|2432|B|bioinfo_2014-04_106
+C0392366|test|774|B|bioinfo_2014-04_106
+C0444649|Master|1373|B|bioinfo_2014-04_106
+C0376554|Connaissance|1856|B|bioinfo_2014-04_106
+C0586917|Research Associate|2432|B|bioinfo_2014-04_106

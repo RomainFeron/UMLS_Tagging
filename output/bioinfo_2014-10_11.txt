@@ -1,0 +1,17 @@
+C0033268|productions|416|B|bioinfo_2014-10_11
+C0034036|publications|890|B|bioinfo_2014-10_11
+C0205419|variations|453|B|bioinfo_2014-10_11
+C0439849|Association|1634|B|bioinfo_2014-10_11
+C0010992|Analyse de données|3657|B|bioinfo_2014-10_11
+C0332464|Wide|1629|B|bioinfo_2014-10_11
+C0596306|Association|1634|B|bioinfo_2014-10_11
+C0013806|est|1389|B|bioinfo_2014-10_11
+C1704771|Association|1634|B|bioinfo_2014-10_11
+C0004083|Association|1634|B|bioinfo_2014-10_11
+C0403082|divers|1143|B|bioinfo_2014-10_11
+C1300072|stage|2714|B|bioinfo_2014-10_11
+C1704770|Association|1634|B|bioinfo_2014-10_11
+C0444649|Master|8|S|bioinfo_2014-10_11
+C0444649|Master|100|B|bioinfo_2014-10_11
+C0010843|cytosine|2622|B|bioinfo_2014-10_11
+C0871893|scripts|3751|B|bioinfo_2014-10_11

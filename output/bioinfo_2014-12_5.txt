@@ -1,0 +1,7 @@
+C0337611|contact|266|B|bioinfo_2014-12_5
+C1709061|Module|95|B|bioinfo_2014-12_5
+C0332158|contact|266|B|bioinfo_2014-12_5
+C1140694|Bioinformatique|364|B|bioinfo_2014-12_5
+C0678257|description|408|B|bioinfo_2014-12_5
+C0282111|www|61|B|bioinfo_2014-12_5
+C0205099|Centre|354|B|bioinfo_2014-12_5

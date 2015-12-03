@@ -1,0 +1,12 @@
+C0337611|contact|247|B|bioinfo_2014-03_39
+C0410539|CDD|183|B|bioinfo_2014-03_39
+C2698602|CDD|183|B|bioinfo_2014-03_39
+C0887950|Génomique|402|B|bioinfo_2014-03_39
+C0332158|contact|247|B|bioinfo_2014-03_39
+C0557854|Service|364|B|bioinfo_2014-03_39
+C2675746|CDD|183|B|bioinfo_2014-03_39
+C0678257|description|455|B|bioinfo_2014-03_39
+C0282111|www|63|B|bioinfo_2014-03_39
+C0017398|Génétique|375|B|bioinfo_2014-03_39
+C2825316|Service|364|B|bioinfo_2014-03_39
+C1413247|CDD|183|B|bioinfo_2014-03_39

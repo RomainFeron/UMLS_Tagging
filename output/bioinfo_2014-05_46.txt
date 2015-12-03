@@ -1,0 +1,9 @@
+C0185125|application|504|B|bioinfo_2014-05_46
+C0439634|formations|1868|B|bioinfo_2014-05_46
+C0010453|cultures|711|B|bioinfo_2014-05_46
+C0336789|combine|1066|B|bioinfo_2014-05_46
+C0005532|Biologie|2055|B|bioinfo_2014-05_46
+C0013806|est|938|B|bioinfo_2014-05_46
+C0205225|principal|257|B|bioinfo_2014-05_46
+C1512888|International|2103|B|bioinfo_2014-05_46
+C0401925|principal|257|B|bioinfo_2014-05_46

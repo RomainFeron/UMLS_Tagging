@@ -1,0 +1,9 @@
+C1306673|Stage|94|B|bioinfo_2014-09_70
+C0337611|contact|249|B|bioinfo_2014-09_70
+C0056182|CR1|274|B|bioinfo_2014-09_70
+C0332158|contact|249|B|bioinfo_2014-09_70
+C0678257|description|414|B|bioinfo_2014-09_70
+C1300072|Stage|94|B|bioinfo_2014-09_70
+C0282111|www|61|B|bioinfo_2014-09_70
+C1413694|CR1|274|B|bioinfo_2014-09_70
+C0205390|Stage|94|B|bioinfo_2014-09_70

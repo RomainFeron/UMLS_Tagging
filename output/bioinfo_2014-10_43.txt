@@ -1,0 +1,16 @@
+C0030705|patients|880|B|bioinfo_2014-10_43
+C0006826|Cancer|87|B|bioinfo_2014-10_43
+C2707253|Cancer|87|B|bioinfo_2014-10_43
+C0018684|Health|33|B|bioinfo_2014-10_43
+C0332287|Plus|1167|B|bioinfo_2014-10_43
+C0869014|relation|824|B|bioinfo_2014-10_43
+C1552427|Health|33|B|bioinfo_2014-10_43
+C1306459|Cancer|87|B|bioinfo_2014-10_43
+C0013806|est|453|B|bioinfo_2014-10_43
+C1547140|Cancer|87|B|bioinfo_2014-10_43
+C1140694|Bioinformatique|187|B|bioinfo_2014-10_43
+C0998265|Cancer|87|B|bioinfo_2014-10_43
+C0037633|solutions|967|B|bioinfo_2014-10_43
+C0039421|technologies|918|B|bioinfo_2014-10_43
+C0016674|France|1083|B|bioinfo_2014-10_43
+C1555909|Health|33|B|bioinfo_2014-10_43

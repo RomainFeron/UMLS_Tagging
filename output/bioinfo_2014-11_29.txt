@@ -1,0 +1,21 @@
+C0470187|available|268|B|bioinfo_2014-11_29
+C1550557|and|88|S|bioinfo_2014-11_29
+C1550557|and|116|B|bioinfo_2014-11_29
+C0205460|biological|51|S|bioinfo_2014-11_29
+C0000934|adaptation|62|S|bioinfo_2014-11_29
+C0005532|biology|108|B|bioinfo_2014-11_29
+C0442504|place|154|B|bioinfo_2014-11_29
+C0037455|society|84|B|bioinfo_2014-11_29
+C0556656|meeting|28|S|bioinfo_2014-11_29
+C0556656|meeting|69|B|bioinfo_2014-11_29
+C0340978|May|101|S|bioinfo_2014-11_29
+C0001398|biological adaptation|51|S|bioinfo_2014-11_29
+C0332221|satellite|59|B|bioinfo_2014-11_29
+C0026376|molecular biology|98|B|bioinfo_2014-11_29
+C1300196|organizing|391|B|bioinfo_2014-11_29
+C0392673|adaptation|62|S|bioinfo_2014-11_29
+C0562518|village|200|B|bioinfo_2014-11_29
+C0332221|Satellite|18|S|bioinfo_2014-11_29
+C0015219|evolution|120|B|bioinfo_2014-11_29
+C1551058|are|264|B|bioinfo_2014-11_29
+C0679105|pleasure|31|B|bioinfo_2014-11_29

@@ -1,0 +1,14 @@
+C0336808|tram|364|B|bioinfo_2014-02_41
+C0013806|est|544|B|bioinfo_2014-02_41
+C0524865|reconstructions|658|B|bioinfo_2014-02_41
+C0220781|formation|280|B|bioinfo_2014-02_41
+C0236018|aura|190|B|bioinfo_2014-02_41
+C0439634|formation|280|B|bioinfo_2014-02_41
+C0679646|participants|761|B|bioinfo_2014-02_41
+C0679823|participation|1322|B|bioinfo_2014-02_41
+C0014442|enzymes|1243|B|bioinfo_2014-02_41
+C0678594|structure|9|B|bioinfo_2014-02_41
+C0014445|enzymes|1243|B|bioinfo_2014-02_41
+C0524865|reconstruction|31|S|bioinfo_2014-02_41
+C0524865|reconstruction|146|B|bioinfo_2014-02_41
+C0557061|discussions|739|B|bioinfo_2014-02_41

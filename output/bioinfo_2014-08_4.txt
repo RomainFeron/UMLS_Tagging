@@ -1,0 +1,12 @@
+C0887950|genomics|28|S|bioinfo_2014-08_4
+C0887950|genomics|147|B|bioinfo_2014-08_4
+C1550557|and|156|B|bioinfo_2014-08_4
+C0337611|contact|267|B|bioinfo_2014-08_4
+C0936012|Analysing|120|B|bioinfo_2014-08_4
+C0023973|London|248|B|bioinfo_2014-08_4
+C0332158|contact|267|B|bioinfo_2014-08_4
+C0549177|large|11|S|bioinfo_2014-08_4
+C0549177|large|130|B|bioinfo_2014-08_4
+C0678257|description|383|B|bioinfo_2014-08_4
+C0282111|www|87|B|bioinfo_2014-08_4
+C0041740|University|353|B|bioinfo_2014-08_4

@@ -1,0 +1,14 @@
+C0439634|formations|61|B|bioinfo_2014-11_26
+C1158830|Initiation|378|B|bioinfo_2014-11_26
+C0442504|places|40|B|bioinfo_2014-11_26
+C0699792|association|208|B|bioinfo_2014-11_26
+C1704686|Initiation|378|B|bioinfo_2014-11_26
+C0005532|Biologie|185|B|bioinfo_2014-11_26
+C0205345|relative|809|B|bioinfo_2014-11_26
+C0005544|Biométrie|172|B|bioinfo_2014-11_26
+C1414864|Les|320|B|bioinfo_2014-11_26
+C1533716|information|797|B|bioinfo_2014-11_26
+C0589507|Initiation|378|B|bioinfo_2014-11_26
+C0080103|relative|809|B|bioinfo_2014-11_26
+C0004083|association|208|B|bioinfo_2014-11_26
+C0870705|information|797|B|bioinfo_2014-11_26

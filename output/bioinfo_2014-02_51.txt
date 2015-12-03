@@ -1,0 +1,19 @@
+C0599807|Informatique|1760|B|bioinfo_2014-02_51
+C1306673|Stage|9|S|bioinfo_2014-02_51
+C1306673|Stage|17|B|bioinfo_2014-02_51
+C0079220|destination|1292|B|bioinfo_2014-02_51
+C0337611|contact|2424|B|bioinfo_2014-02_51
+C0041740|Université|1365|B|bioinfo_2014-02_51
+C0026219|mission|736|B|bioinfo_2014-02_51
+C0442504|place|1248|B|bioinfo_2014-02_51
+C0332158|contact|2424|B|bioinfo_2014-02_51
+C0013806|est|1027|B|bioinfo_2014-02_51
+C0236018|aura|924|B|bioinfo_2014-02_51
+C1300072|Stage|9|S|bioinfo_2014-02_51
+C1300072|Stage|17|B|bioinfo_2014-02_51
+C0441777|Stage 5|17|B|bioinfo_2014-02_51
+C0205390|Stage|9|S|bioinfo_2014-02_51
+C0205390|Stage|17|B|bioinfo_2014-02_51
+C0035168|Recherche|631|B|bioinfo_2014-02_51
+C0022877|Laboratoires|94|B|bioinfo_2014-02_51
+C0282116|collaboration|874|B|bioinfo_2014-02_51

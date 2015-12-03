@@ -1,0 +1,12 @@
+C0337611|contact|270|B|bioinfo_2014-03_63
+C0007996|Chimie|367|B|bioinfo_2014-03_63
+C0031727|kinases|64|S|bioinfo_2014-03_63
+C0031727|kinases|151|B|bioinfo_2014-03_63
+C0332158|contact|270|B|bioinfo_2014-03_63
+C0443220|flexible|107|S|bioinfo_2014-03_63
+C0443220|flexible|191|B|bioinfo_2014-03_63
+C0678257|description|407|B|bioinfo_2014-03_63
+C0282111|www|61|B|bioinfo_2014-03_63
+C0442632|docking|99|S|bioinfo_2014-03_63
+C0442632|docking|183|B|bioinfo_2014-03_63
+C0998464|Samia|280|B|bioinfo_2014-03_63

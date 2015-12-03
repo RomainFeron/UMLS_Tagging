@@ -1,0 +1,16 @@
+C2097386|mouse|23|B|bioinfo_2014-05_23
+C1550557|and|59|B|bioinfo_2014-05_23
+C0337611|contact|391|B|bioinfo_2014-05_23
+C0025914|mouse|23|B|bioinfo_2014-05_23
+C0025929|mouse|23|B|bioinfo_2014-05_23
+C0026336|model|29|B|bioinfo_2014-05_23
+C0005532|Biologie|477|B|bioinfo_2014-05_23
+C0332158|contact|391|B|bioinfo_2014-05_23
+C1524024|analysis|217|B|bioinfo_2014-05_23
+C0026809|mouse|23|B|bioinfo_2014-05_23
+C0205195|combined|38|B|bioinfo_2014-05_23
+C0678257|description|528|B|bioinfo_2014-05_23
+C0282111|www|147|B|bioinfo_2014-05_23
+C0733755|position|14|S|bioinfo_2014-05_23
+C0733755|position|194|B|bioinfo_2014-05_23
+C0936012|analysis|217|B|bioinfo_2014-05_23

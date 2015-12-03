@@ -1,0 +1,9 @@
+C0337611|contact|276|B|bioinfo_2014-12_25
+C0041740|Université|386|B|bioinfo_2014-12_25
+C2717898|Biostatistiques|5|S|bioinfo_2014-12_25
+C2717898|Biostatistiques|97|B|bioinfo_2014-12_25
+C0250759|MAP5|380|B|bioinfo_2014-12_25
+C0332158|contact|276|B|bioinfo_2014-12_25
+C0678257|description|422|B|bioinfo_2014-12_25
+C0282111|www|61|B|bioinfo_2014-12_25
+C1417004|MAP5|380|B|bioinfo_2014-12_25

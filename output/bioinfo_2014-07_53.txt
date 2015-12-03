@@ -1,0 +1,14 @@
+C0314603|Genetic|138|B|bioinfo_2014-07_53
+C1550557|and|8|S|bioinfo_2014-07_53
+C1550557|and|146|B|bioinfo_2014-07_53
+C0337611|contact|302|B|bioinfo_2014-07_53
+C0008532|Christian|312|B|bioinfo_2014-07_53
+C0031842|Physiologie|382|B|bioinfo_2014-07_53
+C0332158|contact|302|B|bioinfo_2014-07_53
+C0086345|Génétique moléculaire|397|B|bioinfo_2014-07_53
+C0003737|architecture|6|B|bioinfo_2014-07_53
+C0678257|description|440|B|bioinfo_2014-07_53
+C0282111|www|105|B|bioinfo_2014-07_53
+C0017398|Génétique|397|B|bioinfo_2014-07_53
+C0344346|Christian|312|B|bioinfo_2014-07_53
+C0524824|Brassicaceae|22|B|bioinfo_2014-07_53

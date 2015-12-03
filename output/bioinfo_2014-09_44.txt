@@ -1,0 +1,29 @@
+C0003826|Arts|327|B|bioinfo_2014-09_44
+C1556012|School|317|B|bioinfo_2014-09_44
+C0036375|School|317|B|bioinfo_2014-09_44
+C0337611|contact|230|B|bioinfo_2014-09_44
+C0410539|CDD|176|B|bioinfo_2014-09_44
+C2698602|CDD|176|B|bioinfo_2014-09_44
+C1617581|School|317|B|bioinfo_2014-09_44
+C0596070|American|355|B|bioinfo_2014-09_44
+C0332158|contact|230|B|bioinfo_2014-09_44
+C1555917|School|317|B|bioinfo_2014-09_44
+C1618606|School|317|B|bioinfo_2014-09_44
+C2675746|CDD|176|B|bioinfo_2014-09_44
+C0678257|description|384|B|bioinfo_2014-09_44
+C0282111|www|61|B|bioinfo_2014-09_44
+C0376528|Computational Biology|20|S|bioinfo_2014-09_44
+C0376528|Computational Biology|114|B|bioinfo_2014-09_44
+C0036397|Sciences|336|B|bioinfo_2014-09_44
+C1880157|Computational|20|S|bioinfo_2014-09_44
+C1880157|Computational|114|B|bioinfo_2014-09_44
+C1516769|Computational|20|S|bioinfo_2014-09_44
+C1516769|Computational|114|B|bioinfo_2014-09_44
+C1552255|School|317|B|bioinfo_2014-09_44
+C0599518|Professor|9|S|bioinfo_2014-09_44
+C0599518|Professor|103|B|bioinfo_2014-09_44
+C1553356|Lebanese|346|B|bioinfo_2014-09_44
+C1552273|School|317|B|bioinfo_2014-09_44
+C0005532|Biology|34|S|bioinfo_2014-09_44
+C0005532|Biology|128|B|bioinfo_2014-09_44
+C1413247|CDD|176|B|bioinfo_2014-09_44

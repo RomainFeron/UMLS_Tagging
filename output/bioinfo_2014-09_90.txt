@@ -1,0 +1,7 @@
+C1537578|LIPM|407|B|bioinfo_2014-09_90
+C0337611|contact|315|B|bioinfo_2014-09_90
+C0332158|contact|315|B|bioinfo_2014-09_90
+C0678257|description|427|B|bioinfo_2014-09_90
+C0282111|www|61|B|bioinfo_2014-09_90
+C0524865|reconstruction|91|S|bioinfo_2014-09_90
+C0524865|reconstruction|175|B|bioinfo_2014-09_90

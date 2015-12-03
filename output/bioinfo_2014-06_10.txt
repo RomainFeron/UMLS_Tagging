@@ -1,0 +1,9 @@
+C0444649|master|146|B|bioinfo_2014-06_10
+C0041740|Université|92|B|bioinfo_2014-06_10
+C0013806|est|153|B|bioinfo_2014-06_10
+C1140694|Bioinformatique|7|S|bioinfo_2014-06_10
+C0220781|formation|354|B|bioinfo_2014-06_10
+C1533716|informations|701|B|bioinfo_2014-06_10
+C0439634|formation|354|B|bioinfo_2014-06_10
+C0036397|sciences|580|B|bioinfo_2014-06_10
+C0444649|Master|25|B|bioinfo_2014-06_10

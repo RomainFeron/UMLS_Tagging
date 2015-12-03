@@ -1,0 +1,26 @@
+C0332522|contract|448|B|bioinfo_2014-04_63
+C0010992|Data Analysis|607|B|bioinfo_2014-04_63
+C0022877|Laboratory|593|B|bioinfo_2014-04_63
+C1550557|and|38|B|bioinfo_2014-04_63
+C0337611|contact|509|B|bioinfo_2014-04_63
+C0577559|mass|263|B|bioinfo_2014-04_63
+C1571737|Laboratory|593|B|bioinfo_2014-04_63
+C0002045|algorithms|27|B|bioinfo_2014-04_63
+C1697786|Laboratory|593|B|bioinfo_2014-04_63
+C2598148|Laboratory|593|B|bioinfo_2014-04_63
+C0037585|software|42|B|bioinfo_2014-04_63
+C2136992|mass|263|B|bioinfo_2014-04_63
+C0332158|contact|509|B|bioinfo_2014-04_63
+C0235048|Smart|625|B|bioinfo_2014-04_63
+C0936012|Analysis|612|B|bioinfo_2014-04_63
+C0678257|description|647|B|bioinfo_2014-04_63
+C0282111|www|190|B|bioinfo_2014-04_63
+C1548281|contract|448|B|bioinfo_2014-04_63
+C1306372|mass|263|B|bioinfo_2014-04_63
+C0002778|Analysis|612|B|bioinfo_2014-04_63
+C0733755|position|14|S|bioinfo_2014-04_63
+C0733755|position|237|B|bioinfo_2014-04_63
+C0022885|Laboratory|593|B|bioinfo_2014-04_63
+C0678594|structure|89|B|bioinfo_2014-04_63
+C1511726|Data|607|B|bioinfo_2014-04_63
+C1548427|Laboratory|593|B|bioinfo_2014-04_63

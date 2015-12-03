@@ -1,0 +1,8 @@
+C0331980|Sanofi|294|B|bioinfo_2014-01_25
+C0337611|contact|220|B|bioinfo_2014-01_25
+C0332158|contact|220|B|bioinfo_2014-01_25
+C0009637|Conception|94|B|bioinfo_2014-01_25
+C0678257|description|318|B|bioinfo_2014-01_25
+C0282111|www|61|B|bioinfo_2014-01_25
+C0599748|MS/MS|45|S|bioinfo_2014-01_25
+C0599748|MS/MS|129|B|bioinfo_2014-01_25

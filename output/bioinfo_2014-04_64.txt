@@ -1,0 +1,17 @@
+C1332745|CEA|308|B|bioinfo_2014-04_64
+C1550557|and|340|B|bioinfo_2014-04_64
+C0337611|contact|234|B|bioinfo_2014-04_64
+C1418994|CEA|308|B|bioinfo_2014-04_64
+C0005532|biology|332|B|bioinfo_2014-04_64
+C0332158|contact|234|B|bioinfo_2014-04_64
+C0034558|and radiobiology|340|B|bioinfo_2014-04_64
+C1706545|CEA|308|B|bioinfo_2014-04_64
+C0678257|description|377|B|bioinfo_2014-04_64
+C0282111|www|62|B|bioinfo_2014-04_64
+C0007082|CEA|308|B|bioinfo_2014-04_64
+C1332744|CEA|308|B|bioinfo_2014-04_64
+C0034558|radiobiology|344|B|bioinfo_2014-04_64
+C0733755|position|14|S|bioinfo_2014-04_64
+C0733755|position|109|B|bioinfo_2014-04_64
+C0678594|Structural|26|S|bioinfo_2014-04_64
+C0678594|Structural|121|B|bioinfo_2014-04_64

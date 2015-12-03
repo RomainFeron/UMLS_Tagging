@@ -1,0 +1,14 @@
+C1272753|Institute|307|B|bioinfo_2014-11_84
+C0023185|learning|8|S|bioinfo_2014-11_84
+C0023185|learning|102|B|bioinfo_2014-11_84
+C0337611|contact|223|B|bioinfo_2014-11_84
+C0205460|biological|37|S|bioinfo_2014-11_84
+C0205460|biological|131|B|bioinfo_2014-11_84
+C0332158|contact|223|B|bioinfo_2014-11_84
+C0678257|description|351|B|bioinfo_2014-11_84
+C0282111|www|61|B|bioinfo_2014-11_84
+C1880157|Computational|320|B|bioinfo_2014-11_84
+C1516769|Computational|320|B|bioinfo_2014-11_84
+C0013621|learning|8|S|bioinfo_2014-11_84
+C0013621|learning|102|B|bioinfo_2014-11_84
+C0336779|Machine|94|B|bioinfo_2014-11_84

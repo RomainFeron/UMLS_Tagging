@@ -1,0 +1,17 @@
+C0017398|Genetics|8|S|bioinfo_2014-02_46
+C0017398|Genetics|67|B|bioinfo_2014-02_46
+C0205435|1st|264|B|bioinfo_2014-02_46
+C1550557|and|17|S|bioinfo_2014-02_46
+C1550557|and|76|B|bioinfo_2014-02_46
+C1553384|registration|233|B|bioinfo_2014-02_46
+C0086047|conference|47|B|bioinfo_2014-02_46
+C0039021|Switzerland|173|B|bioinfo_2014-02_46
+C0444868|all|8|B|bioinfo_2014-02_46
+C0340978|May|124|B|bioinfo_2014-02_46
+C1552816|all|8|B|bioinfo_2014-02_46
+C0015219|Evolution|21|S|bioinfo_2014-02_46
+C0015219|Evolution|80|B|bioinfo_2014-02_46
+C0543488|interested|29|B|bioinfo_2014-02_46
+C1552529|Genetics|8|S|bioinfo_2014-02_46
+C1552529|Genetics|67|B|bioinfo_2014-02_46
+C1552837|all|8|B|bioinfo_2014-02_46
