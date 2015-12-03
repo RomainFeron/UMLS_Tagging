@@ -1,3 +1,0 @@
-C00001|./cp_docs/bioinfo_2014-03/26.recoded.eval, ./cp_docs/bioinfo_2014-03/66.recoded.eval
-C00002|./cp_docs/bioinfo_2014-03/25.recoded.eval, ./cp_docs/bioinfo_2014-03/16.recoded.eval, ./cp_docs/bioinfo_2014-06/13.recoded.eval
-C00003|./cp_docs/bioinfo_2014-06/3.recoded.eval
