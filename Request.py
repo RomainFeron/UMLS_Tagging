@@ -1,47 +1,51 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import re
 
-def findEntrie(thesaurus, email, output):
-    TH = open(thesaurus,'r',encoding = 'utf-8')
-    print ('reading thesaurus...')
-    out = open (output, 'w', encoding = 'utf-8')
-    sp= ' '
-    dico_clef = {}
-    for line in TH:
-        # Vérifie si line n'est pas vide
-        if line.strip()!="":
-        # line = line[:-1]
-            clef = line.split('|')[0]
-            mail = open (email, 'r',encoding = 'utf-8' )
-            #Comteur du nombre de ligne dans mon mail
-            # nbreligne=1
-            # rep=0
-            dict_ligne = {} # stockage de mes lignes dans le mail
-            for ligne in mail:
-                mypos = ligne.find(clef)
-                if ligne.strip()!=0:
-                    if clef in ligne and ligne[mypos-1] == sp :
-                        # print (clef)
-                        if True:
-                            listemot=ligne.split(clef)
-                            bef = listemot[0].split()
-                            aft = listemot[1].split()
-                            len_b = len(bef)
-                            len_a = len(aft)
-                            wb = bef[len_b -1]
-                            wa = aft[len_a -1]
-                            print ('la clef --', clef)
-                            print ('mot avant = ', wb)
-                            print ('la position est', mypos )
-                            print ('mot après = ', wa)
-                            print (' line in Thesaurus = ', line)
-                            nbr=len(ligne.split(clef))-1
-                            out.write (' Entrée trouvée dans le mail --->' +'\t'+ clef +'\n'+ ' Position = ' + str(mypos) + 'th character' +'\n'+ ' Line in Thesaurus = ' + line + 'Context dans le mail : ' + '\t' +  wb +sp+clef+sp+  wa + '\n'+'-------------------' + '\n')
 
-    out.close()
-email = 'ressources/mails/bioinfo_2014-01/58.recoded'
-# 'bodymail_test.txt'
-thesaurus = 'ressources/FormattedThesaurus.RRF'
-output = 'sortie.txt'
-test = findEntrie(thesaurus, email, output)
+# Verifie que l'entrée du thésaurus est bien un mot en comparant les
+# caractères à gauche et à droite du match à une liste de termes OK
+def verifyEntryIsWord(clef, text, pos):
+    okChar = [' ', '.', ',', ';', ':', '-']
+    if clef in text:
+        if pos - 1 > 0 and pos + len(clef) + 1 <= len(text):
+            if text[pos - 1] == " " and text[pos + len(clef)] in okChar:
+                return(True)
+    return(False)
+
+
+# Renvoie la position d'un match de l'entrée du thésaurus (-1 si pas de match)
+def findEntryInText(clef, text):
+    # Vérifie si la ligne de l'email n'est pas vide
+    if text.strip() != "":
+        positionClef = text.find(clef)
+        #
+        if verifyEntryIsWord(clef, text, positionClef):
+            return(positionClef)
+    return(-1)
+
+
+# Ecrit le résultat dans le fichier output
+def output(output_file, clef, pos, CUI, mail, mailPart):
+    op = CUI + '|' + clef + '|' + str(pos) + '|' + mailPart + '|' + mail
+    output_file.write(op + '\n')
+
+
+# Cherche les entrées du thésaurus dans un mail
+def findEntries(thesaurus, mail, oPath):
+    # Output file dans dossier oPath: nom de l'email .txt
+    outFilePath = oPath + '/' + mail.title + '.txt'
+    with open(outFilePath, 'w', encoding='utf-8') as ofile:
+        subject = mail.subject
+        body = mail.body
+        for line in thesaurus:
+            # Vérifie que la ligne du thésaurus n'est pas vide
+            if line.strip() != "":
+                clef = line.split('|')[0]
+                CUI = line.split('|')[1].strip('\n')
+                # Trouve position du match dans l'email (-1 si non match)
+                subject_pos = findEntryInText(clef, subject)  # Dans le sujet
+                if (subject_pos != -1):
+                    output(ofile, clef, subject_pos, CUI, mail.title, 'S')
+                body_pos = findEntryInText(clef, body)  # Dans le body
+                if (body_pos != -1):
+                    output(ofile, clef, body_pos, CUI, mail.title, 'B')
