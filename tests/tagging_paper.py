@@ -2,27 +2,21 @@
 # -*- coding: utf-8 -*-
 
 import os
-from class_Mail import Mail
-
-
 
 # Global variables
 ressourcesPath = 'ressources'
 # Path to base thesaurus file
-originalThesaurusPath = os.path.join(ressourcesPath,'MRCONSO_2011AA.RRF')
+originalThesaurusPath = os.path.join(ressourcesPath, 'MRCONSO_2011AA.RRF')
 # Path to formatted thesaurus file
-formattedThesaurusPath = os.path.join(ressourcesPath,'FormattedThesaurus.RRF')
-# Path to email files
-mailsPath = os.path.join(ressourcesPath,'mails')
+formattedThesaurusPath = os.path.join(ressourcesPath, 'FormattedThesaurus.RRF')
 # Path to output folder
 outputPath = 'output'
 tSizeHardcore = 6044285  # Expected number of lines in the formatted file
 tSize = 6046983  # Use this for Thesaurus with words of length 2
-hardcordeMode = True # Use this if you don't want words of length 2
+hardcordeMode = True  # Use this if you don't want words of length 2
 
 # Setting working directory to path of current file
 os.path.dirname(os.path.abspath(__file__))
-
 
 f = open(formattedThesaurusPath, encoding='utf-8')
 thesaurus = list(f)
@@ -54,12 +48,11 @@ def output(output_file, clef, pos, CUI):
 
 def findEntries(thesaurus, oPath):
     outFilePath = 'mailtest.txt'
-    with open(outFilePath,'w', encoding='utf-8') as ofile:
-        subject = 'Nothign'
-        temp = open('paper.txt','r',encoding='utf-8')
+    with open(outFilePath, 'w', encoding='utf-8') as ofile:
+        temp = open('paper.txt', 'r', encoding='utf-8')
         body = ''
         for line in temp:
-            body+=line
+            body += line
         for line in thesaurus:
             if line.strip() != "":
                 clef = line.split('|')[0]
@@ -69,5 +62,4 @@ def findEntries(thesaurus, oPath):
                     output(ofile, clef, subject_pos, CUI)
 
 
-findEntries(thesaurus,'test.txt')
-
+findEntries(thesaurus, 'test.txt')

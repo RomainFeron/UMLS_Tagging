@@ -5,7 +5,7 @@ os.path.dirname(os.path.abspath(__file__))
 # Global variables
 ressourcesPath = 'ressources'
 # Path to eval files
-evalPath = os.path.join(ressourcesPath,'eval','cp_docs')
+evalPath = os.path.join(ressourcesPath, 'eval', 'cp_docs')
 # Path to output folder
 outputPath = 'output'
 
@@ -15,7 +15,7 @@ auto = {}
 for root, dirs, files in os.walk('eval\\cp_docs', topdown=False):
     for f in files:
         temp = os.path.join(root, f)
-        if len(temp.split('.')) >2:
+        if len(temp.split('.')) > 2:
             temp2 = temp.split('\\')[2] + '_' + temp.split('\\')[3].strip('.recoded.eval')
             doc = open(os.path.join(root, f), 'r', encoding='utf-8')
             cuis = []
@@ -57,7 +57,7 @@ print(shared)
 print(onlyAuto)
 print(onlyManual)
 
-outputfile = open('baa.txt', 'w',encoding='utf-8')
+outputfile = open('baa.txt', 'w', encoding='utf-8')
 for key in shared:
     outputfile.write(key + ',' + str(shared[key]) + ',' + str(onlyAuto[key], ) + ',' + str(onlyManual[key]) + '\n')
 
