@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
+fh = open('list_cui_process.txt')
+for line in fh:
+    print 

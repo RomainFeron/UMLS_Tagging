@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-
+import re
 
 #path to target files
 path_ref = './cp_docs'
@@ -10,7 +10,9 @@ path_process = '../output'
 #outputs names
 output_file_ref = 'list_cui_ref.txt'
 output_file_process = 'list_cui_process.txt'
-
+#filetypes
+filetype_ref = 'eval'
+filetype_process = 'txt'
 
 def list_files (path, filetype):
     """
@@ -63,7 +65,8 @@ def write_file_process(list_cui, output_file):
     """
     output = open(output_file, 'w', encoding='utf-8')
     for line in list_cui:
-        line = str(line.strip('\n'))
+        #line = str(line.strip('\n'))
+        line = line.strip('\n')
         tab_string = line.split('|')
         #print(len(tab_string))
         cui = tab_string[0]
@@ -78,46 +81,77 @@ def write_file_process(list_cui, output_file):
 
 #list target files
 print('\nListing reference files')
-list_file_ref = list_files(path_ref,'eval')
+list_file_ref = list_files(path_ref,filetype_ref)
+#print('Number of files: ' + str(len(list_file_ref)))
 #print(list_file_ref)
 
 print('\nListing processed files')
-list_file_process = list_files(path_process,'txt')
+list_file_process = list_files(path_process,filetype_process)
+#print('Number of files: ' + str(len(list_file_process)))
 #print(list_file_process)
 
 
 #inverted list of cui references 
 list_cui_ref = {}
 list_cui_ref = extract_cui(list_file_ref)
-# print(list_cui_ref)
+#print(list_cui_ref)
+
+
 write_file_ref(list_cui_ref, output_file_ref)
 print('\nInverted ref CUI file generated: ', output_file_ref)
+
 
 #inverted list of cui process
 list_cui_process = {}
 list_cui_process = extract_cui(list_file_process)
-
 #print(list_cui_process)
+
 write_file_process(list_cui_process, output_file_process)
 print('\nInverted processed CUI file generated: ', output_file_process)
 
 print('\n\nNext step : compute recall and precision with comp_cui')
 
 
-"""
-fh = open(path,'r',encoding='utf-8')
-for line in fh:
-    tab_string = line.split('|')
-    cui = tab_string[0]
-    file = tab_string[4]
-    
-    
-    if line in list_cui:
-        list_cui[line].append(file)
-    else:
-        list_cui[line] = [file]
+
+nb_unik_cui_ref = 0
+nb_cui_ref = 0
+
+for key in list_cui_ref:
+    nb_unik_cui_ref +=1
+    for value in list_cui_ref[key]:
+        nb_cui_ref +=1
+
+print("Number of unique CUI in ref: ", nb_unik_cui_ref)
+print("Number of CUI in ref: ", nb_cui_ref)
 
 
-print("Liste des CUIs et leurs sources")
-print(list_cui)
+
+print(len(set(list_cui_process)))
+
+
+
 """
+Marked processed files 
+"""
+
+
+
+#print(type(list_file_ref))
+
+list_marked_files = []
+for e in list_file_ref:
+    tmp = e.replace('./cp_docs','../output')
+    tmp = tmp.replace('.recoded.eval','')
+    tmp = tmp.replace('~','')
+    tab = tmp.split('/')
+#    str = tab[0] + '/' + tab[1] + '/' + tab[2] + '_' tab[3]
+    str = tab[0] + '/' +tab[1] + '/' + tab[2] + '_' + tab[3] + '.txt'
+    list_marked_files.append(str)
+
+output_file_process_marked = 'list_cui_process_marked.txt'
+
+list_cui_process_marked = extract_cui(list_marked_files)
+
+write_file_process(list_cui_process_marked, output_file_process_marked)
+
+
