@@ -17,8 +17,10 @@ class Mail(object):
 
     def __init__(self, f):
         folders = f.split(os.sep)
-        self.title = folders[len(folders)-2] + '_' + folders[len(folders)-1].strip('.recoded')
-        print(self.title)
+        # Recompose le nom de l'email sous la forme :
+        # Folder_email (ex : bioinfo_2014-01_1)
+        self.title = folders[len(folders)-2]
+        self.title += '_' + folders[len(folders)-1].strip('.recoded')
         self.subject = ''
         self.body = ''
         self.date = ''
