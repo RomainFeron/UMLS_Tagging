@@ -15,23 +15,26 @@ auto = {}
 for root, dirs, files in os.walk('eval\\cp_docs', topdown=False):
     for f in files:
         temp = os.path.join(root, f)
-        temp2 = temp.split('\\')[2] + '_' + temp.split('\\')[3].strip('.recoded.eval')
-        doc = open(os.path.join(root, f), 'r')
-        cuis = []
-        for line in doc:
-            cuis.append(line.strip('\n'))
-        manual[temp2] = cuis
+        if len(temp.split('.')) >2:
+            temp2 = temp.split('\\')[2] + '_' + temp.split('\\')[3].strip('.recoded.eval')
+            doc = open(os.path.join(root, f), 'r', encoding='utf-8')
+            cuis = []
+            for line in doc:
+                cuis.append(line.strip('\n'))
+            manual[temp2] = cuis
 
 for root, dirs, files in os.walk('output', topdown=False):
     for f in files:
         temp = os.path.join(root, f)
         temp2 = temp.split('\\')[1].strip('.txt')
-        doc = open(os.path.join(root, f), 'r')
+        doc = open(os.path.join(root, f), 'r', encoding='utf-8')
         cuis = []
         for line in doc:
             lala = line.split('|')
             cuis.append(lala[0])
         auto[temp2] = cuis
+
+print(manual)
 
 shared = {}
 onlyManual = {}
@@ -54,7 +57,7 @@ print(shared)
 print(onlyAuto)
 print(onlyManual)
 
-outputfile = open('baa.txt', 'w')
+outputfile = open('baa.txt', 'w',encoding='utf-8')
 for key in shared:
-    outputfile.write(key + ',' + str(shared[key]) + ',' + str(onlyAuto[key]) + ',' + str(onlyManual[key]) + '\n')
+    outputfile.write(key + ',' + str(shared[key]) + ',' + str(onlyAuto[key], ) + ',' + str(onlyManual[key]) + '\n')
 
